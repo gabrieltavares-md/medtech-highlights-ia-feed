@@ -7,6 +7,15 @@
   },
   "episodes": [
     {
+      "guid": "episode-2026-05-13",
+      "date": "2026-05-13",
+      "title": "Por que o achismo vence a tecnologia",
+      "duration_seconds": 1325,
+      "size_bytes": 42643712,
+      "enclosure_url": "https://pub-b4194e8fac8d4332a041634bfe2178cf.r2.dev/highlights-ia-2026-05-13-podcast.m4a",
+      "object_key": "highlights-ia-2026-05-13-podcast.m4a"
+    },
+    {
       "guid": "episode-2026-05-19",
       "date": "2026-05-19",
       "title": "Highlights IA — 19 de maio de 2026",
