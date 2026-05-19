@@ -7,6 +7,15 @@
   },
   "episodes": [
     {
+      "guid": "episode-2026-05-15",
+      "date": "2026-05-15",
+      "title": "Por que bilhões em IA viram poeira",
+      "duration_seconds": 1254,
+      "size_bytes": 40358456,
+      "enclosure_url": "https://pub-b4194e8fac8d4332a041634bfe2178cf.r2.dev/highlights-ia-2026-05-15-podcast.m4a",
+      "object_key": "highlights-ia-2026-05-15-podcast.m4a"
+    },
+    {
       "guid": "episode-2026-05-14",
       "date": "2026-05-14",
       "title": "Como o viés indutivo molda a IA",
