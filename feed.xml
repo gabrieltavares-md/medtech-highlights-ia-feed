@@ -31,20 +31,6 @@
     <googleplay:image href="https://docgabtxsmed.github.io/medtech-highlights-ia-feed/cover.png"/>
     <googleplay:category text="Technology"/>
     <googleplay:explicit>no</googleplay:explicit>
-    <item>
-      <title>Highlights IA — 19 de maio de 2026</title>
-      <description><![CDATA[Episódio piloto. 6 destaques: Google I/O 2026 com nova geração do Gemini; estudo de Harvard/BIDMC mostrando o1 superando médicos em raciocínio clínico em emergência (Science); OpenAI lança GPT-5.5 Instant com 52,5% menos alucinações em medicina/direito/finanças; Anthropic expande Claude para empresas (Small Business + parceria PwC); LangGraph 1.2 consolidando produção de agentes; NVIDIA Nemotron 3 Nano Omni para agentes multimodais em edge. Áudio gerado com NotebookLM (Google).]]></description>
-      <link>https://docgabtxsmed.github.io/medtech-highlights-ia-feed/episodes/2026-05-19</link>
-      <guid isPermaLink="false">episode-2026-05-19</guid>
-      <pubDate>Tue, 19 May 2026 10:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/Docgabtxsmed/medtech-highlights-ia-feed/releases/download/episode-2026-05-19/highlights-ia-2026-05-19-podcast.m4a" length="16756112" type="audio/mp4"/>
-      <itunes:author>Gabriel Tavares</itunes:author>
-      <itunes:duration>17:15</itunes:duration>
-      <itunes:summary><![CDATA[Episódio piloto. 6 destaques: Google I/O 2026 com nova geração do Gemini; estudo de Harvard/BIDMC mostrando o1 superando médicos em raciocínio clínico em emergência (Science); OpenAI lança GPT-5.5 Instant com 52,5% menos alucinações em medicina/direito/finanças; Anthropic expande Claude para empresas (Small Business + parceria PwC); LangGraph 1.2 consolidando produção de agentes; NVIDIA Nemotron 3 Nano Omni para agentes multimodais em edge. Áudio gerado com NotebookLM (Google).]]></itunes:summary>
-      <itunes:image href="https://docgabtxsmed.github.io/medtech-highlights-ia-feed/cover.png"/>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
     <!-- ITEMS_INSERT_HERE -->
   </channel>
 </rss>
