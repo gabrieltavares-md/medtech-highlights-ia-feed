@@ -115,6 +115,20 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
+    <item>
+      <title>O lucro real da IA corporativa</title>
+      <description><![CDATA[O panorama da IA — diferença entre IA Preditiva (eficiência) e IA Generativa (produtividade), taxonomia ANI/AGI, a revolução econômica dos Foundation Models, Transfer Learning e aplicações de ROI em consultoria. Capítulo 4 da série. Áudio gerado com NotebookLM (Google).]]></description>
+      <link>https://docgabtxsmed.github.io/medtech-highlights-ia-feed/episodes/2026-05-18</link>
+      <guid isPermaLink="false">episode-2026-05-18</guid>
+      <pubDate>Mon, 18 May 2026 10:00:00 +0000</pubDate>
+      <enclosure url="https://pub-b4194e8fac8d4332a041634bfe2178cf.r2.dev/highlights-ia-2026-05-18-podcast.m4a" length="32954877" type="audio/mp4"/>
+      <itunes:author>Gabriel Tavares</itunes:author>
+      <itunes:duration>17:04</itunes:duration>
+      <itunes:summary><![CDATA[O panorama da IA — diferença entre IA Preditiva (eficiência) e IA Generativa (produtividade), taxonomia ANI/AGI, a revolução econômica dos Foundation Models, Transfer Learning e aplicações de ROI em consultoria. Capítulo 4 da série. Áudio gerado com NotebookLM (Google).]]></itunes:summary>
+      <itunes:image href="https://docgabtxsmed.github.io/medtech-highlights-ia-feed/cover.png"/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <!-- ITEMS_INSERT_HERE -->
   </channel>
 </rss>
