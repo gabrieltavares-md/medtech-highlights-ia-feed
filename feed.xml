@@ -101,6 +101,20 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
+    <item>
+      <title>A linguagem do dinheiro em dados</title>
+      <description><![CDATA[Como traduzir projetos técnicos de IA em linguagem de valor de negócio para o C-level. Diferença entre métricas de vaidade e métricas acionáveis, LTV, CAC, e como construir o business case de ROI para Inteligência Artificial. Capítulo 2 da série. Áudio gerado com NotebookLM (Google).]]></description>
+      <link>https://docgabtxsmed.github.io/medtech-highlights-ia-feed/episodes/2026-05-17</link>
+      <guid isPermaLink="false">episode-2026-05-17</guid>
+      <pubDate>Sun, 17 May 2026 10:00:00 +0000</pubDate>
+      <enclosure url="https://pub-b4194e8fac8d4332a041634bfe2178cf.r2.dev/highlights-ia-2026-05-17-podcast.m4a" length="70950246" type="audio/mp4"/>
+      <itunes:author>Gabriel Tavares</itunes:author>
+      <itunes:duration>36:45</itunes:duration>
+      <itunes:summary><![CDATA[Como traduzir projetos técnicos de IA em linguagem de valor de negócio para o C-level. Diferença entre métricas de vaidade e métricas acionáveis, LTV, CAC, e como construir o business case de ROI para Inteligência Artificial. Capítulo 2 da série. Áudio gerado com NotebookLM (Google).]]></itunes:summary>
+      <itunes:image href="https://docgabtxsmed.github.io/medtech-highlights-ia-feed/cover.png"/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <!-- ITEMS_INSERT_HERE -->
   </channel>
 </rss>
