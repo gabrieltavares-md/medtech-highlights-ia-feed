@@ -7,6 +7,15 @@
   },
   "episodes": [
     {
+      "guid": "episode-2026-05-18",
+      "date": "2026-05-18",
+      "title": "O lucro real da IA corporativa",
+      "duration_seconds": 1024,
+      "size_bytes": 32954877,
+      "enclosure_url": "https://pub-b4194e8fac8d4332a041634bfe2178cf.r2.dev/highlights-ia-2026-05-18-podcast.m4a",
+      "object_key": "highlights-ia-2026-05-18-podcast.m4a"
+    },
+    {
       "guid": "episode-2026-05-17",
       "date": "2026-05-17",
       "title": "A linguagem do dinheiro em dados",
