@@ -73,6 +73,20 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
+    <item>
+      <title>Por que bilhões em IA viram poeira</title>
+      <description><![CDATA[Análise das principais causas de falência de projetos corporativos de IA: dados ruins, problemas mal formulados, ROI inflado e descompasso entre time técnico e negócio. Os padrões recorrentes que explicam por que tanto investimento em IA não retorna valor. Áudio gerado com NotebookLM (Google).]]></description>
+      <link>https://docgabtxsmed.github.io/medtech-highlights-ia-feed/episodes/2026-05-15</link>
+      <guid isPermaLink="false">episode-2026-05-15</guid>
+      <pubDate>Fri, 15 May 2026 10:00:00 +0000</pubDate>
+      <enclosure url="https://pub-b4194e8fac8d4332a041634bfe2178cf.r2.dev/highlights-ia-2026-05-15-podcast.m4a" length="40358456" type="audio/mp4"/>
+      <itunes:author>Gabriel Tavares</itunes:author>
+      <itunes:duration>20:54</itunes:duration>
+      <itunes:summary><![CDATA[Análise das principais causas de falência de projetos corporativos de IA: dados ruins, problemas mal formulados, ROI inflado e descompasso entre time técnico e negócio. Os padrões recorrentes que explicam por que tanto investimento em IA não retorna valor. Áudio gerado com NotebookLM (Google).]]></itunes:summary>
+      <itunes:image href="https://docgabtxsmed.github.io/medtech-highlights-ia-feed/cover.png"/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <!-- ITEMS_INSERT_HERE -->
   </channel>
 </rss>
