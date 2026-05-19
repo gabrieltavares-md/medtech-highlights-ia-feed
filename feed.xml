@@ -45,6 +45,20 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
+    <item>
+      <title>Por que o achismo vence a tecnologia</title>
+      <description><![CDATA[Reflexão sobre como cultura, achismo e decisões de gestão derrubam projetos de IA tecnicamente impecáveis. Por que tanta solução brilhante falha na adoção corporativa, e o que muda quando o time de tecnologia entende o problema de negócio antes da arquitetura. Áudio gerado com NotebookLM (Google).]]></description>
+      <link>https://docgabtxsmed.github.io/medtech-highlights-ia-feed/episodes/2026-05-13</link>
+      <guid isPermaLink="false">episode-2026-05-13</guid>
+      <pubDate>Wed, 13 May 2026 10:00:00 +0000</pubDate>
+      <enclosure url="https://pub-b4194e8fac8d4332a041634bfe2178cf.r2.dev/highlights-ia-2026-05-13-podcast.m4a" length="42643712" type="audio/mp4"/>
+      <itunes:author>Gabriel Tavares</itunes:author>
+      <itunes:duration>22:05</itunes:duration>
+      <itunes:summary><![CDATA[Reflexão sobre como cultura, achismo e decisões de gestão derrubam projetos de IA tecnicamente impecáveis. Por que tanta solução brilhante falha na adoção corporativa, e o que muda quando o time de tecnologia entende o problema de negócio antes da arquitetura. Áudio gerado com NotebookLM (Google).]]></itunes:summary>
+      <itunes:image href="https://docgabtxsmed.github.io/medtech-highlights-ia-feed/cover.png"/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <!-- ITEMS_INSERT_HERE -->
   </channel>
 </rss>
