@@ -7,6 +7,15 @@
   },
   "episodes": [
     {
+      "guid": "episode-2026-05-14",
+      "date": "2026-05-14",
+      "title": "Como o viés indutivo molda a IA",
+      "duration_seconds": 1601,
+      "size_bytes": 51525513,
+      "enclosure_url": "https://pub-b4194e8fac8d4332a041634bfe2178cf.r2.dev/highlights-ia-2026-05-14-podcast.m4a",
+      "object_key": "highlights-ia-2026-05-14-podcast.m4a"
+    },
+    {
       "guid": "episode-2026-05-13",
       "date": "2026-05-13",
       "title": "Por que o achismo vence a tecnologia",
