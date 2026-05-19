@@ -59,6 +59,20 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
+    <item>
+      <title>Como o viés indutivo molda a IA</title>
+      <description><![CDATA[Episódio didático sobre viés indutivo em machine learning: o que é, por que toda IA tem um, e como diferentes arquiteturas (CNNs, Transformers, RNNs) carregam priors distintos sobre o mundo. Por que escolher a arquitetura certa é metade do problema. Áudio gerado com NotebookLM (Google).]]></description>
+      <link>https://docgabtxsmed.github.io/medtech-highlights-ia-feed/episodes/2026-05-14</link>
+      <guid isPermaLink="false">episode-2026-05-14</guid>
+      <pubDate>Thu, 14 May 2026 10:00:00 +0000</pubDate>
+      <enclosure url="https://pub-b4194e8fac8d4332a041634bfe2178cf.r2.dev/highlights-ia-2026-05-14-podcast.m4a" length="51525513" type="audio/mp4"/>
+      <itunes:author>Gabriel Tavares</itunes:author>
+      <itunes:duration>26:41</itunes:duration>
+      <itunes:summary><![CDATA[Episódio didático sobre viés indutivo em machine learning: o que é, por que toda IA tem um, e como diferentes arquiteturas (CNNs, Transformers, RNNs) carregam priors distintos sobre o mundo. Por que escolher a arquitetura certa é metade do problema. Áudio gerado com NotebookLM (Google).]]></itunes:summary>
+      <itunes:image href="https://docgabtxsmed.github.io/medtech-highlights-ia-feed/cover.png"/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <!-- ITEMS_INSERT_HERE -->
   </channel>
 </rss>
