@@ -5,5 +5,15 @@
     "feed_url": "https://docgabtxsmed.github.io/medtech-highlights-ia-feed/feed.xml",
     "github_repo": "Docgabtxsmed/medtech-highlights-ia-feed"
   },
-  "episodes": []
+  "episodes": [
+    {
+      "guid": "episode-2026-05-19",
+      "date": "2026-05-19",
+      "title": "Highlights IA — 19 de maio de 2026",
+      "duration_seconds": 1035,
+      "size_bytes": 16756112,
+      "enclosure_url": "https://pub-b4194e8fac8d4332a041634bfe2178cf.r2.dev/highlights-ia-2026-05-19-podcast.m4a",
+      "object_key": "highlights-ia-2026-05-19-podcast.m4a"
+    }
+  ]
 }
