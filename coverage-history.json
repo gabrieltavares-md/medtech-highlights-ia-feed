@@ -1,0 +1,63 @@
+{
+  "_about": "Histórico de tópicos cobertos no podcast Highlights IA. Usado pela scheduled task highlights-ia-diario para evitar repetir notícias dentro de uma janela móvel de 7 dias. Mantido automaticamente pelo pipeline — não editar manualmente.",
+  "_window_days": 7,
+  "history": [
+    {
+      "date": "2026-05-19",
+      "highlights": [
+        {
+          "title": "Google I/O 2026 abre keynote hoje com nova geração do Gemini",
+          "category": "Google/DeepMind",
+          "primary_url": "https://tech.yahoo.com/ai/gemini/articles/watch-google-o-2026-keynote-164907811.html",
+          "secondary_urls": [
+            "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-deep-think/",
+            "https://blog.google/innovation-and-ai/models-and-research/gemini-models/next-generation-gemini-deep-research/"
+          ]
+        },
+        {
+          "title": "Estudo Harvard/BIDMC: o1 supera médicos em raciocínio clínico em emergência (Science)",
+          "category": "IA na Medicina",
+          "primary_url": "https://www.science.org/content/article/ai-starting-beat-doctors-making-correct-diagnoses",
+          "secondary_urls": [
+            "https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/",
+            "https://medicalxpress.com/news/2026-04-ai-surpasses-physicians-clinical-tasks.html"
+          ]
+        },
+        {
+          "title": "OpenAI lança GPT-5.5 Instant — 52,5% menos alucinações em medicina, direito e finanças",
+          "category": "OpenAI",
+          "primary_url": "https://openai.com/index/gpt-5-5-instant/",
+          "secondary_urls": [
+            "https://techcrunch.com/2026/05/05/openai-releases-gpt-5-5-instant-a-new-default-model-for-chatgpt/"
+          ]
+        },
+        {
+          "title": "Anthropic expande Claude para empresas: Small Business + parceria estratégica com PwC",
+          "category": "Anthropic/Claude",
+          "primary_url": "https://www.anthropic.com/news/claude-for-small-business",
+          "secondary_urls": [
+            "https://www.anthropic.com/news/pwc-expanded-partnership"
+          ]
+        },
+        {
+          "title": "LangGraph 1.2 e checkpointsqlite 3.1.0a1 — agent stack consolidando produção",
+          "category": "LLMs/Frameworks",
+          "primary_url": "https://changelog.langchain.com/announcements/langgraph-1-0-is-now-generally-available",
+          "secondary_urls": [
+            "https://github.com/langchain-ai/langgraph/releases",
+            "https://medium.com/@sehaj23chawla/langsmith-and-langgraph-in-2026-how-langchains-agent-stack-quietly-became-the-default-f1609af5d658"
+          ]
+        },
+        {
+          "title": "NVIDIA Nemotron 3 Nano Omni: modelo open multimodal otimizado para agentes em edge",
+          "category": "Outras ferramentas",
+          "primary_url": "https://blogs.nvidia.com/blog/nemotron-3-nano-omni-multimodal-ai-agents/",
+          "secondary_urls": [
+            "https://nvidianews.nvidia.com/news/nvidia-debuts-nemotron-3-family-of-open-models",
+            "https://thenextweb.com/news/nvidia-nemotron-nano-omni-multimodal-agent-edge"
+          ]
+        }
+      ]
+    }
+  ]
+}
