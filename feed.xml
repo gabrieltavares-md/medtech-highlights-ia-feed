@@ -129,6 +129,20 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
+    <item>
+      <title>Highlights IA — 20 de maio de 2026</title>
+      <description><![CDATA[Google I/O 2026 com Gemini Omni e Antigravity, Anthropic adquire Stainless, KPMG integra Claude para 276 mil funcionários, LangGraph 1.2, Sierra levanta US$ 950M e os limites da IA clínica. Áudio gerado com NotebookLM (Google).]]></description>
+      <link>https://docgabtxsmed.github.io/medtech-highlights-ia-feed/episodes/2026-05-20</link>
+      <guid isPermaLink="false">episode-2026-05-20</guid>
+      <pubDate>Wed, 20 May 2026 10:00:00 +0000</pubDate>
+      <enclosure url="https://pub-b4194e8fac8d4332a041634bfe2178cf.r2.dev/highlights-ia-2026-05-20-podcast.m4a" length="30772713" type="audio/mp4"/>
+      <itunes:author>Gabriel Tavares</itunes:author>
+      <itunes:duration>15:56</itunes:duration>
+      <itunes:summary><![CDATA[Google I/O 2026 com Gemini Omni e Antigravity, Anthropic adquire Stainless, KPMG integra Claude para 276 mil funcionários, LangGraph 1.2, Sierra levanta US$ 950M e os limites da IA clínica. Áudio gerado com NotebookLM (Google).]]></itunes:summary>
+      <itunes:image href="https://docgabtxsmed.github.io/medtech-highlights-ia-feed/cover.png"/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <!-- ITEMS_INSERT_HERE -->
   </channel>
 </rss>
