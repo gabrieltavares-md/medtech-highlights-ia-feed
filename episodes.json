@@ -7,6 +7,15 @@
   },
   "episodes": [
     {
+      "guid": "episode-2026-05-20",
+      "date": "2026-05-20",
+      "title": "Highlights IA — 20 de maio de 2026",
+      "duration_seconds": 956,
+      "size_bytes": 30772713,
+      "enclosure_url": "https://pub-b4194e8fac8d4332a041634bfe2178cf.r2.dev/highlights-ia-2026-05-20-podcast.m4a",
+      "object_key": "highlights-ia-2026-05-20-podcast.m4a"
+    },
+    {
       "guid": "episode-2026-05-18",
       "date": "2026-05-18",
       "title": "O lucro real da IA corporativa",
