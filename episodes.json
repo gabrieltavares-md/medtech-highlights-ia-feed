@@ -7,6 +7,15 @@
   },
   "episodes": [
     {
+      "guid": "episode-2026-05-23",
+      "date": "2026-05-23",
+      "title": "Highlights IA — 22 de maio de 2026",
+      "duration_seconds": 1296,
+      "size_bytes": 15791119,
+      "enclosure_url": "https://pub-b4194e8fac8d4332a041634bfe2178cf.r2.dev/highlights-ia-2026-05-22-podcast.m4a",
+      "object_key": "highlights-ia-2026-05-22-podcast.m4a"
+    },
+    {
       "guid": "episode-2026-05-22",
       "date": "2026-05-22",
       "title": "Bastidores da IA em escala na Uber",
