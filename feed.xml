@@ -153,7 +153,7 @@
       <itunes:author>Gabriel Tavares</itunes:author>
       <itunes:duration>20:37</itunes:duration>
       <itunes:summary><![CDATA[Imersão técnica nos bastidores da Uber: 25 milhões de viagens diárias, 10 milhões de predições de IA por segundo e a jornada da empresa do XGBoost aos agentes autônomos. Áudio gerado com NotebookLM (Google).]]></itunes:summary>
-      <itunes:image href="https://docgabtxsmed.github.io/medtech-highlights-ia-feed/cover.png"/>
+      <itunes:image href="https://pub-b4194e8fac8d4332a041634bfe2178cf.r2.dev/cover-bastidores-uber.png"/>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
