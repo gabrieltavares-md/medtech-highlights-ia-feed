@@ -7,6 +7,15 @@
   },
   "episodes": [
     {
+      "guid": "episode-2026-05-22",
+      "date": "2026-05-22",
+      "title": "Bastidores da IA em escala na Uber",
+      "duration_seconds": 1237,
+      "size_bytes": 39814380,
+      "enclosure_url": "https://pub-b4194e8fac8d4332a041634bfe2178cf.r2.dev/Bastidores_da_IA_em_escala_na_Uber.m4a",
+      "object_key": "Bastidores_da_IA_em_escala_na_Uber.m4a"
+    },
+    {
       "guid": "episode-2026-05-20",
       "date": "2026-05-20",
       "title": "Highlights IA — 20 de maio de 2026",
