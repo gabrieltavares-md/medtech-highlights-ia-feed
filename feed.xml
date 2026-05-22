@@ -157,6 +157,20 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
+    <item>
+      <title>Highlights IA — 22 de maio de 2026</title>
+      <description><![CDATA[Edição de 22/05 traz seis destaques: OpenAI abre Ads Manager self-serve em ChatGPT; Anthropic lança Claude Managed Agents com sandboxes self-hosted e MCP tunnels; Notion 3.5 vira hub de agentes com Workers e External Agents API; e o pilar de IA na medicina cobre dois papers — PhysicianBench, que limita LLM-agents em EHRs reais, e AI-Care, agente LangGraph para cuidado em Alzheimer. Fecha com a stack open-source NVIDIA Agent Toolkit + OpenShell + AI-Q. Áudio gerado com NotebookLM (Google).]]></description>
+      <link>https://docgabtxsmed.github.io/medtech-highlights-ia-feed/episodes/2026-05-23</link>
+      <guid isPermaLink="false">episode-2026-05-23</guid>
+      <pubDate>Sat, 23 May 2026 10:00:00 +0000</pubDate>
+      <enclosure url="https://pub-b4194e8fac8d4332a041634bfe2178cf.r2.dev/highlights-ia-2026-05-22-podcast.m4a" length="15791119" type="audio/mp4"/>
+      <itunes:author>Gabriel Tavares</itunes:author>
+      <itunes:duration>21:36</itunes:duration>
+      <itunes:summary><![CDATA[Edição de 22/05 traz seis destaques: OpenAI abre Ads Manager self-serve em ChatGPT; Anthropic lança Claude Managed Agents com sandboxes self-hosted e MCP tunnels; Notion 3.5 vira hub de agentes com Workers e External Agents API; e o pilar de IA na medicina cobre dois papers — PhysicianBench, que limita LLM-agents em EHRs reais, e AI-Care, agente LangGraph para cuidado em Alzheimer. Fecha com a stack open-source NVIDIA Agent Toolkit + OpenShell + AI-Q. Áudio gerado com NotebookLM (Google).]]></itunes:summary>
+      <itunes:image href="https://docgabtxsmed.github.io/medtech-highlights-ia-feed/cover.png"/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <!-- ITEMS_INSERT_HERE -->
   </channel>
 </rss>
