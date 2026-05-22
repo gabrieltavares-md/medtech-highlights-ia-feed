@@ -143,6 +143,20 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
+    <item>
+      <title>Bastidores da IA em escala na Uber</title>
+      <description><![CDATA[Imersão técnica nos bastidores da Uber: 25 milhões de viagens diárias, 10 milhões de predições de IA por segundo e a jornada da empresa do XGBoost aos agentes autônomos. Áudio gerado com NotebookLM (Google).]]></description>
+      <link>https://docgabtxsmed.github.io/medtech-highlights-ia-feed/episodes/2026-05-22</link>
+      <guid isPermaLink="false">episode-2026-05-22</guid>
+      <pubDate>Fri, 22 May 2026 10:00:00 +0000</pubDate>
+      <enclosure url="https://pub-b4194e8fac8d4332a041634bfe2178cf.r2.dev/Bastidores_da_IA_em_escala_na_Uber.m4a" length="39814380" type="audio/mp4"/>
+      <itunes:author>Gabriel Tavares</itunes:author>
+      <itunes:duration>20:37</itunes:duration>
+      <itunes:summary><![CDATA[Imersão técnica nos bastidores da Uber: 25 milhões de viagens diárias, 10 milhões de predições de IA por segundo e a jornada da empresa do XGBoost aos agentes autônomos. Áudio gerado com NotebookLM (Google).]]></itunes:summary>
+      <itunes:image href="https://docgabtxsmed.github.io/medtech-highlights-ia-feed/cover.png"/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <!-- ITEMS_INSERT_HERE -->
   </channel>
 </rss>
