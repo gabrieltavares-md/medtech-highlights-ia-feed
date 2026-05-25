@@ -7,6 +7,15 @@
   },
   "episodes": [
     {
+      "guid": "episode-2026-05-25",
+      "date": "2026-05-25",
+      "title": "Highlights IA — 25 de maio de 2026",
+      "duration_seconds": 951,
+      "size_bytes": 30601641,
+      "enclosure_url": "https://pub-b4194e8fac8d4332a041634bfe2178cf.r2.dev/highlights-ia-2026-05-25-podcast.m4a",
+      "object_key": "highlights-ia-2026-05-25-podcast.m4a"
+    },
+    {
       "guid": "episode-2026-05-23",
       "date": "2026-05-23",
       "title": "Highlights IA — 22 de maio de 2026",
