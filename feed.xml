@@ -171,6 +171,20 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
+    <item>
+      <title>Highlights IA — 25 de maio de 2026</title>
+      <description><![CDATA[Hoje: Anthropic libera self-hosted sandboxes e MCP tunnels para Claude Managed Agents; DeepMind fecha parceria com EVE Online como testbed adversário; Claude ganha Dreaming, Outcomes e Multiagent Orchestration. Em IA na medicina, estudo do Mass General Brigham mostra que 21 LLMs ainda falham em raciocínio clínico, enquanto o Stanford VeriFact verifica notas clínicas com 93,2% de concordância. Áudio gerado com NotebookLM (Google).]]></description>
+      <link>https://docgabtxsmed.github.io/medtech-highlights-ia-feed/episodes/2026-05-25</link>
+      <guid isPermaLink="false">episode-2026-05-25</guid>
+      <pubDate>Mon, 25 May 2026 10:00:00 +0000</pubDate>
+      <enclosure url="https://pub-b4194e8fac8d4332a041634bfe2178cf.r2.dev/highlights-ia-2026-05-25-podcast.m4a" length="30601641" type="audio/mp4"/>
+      <itunes:author>Gabriel Tavares</itunes:author>
+      <itunes:duration>15:51</itunes:duration>
+      <itunes:summary><![CDATA[Hoje: Anthropic libera self-hosted sandboxes e MCP tunnels para Claude Managed Agents; DeepMind fecha parceria com EVE Online como testbed adversário; Claude ganha Dreaming, Outcomes e Multiagent Orchestration. Em IA na medicina, estudo do Mass General Brigham mostra que 21 LLMs ainda falham em raciocínio clínico, enquanto o Stanford VeriFact verifica notas clínicas com 93,2% de concordância. Áudio gerado com NotebookLM (Google).]]></itunes:summary>
+      <itunes:image href="https://docgabtxsmed.github.io/medtech-highlights-ia-feed/cover.png"/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <!-- ITEMS_INSERT_HERE -->
   </channel>
 </rss>
