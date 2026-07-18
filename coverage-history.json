@@ -58,6 +58,74 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-07-18",
+      "highlights": [
+        {
+          "title": "Moonshot lança o Kimi K3, maior modelo de pesos abertos já divulgado",
+          "pilar": "Modelos & Labs",
+          "trilha": "tech",
+          "category": "LLMs/Frameworks",
+          "primary_url": "https://www.kimi.com/blog/kimi-k3",
+          "secondary_urls": [
+            "https://simonwillison.net/2026/Jul/16/kimi-k3/",
+            "https://fortune.com/2026/07/16/moonshots-kimi-k3-pushes-chinese-ai-into-fable-level-territory/",
+            "https://www.cnbc.com/2026/07/17/moonshot-ai-kimi-k3-model-openai-anthropic-china.html"
+          ]
+        },
+        {
+          "title": "Thinking Machines estreia o Inkling, seu primeiro modelo de pesos abertos",
+          "pilar": "Modelos & Labs",
+          "trilha": "tech",
+          "category": "LLMs/Frameworks",
+          "primary_url": "https://thinkingmachines.ai/news/introducing-inkling/",
+          "secondary_urls": [
+            "https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/",
+            "https://fortune.com/2026/07/15/what-is-mira-murati-thinking-machines-first-ai-model-inkling/",
+            "https://www.axios.com/2026/07/15/mira-murati-thinking-machines-open-weight-model-inkling"
+          ]
+        },
+        {
+          "title": "China põe em vigor a primeira regulação dedicada a agentes de IA",
+          "pilar": "IA no dia a dia",
+          "trilha": "misc",
+          "category": "Negócios",
+          "primary_url": "https://aigovernance.com/news/chinas-agent-rules-take-effect-july-15-and-illinois-mandates-third-party-safety-audits",
+          "secondary_urls": [
+            "https://www.rimonlaw.com/china-ai-law-brief/",
+            "https://iapp.org/news/a/chinas-regulation-on-ai-companions-takes-force"
+          ]
+        },
+        {
+          "title": "Anthropic lança o Claude for Teachers com acesso gratuito a professores nos EUA",
+          "pilar": "IA na Educação",
+          "trilha": "misc",
+          "category": "Anthropic/Claude",
+          "primary_url": "https://www.anthropic.com/news/claude-for-teachers",
+          "secondary_urls": [
+            "https://www.chalkbeat.org/2026/07/14/anthropic-launches-claude-for-teachers-as-ai-companies-battle-for-classrooms/",
+            "https://9to5mac.com/2026/07/14/anthropic-is-giving-teachers-free-access-to-premium-claude-features-details-here/"
+          ]
+        }
+      ]
     }
-  ]
+  ],
+  "tracks": {
+    "medicina": {
+      "last_report": null,
+      "last_edition": 0
+    },
+    "tech": {
+      "last_report": null,
+      "last_edition": 0
+    },
+    "misc": {
+      "last_report": null,
+      "last_edition": 0
+    }
+  },
+  "newsletter": {
+    "last_edition": 0
+  }
 }
