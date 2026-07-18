@@ -185,6 +185,20 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
+    <item>
+      <title>Highlights IA — Medicina &amp; Pesquisa — 18 de julho de 2026</title>
+      <description><![CDATA[Nesta edição: (1) estudo da Nature Medicine em que LLMs generalistas superam a IA clínica dedicada — com ressalvas de vazamento de benchmark e conflito de interesse; (2) UpDoc, a primeira SaMD com LLM voltado ao paciente liberada pela FDA, onde a dose é calculada por algoritmo determinístico, não pelo LLM. Análise do descompasso entre benchmark e validação regulatória. Áudio gerado com NotebookLM (Google).]]></description>
+      <link>https://docgabtxsmed.github.io/medtech-highlights-ia-feed/episodes/2026-07-18</link>
+      <guid isPermaLink="false">episode-2026-07-18</guid>
+      <pubDate>Sat, 18 Jul 2026 10:00:00 +0000</pubDate>
+      <enclosure url="https://pub-b4194e8fac8d4332a041634bfe2178cf.r2.dev/highlights-ia-2026-07-18-medicina-podcast.m4a" length="46847312" type="audio/mp4"/>
+      <itunes:author>MedTech Community AI</itunes:author>
+      <itunes:duration>24:16</itunes:duration>
+      <itunes:summary><![CDATA[Nesta edição: (1) estudo da Nature Medicine em que LLMs generalistas superam a IA clínica dedicada — com ressalvas de vazamento de benchmark e conflito de interesse; (2) UpDoc, a primeira SaMD com LLM voltado ao paciente liberada pela FDA, onde a dose é calculada por algoritmo determinístico, não pelo LLM. Análise do descompasso entre benchmark e validação regulatória. Áudio gerado com NotebookLM (Google).]]></itunes:summary>
+      <itunes:image href="https://docgabtxsmed.github.io/medtech-highlights-ia-feed/cover.png"/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <!-- ITEMS_INSERT_HERE -->
   </channel>
 </rss>
