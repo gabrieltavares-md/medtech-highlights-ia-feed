@@ -7,6 +7,16 @@
   },
   "episodes": [
     {
+      "guid": "episode-2026-06-15",
+      "date": "2026-06-15",
+      "trilha": null,
+      "title": "Highlights IA — 15 de junho de 2026",
+      "duration_seconds": 1465,
+      "size_bytes": 47164919,
+      "enclosure_url": "https://pub-b4194e8fac8d4332a041634bfe2178cf.r2.dev/highlights-ia-2026-06-15-podcast.m4a",
+      "object_key": "highlights-ia-2026-06-15-podcast.m4a"
+    },
+    {
       "guid": "episode-2026-06-12",
       "date": "2026-06-12",
       "trilha": null,
