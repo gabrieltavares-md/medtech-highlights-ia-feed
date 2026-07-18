@@ -25,7 +25,10 @@ import os
 import sys
 import re
 import json
+import base64
 import subprocess
+import urllib.request
+import urllib.error
 from datetime import datetime
 from pathlib import Path
 
@@ -57,6 +60,14 @@ TRILHA_LABEL = {
     "tech": "Engenharia & Modelos",
     "misc": "Miscelânea",
 }
+
+# --- Coverage-bridge (v2): aplica coverage staged pela task headless ---
+FEED_OWNER = "gabrieltavares-md"
+FEED_REPO = "medtech-highlights-ia-feed"
+COVERAGE_PATH = "coverage-history.json"
+# Arquivos gerados pela task quando ela não tem credencial de escrita no sandbox:
+# outputs/coverage-history-YYYY-MM-DD.staged.json
+COVERAGE_STAGED = re.compile(r"coverage-history-(\d{4}-\d{2}-\d{2})\.staged\.json$")
 
 
 def log(msg: str):
@@ -243,6 +254,119 @@ def publish(date_str: str, m4a_path: Path, trilha: str | None = None) -> bool:
     return False
 
 
+def _gh(method: str, path: str, token: str, data: bytes | None = None):
+    url = f"https://api.github.com/repos/{FEED_OWNER}/{FEED_REPO}/{path}"
+    req = urllib.request.Request(url, data=data, method=method)
+    req.add_header("Accept", "application/vnd.github+json")
+    req.add_header("X-GitHub-Api-Version", "2022-11-28")
+    req.add_header("Authorization", f"Bearer {token}")
+    req.add_header("User-Agent", "highlights-ia-watcher/2.1")
+    if data is not None:
+        req.add_header("Content-Type", "application/json")
+    try:
+        with urllib.request.urlopen(req) as r:
+            return r.status, r.read()
+    except urllib.error.HTTPError as e:
+        return e.code, e.read()
+
+
+def _ensure_v11(cov: dict) -> dict:
+    cov = json.loads(json.dumps(cov))  # deep copy
+    cov.setdefault("_window_days", 7)
+    tr = cov.setdefault("tracks", {})
+    for t in ("medicina", "tech", "misc"):
+        tr.setdefault(t, {"last_report": None, "last_edition": 0})
+    cov.setdefault("newsletter", {"last_edition": 0})
+    cov.setdefault("history", [])
+    return cov
+
+
+def _merge_coverage(base: dict, staged: dict) -> dict:
+    base = _ensure_v11(base)
+    staged = _ensure_v11(staged)
+    by_date = {h.get("date"): h for h in base["history"] if h.get("date")}
+    for h in staged["history"]:
+        if h.get("date"):
+            by_date[h["date"]] = h  # staged vence por data
+    base["history"] = sorted(by_date.values(), key=lambda h: h.get("date", ""))
+    for t in ("medicina", "tech", "misc"):
+        s, b = staged["tracks"].get(t, {}), base["tracks"].get(t, {})
+        base["tracks"][t]["last_report"] = max(
+            [x for x in (s.get("last_report"), b.get("last_report")) if x], default=None)
+        base["tracks"][t]["last_edition"] = max(s.get("last_edition", 0), b.get("last_edition", 0))
+    base["newsletter"]["last_edition"] = max(
+        staged["newsletter"].get("last_edition", 0), base["newsletter"].get("last_edition", 0))
+    return base
+
+
+def find_staged_coverage() -> list:
+    scan_dirs = [WORKSPACE_BASE, *EXTRA_SCAN_DIRS]
+    found = []
+    for d in scan_dirs:
+        if d.exists():
+            found.extend(d.rglob("coverage-history-*.staged.json"))
+    uniq = {p.resolve(): p for p in found if COVERAGE_STAGED.search(p.name)}
+    return sorted(uniq.values(), key=lambda p: COVERAGE_STAGED.search(p.name).group(1))
+
+
+def apply_staged_coverage():
+    """Aplica coverage-history-*.staged.json gerado pela task headless (que não tem
+    credencial de escrita no sandbox). Roda TODO dia. Usa o github-pat local + Contents API."""
+    staged_files = find_staged_coverage()
+    if not staged_files:
+        return
+    if not GITHUB_PAT_FILE.exists():
+        log("coverage: github-pat ausente — não aplico staged")
+        return
+    token = GITHUB_PAT_FILE.read_text().strip()
+
+    status, body = _gh("GET", f"contents/{COVERAGE_PATH}", token)
+    if status >= 300:
+        log(f"coverage: GET falhou {status}: {body.decode()[:200]}")
+        return
+    meta = json.loads(body)
+    sha = meta["sha"]
+    try:
+        remote = json.loads(base64.b64decode(meta["content"]).decode("utf-8"))
+    except Exception as exc:
+        log(f"coverage: parse do remoto falhou: {exc}")
+        return
+
+    remote_v11 = _ensure_v11(remote)
+    merged = remote_v11
+    applied = []
+    for sp in staged_files:
+        try:
+            merged = _merge_coverage(merged, json.loads(sp.read_text()))
+            applied.append(sp)
+        except Exception as exc:
+            log(f"coverage: staged inválido {sp.name}: {exc}")
+
+    new_bytes = json.dumps(merged, ensure_ascii=False, indent=2).encode("utf-8")
+    old_bytes = json.dumps(remote_v11, ensure_ascii=False, indent=2).encode("utf-8")
+    if new_bytes == old_bytes:
+        log("coverage: nada novo; marcando staged como aplicados")
+        for sp in applied:
+            try: sp.rename(sp.with_suffix(".applied"))
+            except Exception: pass
+        return
+
+    put_body = json.dumps({
+        "message": f"chore(coverage): apply staged {datetime.now().date().isoformat()}",
+        "content": base64.b64encode(new_bytes).decode(),
+        "sha": sha,
+        "committer": {"name": "highlights-ia-watcher", "email": "gabrieltavaresx@gmail.com"},
+    }).encode()
+    status, body = _gh("PUT", f"contents/{COVERAGE_PATH}", token, data=put_body)
+    if status >= 300:
+        log(f"coverage: PUT falhou {status}: {body.decode()[:200]}")
+        return
+    log(f"coverage: aplicado ({len(applied)} staged → {len(merged['history'])} entradas)")
+    for sp in applied:
+        try: sp.rename(sp.with_suffix(".applied"))
+        except Exception as exc: log(f"coverage: não renomeei {sp.name}: {exc}")
+
+
 def main() -> int:
     log("=== podcast-watcher start ===")
 
@@ -257,6 +381,12 @@ def main() -> int:
         return 1
 
     git_pull_repo()
+
+    # Coverage-bridge (v2): aplica coverage staged pela task headless — TODO dia.
+    try:
+        apply_staged_coverage()
+    except Exception as exc:
+        log(f"coverage: erro inesperado: {exc}")
 
     pending = find_pending_m4as()
     if not pending:
