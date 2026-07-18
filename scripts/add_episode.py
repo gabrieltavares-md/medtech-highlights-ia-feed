@@ -241,11 +241,13 @@ def main():
             os.environ.setdefault(k, v)
 
     token = os.environ.get("GITHUB_TOKEN")
-    owner = os.environ.get("GITHUB_OWNER", "Docgabtxsmed")
+    owner = os.environ.get("GITHUB_OWNER", "gabrieltavares-md")
     repo  = os.environ.get("GITHUB_REPO", "medtech-highlights-ia-feed")
+    # Pages é servido no domínio antigo (docgabtxsmed.github.io) mesmo após o
+    # rename da conta — manter fixo, desacoplado do owner da API.
     base_public = os.environ.get(
         "PODCAST_FEED_BASE",
-        f"https://{owner.lower()}.github.io/{repo}"
+        "https://docgabtxsmed.github.io/medtech-highlights-ia-feed"
     )
 
     r2_access = os.environ.get("R2_ACCESS_KEY_ID")

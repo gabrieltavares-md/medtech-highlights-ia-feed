@@ -205,7 +205,7 @@ def publish(date_str: str, m4a_path: Path, trilha: str | None = None) -> bool:
 
     env = os.environ.copy()
     env["GITHUB_TOKEN"] = GITHUB_PAT_FILE.read_text().strip()
-    env["GITHUB_OWNER"] = "Docgabtxsmed"
+    env["GITHUB_OWNER"] = "gabrieltavares-md"
     env["GITHUB_REPO"] = "medtech-highlights-ia-feed"
     env["PODCAST_FEED_BASE"] = "https://docgabtxsmed.github.io/medtech-highlights-ia-feed"
 
