@@ -201,7 +201,7 @@ def build_item_xml(title: str, description: str, link: str,
       <guid isPermaLink="false">{escape(guid)}</guid>
       <pubDate>{format_datetime(pub_dt)}</pubDate>
       <enclosure url="{escape(enclosure_url)}" length="{length_bytes}" type="audio/mp4"/>
-      <itunes:author>Gabriel Tavares</itunes:author>
+      <itunes:author>MedTech Community AI</itunes:author>
       <itunes:duration>{hhmmss(duration_sec)}</itunes:duration>
       <itunes:summary><![CDATA[{description}]]></itunes:summary>
       <itunes:image href="{escape(cover_url)}"/>
@@ -227,6 +227,9 @@ def main():
     ap.add_argument("--title", required=True)
     ap.add_argument("--description", required=True)
     ap.add_argument("--date", required=True, help="YYYY-MM-DD (publication date)")
+    ap.add_argument("--trilha", default=None,
+                    choices=["medicina", "tech", "misc"],
+                    help="Trilha temática do episódio (v2). Opcional; registrada em episodes.json.")
     ap.add_argument("--dry-run", action="store_true",
                     help="Build XML and print what would be done, but do not call GitHub/R2.")
     args = ap.parse_args()
@@ -325,6 +328,7 @@ def main():
     eps_data.setdefault("episodes", []).insert(0, {
         "guid": guid,
         "date": args.date,
+        "trilha": args.trilha,
         "title": args.title,
         "duration_seconds": duration,
         "size_bytes": size_bytes,

@@ -11,8 +11,8 @@
     <language>pt-BR</language>
     <copyright>© 2026 Gabriel Tavares · MedTech Community AI</copyright>
     <description><![CDATA[Curadoria diária de novidades em Inteligência Artificial, agentes e Data Science para negócios — com vertical especializada em IA aplicada à medicina. Cobertura de LLMs, frameworks agentic (LangChain/LangGraph), RAG, MCPs, papers acadêmicos e lançamentos das principais empresas (OpenAI, Anthropic, Google DeepMind, Meta, Mistral). Apresentado por Gabriel Tavares — médico anestesiologista, pós-graduando em IA e Análise de Dados. Áudio gerado com NotebookLM (Google).]]></description>
-    <itunes:author>Gabriel Tavares</itunes:author>
-    <itunes:summary><![CDATA[Curadoria diária de novidades em IA, agentes e Data Science para negócios, com vertical em IA na medicina. Apresentado por Gabriel Tavares.]]></itunes:summary>
+    <itunes:author>MedTech Community AI</itunes:author>
+    <itunes:summary><![CDATA[Curadoria de novidades em IA, agentes e Data Science para negócios, com vertical em IA na medicina. MedTech Community AI.]]></itunes:summary>
     <itunes:subtitle>IA, agentes e Data Science para negócios (+ medicina) — com Gabriel Tavares</itunes:subtitle>
     <itunes:owner>
       <itunes:name>Gabriel Tavares</itunes:name>
@@ -25,7 +25,7 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <googleplay:author>Gabriel Tavares</googleplay:author>
+    <googleplay:author>MedTech Community AI</googleplay:author>
     <googleplay:email>gabrieltavaresx+medtech@gmail.com</googleplay:email>
     <googleplay:description>Curadoria diária de novidades em IA, agentes e Data Science para negócios, com vertical em IA na medicina.</googleplay:description>
     <googleplay:image href="https://docgabtxsmed.github.io/medtech-highlights-ia-feed/cover.png"/>
