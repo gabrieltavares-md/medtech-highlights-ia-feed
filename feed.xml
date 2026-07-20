@@ -409,6 +409,20 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
+    <item>
+      <title>Highlights IA — Medicina &amp; Pesquisa — 20 de julho de 2026</title>
+      <description><![CDATA[Nesta edição: o modelo REDMOD, da Mayo Clinic, detecta câncer de pâncreas em tomografias de rotina cerca de 16 meses antes do diagnóstico — com a ressalva de que a validação ainda é retrospectiva. Um estudo da NEJM AI mostra que a pesquisa em IA oftalmológica se concentra justamente onde há mais especialistas e menos cegueira, e um relatório com 1.823 clínicos indica que 83% adotaram IA sem qualquer orientação do empregador. Fecha com a autorização da FDA ao iPredict-DR, IA autônoma para triagem de retinopatia diabética. Áudio gerado com NotebookLM (Google).]]></description>
+      <link>https://docgabtxsmed.github.io/medtech-highlights-ia-feed/episodes/2026-07-20</link>
+      <guid isPermaLink="false">episode-2026-07-20</guid>
+      <pubDate>Mon, 20 Jul 2026 10:00:00 +0000</pubDate>
+      <enclosure url="https://pub-b4194e8fac8d4332a041634bfe2178cf.r2.dev/highlights-ia-2026-07-20-medicina-podcast.m4a" length="53034304" type="audio/mp4"/>
+      <itunes:author>MedTech Community AI</itunes:author>
+      <itunes:duration>27:28</itunes:duration>
+      <itunes:summary><![CDATA[Nesta edição: o modelo REDMOD, da Mayo Clinic, detecta câncer de pâncreas em tomografias de rotina cerca de 16 meses antes do diagnóstico — com a ressalva de que a validação ainda é retrospectiva. Um estudo da NEJM AI mostra que a pesquisa em IA oftalmológica se concentra justamente onde há mais especialistas e menos cegueira, e um relatório com 1.823 clínicos indica que 83% adotaram IA sem qualquer orientação do empregador. Fecha com a autorização da FDA ao iPredict-DR, IA autônoma para triagem de retinopatia diabética. Áudio gerado com NotebookLM (Google).]]></itunes:summary>
+      <itunes:image href="https://docgabtxsmed.github.io/medtech-highlights-ia-feed/cover.png"/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <!-- ITEMS_INSERT_HERE -->
   </channel>
 </rss>
