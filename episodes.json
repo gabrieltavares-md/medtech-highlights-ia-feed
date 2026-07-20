@@ -7,6 +7,16 @@
   },
   "episodes": [
     {
+      "guid": "episode-2026-07-01",
+      "date": "2026-07-01",
+      "trilha": null,
+      "title": "Highlights IA — 1 de julho de 2026",
+      "duration_seconds": 1678,
+      "size_bytes": 53990901,
+      "enclosure_url": "https://pub-b4194e8fac8d4332a041634bfe2178cf.r2.dev/highlights-ia-2026-07-01-podcast.m4a",
+      "object_key": "highlights-ia-2026-07-01-podcast.m4a"
+    },
+    {
       "guid": "episode-2026-06-26",
       "date": "2026-06-26",
       "trilha": null,
