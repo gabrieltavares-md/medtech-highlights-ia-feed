@@ -297,6 +297,20 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
+    <item>
+      <title>Highlights IA — 19 de junho de 2026</title>
+      <description><![CDATA[Curadoria diaria de novidades em IA, agentes, dados e negocios. Audio gerado com NotebookLM (Google).]]></description>
+      <link>https://docgabtxsmed.github.io/medtech-highlights-ia-feed/episodes/2026-06-19</link>
+      <guid isPermaLink="false">episode-2026-06-19</guid>
+      <pubDate>Fri, 19 Jun 2026 10:00:00 +0000</pubDate>
+      <enclosure url="https://pub-b4194e8fac8d4332a041634bfe2178cf.r2.dev/highlights-ia-2026-06-19-podcast.m4a" length="49429258" type="audio/mp4"/>
+      <itunes:author>MedTech Community AI</itunes:author>
+      <itunes:duration>25:36</itunes:duration>
+      <itunes:summary><![CDATA[Curadoria diaria de novidades em IA, agentes, dados e negocios. Audio gerado com NotebookLM (Google).]]></itunes:summary>
+      <itunes:image href="https://docgabtxsmed.github.io/medtech-highlights-ia-feed/cover.png"/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <!-- ITEMS_INSERT_HERE -->
   </channel>
 </rss>
