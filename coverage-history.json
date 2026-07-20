@@ -163,12 +163,81 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-07-20",
+      "highlights": [
+        {
+          "title": "Pesquisa Heidi: 83% dos clínicos usam IA sem orientação do empregador",
+          "pilar": "IA na Saúde",
+          "trilha": "medicina",
+          "category": "Saúde",
+          "primary_url": "https://www.heidihealth.com/en-gb/blog/pressure-points-2026-report",
+          "secondary_urls": [
+            "https://www.prnewswire.com/news-releases/clinicians-are-adopting-ai-to-solve-the-documentation-crisis-new-global-survey-finds-302826981.html",
+            "https://hitconsultant.net/2026/07/16/heidi-health-2026-pressure-points-report/"
+          ]
+        },
+        {
+          "title": "Mayo Clinic leva IA que detecta câncer de pâncreas anos antes ao ensaio clínico",
+          "pilar": "IA na Saúde",
+          "trilha": "medicina",
+          "category": "Saúde",
+          "primary_url": "https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-ai-detects-pancreatic-cancer-up-to-3-years-before-diagnosis-in-landmark-validation-study/",
+          "secondary_urls": [
+            "https://www.cnn.com/2026/07/16/tech/mayo-clinic-ai-healthcare",
+            "https://www.mayo.edu/research/clinical-trials/cls-20595012",
+            "https://gut.bmj.com/content/early/2026/04/22/gutjnl-2025-337266",
+            "https://pubmed.ncbi.nlm.nih.gov/42049489/"
+          ]
+        },
+        {
+          "title": "Google DeepMind e Isomorphic Labs lançam programa de 'bioresiliência'",
+          "pilar": "Modelos & Labs",
+          "trilha": "tech",
+          "category": "Saúde",
+          "primary_url": "https://deepmind.google/blog/our-approach-to-bioresilience/",
+          "secondary_urls": [
+            "https://www.axios.com/2026/07/16/google-deepmind-biosecurity-safety",
+            "https://www.artificialintelligence-news.com/news/examining-google-deepmind-ai-bioresilience-push/"
+          ]
+        },
+        {
+          "title": "Alibaba Cloud apresenta 'Agent Native Cloud' para agentes em escala empresarial",
+          "pilar": "Engenharia de IA",
+          "trilha": "tech",
+          "category": "LLMs/Frameworks",
+          "primary_url": "https://finance.sina.com.cn/stock/t/2026-07-18/doc-iniifhtw7104727.shtml",
+          "secondary_urls": [
+            "https://cryptobriefing.com/alibaba-cloud-launches-agent-native-cloud-to-scale-enterprise-ai-agents/",
+            "https://www.alibabacloud.com/en/press-room/alibaba-cloud-unveil-advanced-agentic-ai-ecosystem"
+          ]
+        },
+        {
+          "title": "Anthropic negocia comprar cerca de US$ 10 bi de computação da Meta",
+          "pilar": "IA no dia a dia",
+          "trilha": "misc",
+          "category": "Negócios",
+          "primary_url": "https://www.cnbc.com/2026/07/17/anthropic-meta-ai-compute.html",
+          "secondary_urls": [
+            "https://money.usnews.com/investing/news/articles/2026-07-17/meta-in-talks-for-10-billion-anthropic-compute-deal-nyt-reports"
+          ]
+        },
+        {
+          "title": "FDA autoriza iPredict-DR (iHealthScreen): IA autônoma para triagem de retinopatia diabética",
+          "pilar": "IA na Saúde",
+          "trilha": "medicina",
+          "category": "Saúde",
+          "primary_url": "https://www.fda.gov/medical-devices/software-medical-device-samd/artificial-intelligence-enabled-medical-devices",
+          "secondary_urls": []
+        }
+      ]
     }
   ],
   "tracks": {
     "medicina": {
-      "last_report": null,
-      "last_edition": 0
+      "last_report": "2026-07-20",
+      "last_edition": 1
     },
     "tech": {
       "last_report": null,
