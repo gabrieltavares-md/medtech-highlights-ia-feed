@@ -1,5 +1,33 @@
+# ===== Python =====
 __pycache__/
 *.pyc
+
+# ===== macOS / editores =====
 .DS_Store
+
+# ===== Segredos — NUNCA versionar =====
+# (os scripts leem de ~/.medtech-secrets/; nada de credencial neste repo)
 .env
 .env.local
+*-credentials
+*github-pat*
+*.pat
+*.pem
+*.key
+
+# ===== Mídia — o áudio vive no Cloudflare R2, não no git =====
+# Um M4A de episódio tem ~25-45 MB; versionar incha o repo para sempre
+# (git guarda todas as versões). O feed.xml aponta para a URL do R2.
+*.m4a
+*.mp3
+*.mp4
+*.wav
+
+# ===== Scripts de uso único / backfill =====
+# Mantidos no disco como registro, fora do histórico do repo.
+publish_*_episodes.sh
+
+# ===== Repositórios/pastas que não pertencem a este projeto =====
+# Ex.: cursos ou clones que acabaram nesta pasta por engano.
+# (repo aninhado com .git próprio quebra o git deste repo se for adicionado)
+lca-langchainV1-essentials/
