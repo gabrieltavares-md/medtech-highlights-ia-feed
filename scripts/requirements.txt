@@ -1,0 +1,22 @@
+# Dependências dos scripts em scripts/ (add_episode.py, podcast_watcher.py,
+# publish_newsletter_beehiiv.py, prune_episodes.py).
+#
+# IMPORTANTE — qual Python instalar isso:
+# O LaunchAgent com.medtech.podcast-watcher roda com PATH restrito, definido
+# no plist (~/Library/LaunchAgents/com.medtech.podcast-watcher.plist), SEM
+# carregar .zshrc. Isso faz `/usr/bin/env python3` resolver para um
+# interpretador que pode ser DIFERENTE do `python3` do seu shell interativo.
+#
+# Para instalar (ou reinstalar após atualizar o Homebrew Python), rode:
+#
+#   PATH="/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin" /usr/bin/env python3 -m pip \
+#     install -r scripts/requirements.txt --break-system-packages
+#
+# Para conferir qual interpretador é esse (sem depender do seu .zshrc):
+#
+#   PATH="/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin" /usr/bin/env python3 \
+#     -c "import sys; print(sys.executable)"
+#
+# Ver também: ~/.medtech-secrets/podcast-watcher.std{out,err}.log
+
+boto3>=1.43.0,<2.0.0

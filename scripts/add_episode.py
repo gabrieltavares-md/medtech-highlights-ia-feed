@@ -23,7 +23,8 @@ Usage:
 
 Required env vars (set by the scheduled task):
   GITHUB_TOKEN       — Personal Access Token with `Contents: Read and Write`
-  GITHUB_OWNER       — e.g. Docgabtxsmed
+  GITHUB_OWNER       — default: gabrieltavares-md (conta renomeada; o antigo
+                       Docgabtxsmed causa HTTP 307 no PUT da Contents API)
   GITHUB_REPO        — e.g. medtech-highlights-ia-feed
   R2_ACCESS_KEY_ID   — Cloudflare R2 access key
   R2_SECRET_ACCESS_KEY — Cloudflare R2 secret

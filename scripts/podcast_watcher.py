@@ -41,6 +41,16 @@ SECRETS_DIR = HOME / ".medtech-secrets"
 GITHUB_PAT_FILE = SECRETS_DIR / "github-pat"
 LOG_FILE = SECRETS_DIR / "podcast-watcher.log"
 
+# --- Alerta de falhas consecutivas ---
+# Falha em publicação é best-effort por design (não aborta o run), mas se o
+# MESMO tipo de erro se repete run após run (ex.: dependência Python ausente
+# no interpretador do launchd — ver 2026-07-20), ninguém percebia por semanas.
+# Dispara notificação nativa do macOS ao cruzar o limiar, com throttle para
+# não notificar de novo a cada 5 min enquanto o problema não for corrigido.
+FAIL_ALERT_THRESHOLD = 3
+ALERT_THROTTLE_HOURS = 6
+ALERT_STATE_FILE = SECRETS_DIR / "podcast-watcher.last-alert"
+
 # Pastas extras varridas além de WORKSPACE_BASE (ex.: saídas do plugin no vault).
 EXTRA_SCAN_DIRS = [
     HOME / "Obsidian/Agentes de IA/_highlights-ia-agentico/plugin/highlights-ia/outputs",
@@ -79,6 +89,38 @@ def log(msg: str):
             fh.write(line)
     except Exception as exc:
         sys.stderr.write(f"[log error] {exc}\n")
+
+
+def send_native_notification(title: str, message: str):
+    """Notificação nativa do macOS via osascript. Falha silenciosa (best-effort:
+    ausência de notificação não deve derrubar o watcher)."""
+    try:
+        script = (
+            f'display notification {json.dumps(message)} '
+            f'with title {json.dumps(title)} sound name "Basso"'
+        )
+        subprocess.run(["osascript", "-e", script], capture_output=True, timeout=10)
+    except Exception as exc:
+        log(f"alerta: falha ao notificar via osascript: {exc}")
+
+
+def _alert_throttled() -> bool:
+    """True se já alertamos nas últimas ALERT_THROTTLE_HOURS (evita spam a cada 5 min)."""
+    if not ALERT_STATE_FILE.exists():
+        return False
+    try:
+        last = datetime.fromisoformat(ALERT_STATE_FILE.read_text().strip())
+        return (datetime.now() - last).total_seconds() < ALERT_THROTTLE_HOURS * 3600
+    except Exception:
+        return False
+
+
+def _mark_alert_sent():
+    try:
+        SECRETS_DIR.mkdir(parents=True, exist_ok=True)
+        ALERT_STATE_FILE.write_text(datetime.now().isoformat())
+    except Exception as exc:
+        log(f"alerta: falha ao gravar throttle: {exc}")
 
 
 def get_published_guids() -> set:
@@ -395,8 +437,32 @@ def main() -> int:
         return 0
 
     log(f"encontrados {len(pending)} episodio(s) pendente(s)")
+    consecutive_fails = 0
+    total_fails = 0
+    alerted_this_run = False
     for date_str, (m4a_path, trilha) in pending:
-        publish(date_str, m4a_path, trilha)
+        ok = publish(date_str, m4a_path, trilha)
+        if ok:
+            consecutive_fails = 0
+            continue
+        consecutive_fails += 1
+        total_fails += 1
+        if consecutive_fails >= FAIL_ALERT_THRESHOLD and not alerted_this_run:
+            alerted_this_run = True  # no máx. 1 tentativa de alerta por execução
+            if _alert_throttled():
+                log(f"ALERTA: {consecutive_fails} falhas consecutivas, mas throttled "
+                    f"(já notificado nas últimas {ALERT_THROTTLE_HOURS}h)")
+            else:
+                log(f"ALERTA: {consecutive_fails} falhas consecutivas de publicacao — notificando")
+                send_native_notification(
+                    "Highlights IA — watcher com falha",
+                    f"{consecutive_fails}+ episódios falharam ao publicar. "
+                    f"Ver ~/.medtech-secrets/podcast-watcher.stderr.log",
+                )
+                _mark_alert_sent()
+
+    if total_fails:
+        log(f"=== RESUMO: {total_fails} falha(s) de {len(pending)} episodio(s) nesta execucao ===")
 
     log("=== podcast-watcher end ===\n")
     return 0
