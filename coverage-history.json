@@ -309,6 +309,49 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-07-22",
+      "highlights": [
+        {
+          "title": "Google lança Gemini 3.6 Flash, 3.5 Flash-Lite e 3.5 Flash Cyber, e adianta início do pré-treino do Gemini 4",
+          "pilar": "Modelos & Labs",
+          "trilha": "tech",
+          "category": "LLMs/Frameworks",
+          "primary_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/",
+          "secondary_urls": [
+            "https://9to5google.com/2026/07/21/gemini-3-6-flash-launch/",
+            "https://www.droid-life.com/2026/07/21/google-drops-gemini-flash-3-6-on-us-teases-gemini-4/"
+          ]
+        },
+        {
+          "title": "Protocolo MCP publica release candidate da maior revisão desde o lançamento",
+          "pilar": "Protocolos & features",
+          "trilha": "tech",
+          "category": "LLMs/Frameworks",
+          "primary_url": "https://blog.modelcontextprotocol.io/posts/2026-07-28-release-candidate/",
+          "secondary_urls": [
+            "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/",
+            "https://www.infoq.com/news/2026/07/mcp-ema-enterprise-auth/"
+          ]
+        },
+        {
+          "title": "Gemini 3.6 Flash chega ao GitHub Copilot no dia do lançamento",
+          "pilar": "Engenharia de IA",
+          "trilha": "tech",
+          "category": "LLMs/Frameworks",
+          "primary_url": "https://github.blog/changelog/2026-07-21-gemini-3-6-flash-is-now-available-in-github-copilot/",
+          "secondary_urls": []
+        },
+        {
+          "title": "Relatório AI Index 2026 (Stanford HAI) mostra adoção acelerada de IA na educação",
+          "pilar": "IA na Educação",
+          "trilha": "misc",
+          "category": "Outras ferramentas",
+          "primary_url": "https://www.edtechinnovationhub.com/news/ai-adoption-accelerates-as-stanford-report-highlights-pressure-on-education-jobs-and-infrastructure",
+          "secondary_urls": []
+        }
+      ]
     }
   ],
   "tracks": {
@@ -317,8 +360,8 @@
       "last_edition": 1
     },
     "tech": {
-      "last_report": null,
-      "last_edition": 0
+      "last_report": "2026-07-22",
+      "last_edition": 1
     },
     "misc": {
       "last_report": null,
