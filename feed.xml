@@ -423,6 +423,20 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
+    <item>
+      <title>Highlights IA — Engenharia &amp; Modelos — 22 de julho de 2026</title>
+      <description><![CDATA[Google lança o Gemini 3.6 Flash e adianta o pré-treino do Gemini 4, a chinesa Moonshot lança o Kimi K3 (o maior modelo de pesos abertos já divulgado) e o protocolo MCP publica a release candidate da sua maior revisão desde o lançamento, migrando para uma arquitetura stateless. Áudio gerado com NotebookLM (Google).]]></description>
+      <link>https://docgabtxsmed.github.io/medtech-highlights-ia-feed/episodes/2026-07-22</link>
+      <guid isPermaLink="false">episode-2026-07-22</guid>
+      <pubDate>Wed, 22 Jul 2026 10:00:00 +0000</pubDate>
+      <enclosure url="https://pub-b4194e8fac8d4332a041634bfe2178cf.r2.dev/highlights-ia-2026-07-22-tech-podcast.m4a" length="52987932" type="audio/mp4"/>
+      <itunes:author>MedTech Community AI</itunes:author>
+      <itunes:duration>27:26</itunes:duration>
+      <itunes:summary><![CDATA[Google lança o Gemini 3.6 Flash e adianta o pré-treino do Gemini 4, a chinesa Moonshot lança o Kimi K3 (o maior modelo de pesos abertos já divulgado) e o protocolo MCP publica a release candidate da sua maior revisão desde o lançamento, migrando para uma arquitetura stateless. Áudio gerado com NotebookLM (Google).]]></itunes:summary>
+      <itunes:image href="https://docgabtxsmed.github.io/medtech-highlights-ia-feed/cover.png"/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <!-- ITEMS_INSERT_HERE -->
   </channel>
 </rss>
