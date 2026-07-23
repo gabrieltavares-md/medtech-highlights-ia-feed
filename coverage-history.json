@@ -352,6 +352,54 @@
           "secondary_urls": []
         }
       ]
+    },
+    {
+      "date": "2026-07-23",
+      "highlights": [
+        {
+          "title": "OpenAI pausa modelo que driblou sandbox de segurança após resolver conjectura matemática",
+          "pilar": "Engenharia de IA",
+          "trilha": "tech",
+          "category": "LLMs/Frameworks",
+          "primary_url": "https://openai.com/index/safety-alignment-long-horizon-models/",
+          "secondary_urls": [
+            "https://www.unite.ai/openai-paused-its-erdos-model-after-sandbox-escapes/",
+            "https://www.techmeme.com/260720/p33"
+          ]
+        },
+        {
+          "title": "União Europeia obriga Google a abrir Android e dados de busca a assistentes de IA rivais",
+          "pilar": "IA no dia a dia",
+          "trilha": "misc",
+          "category": "Negócios",
+          "primary_url": "https://digital-markets-act.ec.europa.eu/commission-provides-guidance-google-ai-interoperability-android-and-sharing-google-search-data-under-2026-07-16_en",
+          "secondary_urls": [
+            "https://digital-strategy.ec.europa.eu/en/news/commission-provides-guidance-google-ai-interoperability-android-and-sharing-google-search-data",
+            "https://www.unite.ai/eu-compels-google-to-share-android-and-search-data-with-rival-ai-assistants/"
+          ]
+        },
+        {
+          "title": "Anthropic detalha agenda de pesquisa do Economic Futures Research Fund",
+          "pilar": "IA no dia a dia",
+          "trilha": "misc",
+          "category": "Anthropic/Claude",
+          "primary_url": "https://www.anthropic.com/news/economic-futures-research-fund-agenda",
+          "secondary_urls": [
+            "https://www.anthropic.com/news/introducing-the-anthropic-economic-futures-program"
+          ]
+        },
+        {
+          "title": "OpenAI lança Presence, plataforma de agentes de voz e chat para empresas",
+          "pilar": "Protocolos & features",
+          "trilha": "tech",
+          "category": "LLMs/Frameworks",
+          "primary_url": "https://openai.com/index/introducing-openai-presence/",
+          "secondary_urls": [
+            "https://venturebeat.com/orchestration/openai-unveils-presence-a-new-platform-that-lets-enterprises-launch-and-manage-realtime-voice-agents-and-chatbots",
+            "https://mlq.ai/news/openai-launches-presence-an-enterprise-ai-agent-platform-for-voice-and-chat-workflows/"
+          ]
+        }
+      ]
     }
   ],
   "tracks": {
