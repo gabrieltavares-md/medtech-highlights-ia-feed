@@ -437,6 +437,20 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
+    <item>
+      <title>Highlights IA — Miscelânea — 24 de julho de 2026</title>
+      <description><![CDATA[A União Europeia concentrou em uma semana as regras finais de transparência do AI Act (Artigo 50) e as primeiras decisões vinculantes do DMA contra o Google, exigindo abertura do Android e compartilhamento de dados de busca. No mesmo episódio: China e Illinois avançam na regulação de agentes de IA, a Anthropic lança o Claude for Teachers, o Gallup registra o maior salto trimestral de adoção corporativa de IA nos EUA, Sal Khan admite os limites da primeira versão do Khanmigo, e a Universidade de Manchester adota uma política de IA em quatro níveis para avaliações. Áudio gerado com NotebookLM (Google).]]></description>
+      <link>https://docgabtxsmed.github.io/medtech-highlights-ia-feed/episodes/2026-07-24</link>
+      <guid isPermaLink="false">episode-2026-07-24</guid>
+      <pubDate>Fri, 24 Jul 2026 10:00:00 +0000</pubDate>
+      <enclosure url="https://pub-b4194e8fac8d4332a041634bfe2178cf.r2.dev/highlights-ia-2026-07-24-misc-podcast.m4a" length="23011049" type="audio/mp4"/>
+      <itunes:author>MedTech Community AI</itunes:author>
+      <itunes:duration>31:29</itunes:duration>
+      <itunes:summary><![CDATA[A União Europeia concentrou em uma semana as regras finais de transparência do AI Act (Artigo 50) e as primeiras decisões vinculantes do DMA contra o Google, exigindo abertura do Android e compartilhamento de dados de busca. No mesmo episódio: China e Illinois avançam na regulação de agentes de IA, a Anthropic lança o Claude for Teachers, o Gallup registra o maior salto trimestral de adoção corporativa de IA nos EUA, Sal Khan admite os limites da primeira versão do Khanmigo, e a Universidade de Manchester adota uma política de IA em quatro níveis para avaliações. Áudio gerado com NotebookLM (Google).]]></itunes:summary>
+      <itunes:image href="https://docgabtxsmed.github.io/medtech-highlights-ia-feed/cover.png"/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <!-- ITEMS_INSERT_HERE -->
   </channel>
 </rss>
