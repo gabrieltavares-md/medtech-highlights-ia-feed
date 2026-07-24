@@ -7,6 +7,16 @@
   },
   "episodes": [
     {
+      "guid": "episode-2026-07-24",
+      "date": "2026-07-24",
+      "trilha": "misc",
+      "title": "Highlights IA — Miscelânea — 24 de julho de 2026",
+      "duration_seconds": 1889,
+      "size_bytes": 23011049,
+      "enclosure_url": "https://pub-b4194e8fac8d4332a041634bfe2178cf.r2.dev/highlights-ia-2026-07-24-misc-podcast.m4a",
+      "object_key": "highlights-ia-2026-07-24-misc-podcast.m4a"
+    },
+    {
       "guid": "episode-2026-07-22",
       "date": "2026-07-22",
       "trilha": "tech",
