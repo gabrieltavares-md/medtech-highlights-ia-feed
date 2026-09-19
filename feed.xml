@@ -591,6 +591,20 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
+    <item>
+      <title>Highlights IA — Miscelânea — 21 de agosto de 2026</title>
+      <description><![CDATA[Nesta edição: a reestruturação do Copilot da Microsoft rumo a um 'Super App', o Sheets Canvas do Google, a expansão do Gemini no Google Classroom e a parceria da OpenAI com a CodeAI para letramento em IA nas escolas. Áudio gerado com NotebookLM (Google).]]></description>
+      <link>https://docgabtxsmed.github.io/medtech-highlights-ia-feed/episodes/2026-08-21</link>
+      <guid isPermaLink="false">episode-2026-08-21</guid>
+      <pubDate>Fri, 21 Aug 2026 10:00:00 +0000</pubDate>
+      <enclosure url="https://pub-b4194e8fac8d4332a041634bfe2178cf.r2.dev/highlights-ia-2026-08-21-misc-podcast.m4a" length="47284562" type="audio/mp4"/>
+      <itunes:author>MedTech Community AI</itunes:author>
+      <itunes:duration>24:29</itunes:duration>
+      <itunes:summary><![CDATA[Nesta edição: a reestruturação do Copilot da Microsoft rumo a um 'Super App', o Sheets Canvas do Google, a expansão do Gemini no Google Classroom e a parceria da OpenAI com a CodeAI para letramento em IA nas escolas. Áudio gerado com NotebookLM (Google).]]></itunes:summary>
+      <itunes:image href="https://docgabtxsmed.github.io/medtech-highlights-ia-feed/cover.png"/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <!-- ITEMS_INSERT_HERE -->
   </channel>
 </rss>
