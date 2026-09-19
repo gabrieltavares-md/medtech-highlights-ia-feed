@@ -605,6 +605,20 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
+    <item>
+      <title>Highlights IA — Engenharia &amp; Modelos — 26 de agosto de 2026</title>
+      <description><![CDATA[GA de computer use, browser use, Skills API e Files API na Claude Platform; harness Prime Agent eleva o placar de ARC-AGI-3 de 30,2% para 95,5% sem trocar o modelo; pausa de treinamento e novo pipeline de segurança da OpenAI; chip de inferência Jalapeño; Qwen3.8-Max de peso aberto; NVIDIA licencia a plataforma da Poolside; MCP e A2A convergindo sob a Agentic AI Foundation; e memória unificada entre chat e Cowork da Claude. Áudio gerado com NotebookLM (Google).]]></description>
+      <link>https://docgabtxsmed.github.io/medtech-highlights-ia-feed/episodes/2026-08-26</link>
+      <guid isPermaLink="false">episode-2026-08-26</guid>
+      <pubDate>Wed, 26 Aug 2026 10:00:00 +0000</pubDate>
+      <enclosure url="https://pub-b4194e8fac8d4332a041634bfe2178cf.r2.dev/highlights-ia-2026-08-26-tech-podcast.m4a" length="70513860" type="audio/mp4"/>
+      <itunes:author>MedTech Community AI</itunes:author>
+      <itunes:duration>36:31</itunes:duration>
+      <itunes:summary><![CDATA[GA de computer use, browser use, Skills API e Files API na Claude Platform; harness Prime Agent eleva o placar de ARC-AGI-3 de 30,2% para 95,5% sem trocar o modelo; pausa de treinamento e novo pipeline de segurança da OpenAI; chip de inferência Jalapeño; Qwen3.8-Max de peso aberto; NVIDIA licencia a plataforma da Poolside; MCP e A2A convergindo sob a Agentic AI Foundation; e memória unificada entre chat e Cowork da Claude. Áudio gerado com NotebookLM (Google).]]></itunes:summary>
+      <itunes:image href="https://docgabtxsmed.github.io/medtech-highlights-ia-feed/cover.png"/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <!-- ITEMS_INSERT_HERE -->
   </channel>
 </rss>
