@@ -1323,23 +1323,1388 @@
           "secondary_urls": []
         }
       ]
+    },
+    {
+      "date": "2026-08-11",
+      "highlights": [
+        {
+          "title": "Meta lança Muse Glimmer, modelo agente de peso aberto para rodar em um único GPU",
+          "pilar": "Modelos & Labs",
+          "trilha": "tech",
+          "category": "LLMs/Frameworks",
+          "primary_url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
+          "secondary_urls": [
+            "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/",
+            "https://siliconangle.com/2026/08/10/meta-releases-open-source-muse-glimmer-model-30b-parameters/",
+            "https://www.bloomberg.com/news/articles/2026-08-10/meta-releases-muse-glimmer-ai-model-people-can-run-on-their-laptop"
+          ]
+        },
+        {
+          "title": "Anthropic forma joint venture com Macquarie e GIC para construir data centers dedicados",
+          "pilar": "IA no dia a dia",
+          "trilha": "misc",
+          "category": "Negócios",
+          "primary_url": "https://www.macquarie.com/au/en/about/news/2026/anthropic-mam-gic-data-centre-infrastructure-partnership.html",
+          "secondary_urls": [
+            "https://www.bloomberg.com/news/articles/2026-08-10/anthropic-macquarie-and-gic-form-venture-for-ai-data-centers",
+            "https://www.datacenterdynamics.com/en/news/gic-and-macquarie-form-theseus-infrastructure-to-serve-anthropics-data-center-needs/"
+          ]
+        },
+        {
+          "title": "Enfermeiras nos EUA pressionam por participação nas decisões sobre IA clínica",
+          "pilar": "IA na Saúde",
+          "trilha": "medicina",
+          "category": "Saúde",
+          "primary_url": "https://www.statnews.com/2026/08/11/nurses-seek-involvement-clinical-ai-decisions/",
+          "secondary_urls": [
+            "https://www.theguardian.com/technology/2026/jul/13/nurses-new-york-ai",
+            "https://calmatters.org/economy/technology/2026/07/kaiser-nurses-workplace-surveillance-ai/"
+          ]
+        },
+        {
+          "title": "OpenAI expande o Daybreak com o GPT-5.6-Cyber, modelo especializado em cibersegurança",
+          "pilar": "Protocolos & features",
+          "trilha": "tech",
+          "category": "Outras ferramentas",
+          "primary_url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows/",
+          "secondary_urls": [
+            "https://venturebeat.com/technology/openai-launches-gpt-5-6-cyber-with-reduced-refusals-95-completion-on-advanced-cybersecurity-tasks",
+            "https://www.axios.com/2026/08/10/openai-gpt-astra-restrictions-safety-hacking-defenders"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-08-14",
+      "highlights": [
+        {
+          "title": "Google Gemini atinge 1 bilhão de usuários mensais ativos",
+          "pilar": "IA no dia a dia",
+          "trilha": "misc",
+          "category": "Outras ferramentas",
+          "primary_url": "https://blog.google/innovation-and-ai/products/gemini-app/one-billion-monthly-users/",
+          "secondary_urls": [
+            "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
+            "https://www.forbes.com/sites/antoniopequenoiv/2026/08/11/gemini-becomes-googles-fastest-growing-product-ever-after-hitting-1-billion-monthly-users/"
+          ]
+        },
+        {
+          "title": "Anthropic torna o modo automático padrão no Claude Code a partir de 14/ago",
+          "pilar": "Protocolos & features",
+          "trilha": "tech",
+          "category": "Anthropic/Claude",
+          "primary_url": "https://code.claude.com/docs/en/permission-modes",
+          "secondary_urls": [
+            "https://www.infoworld.com/article/4207959/anthropic-makes-claude-codes-auto-mode-default-for-paid-users.html",
+            "https://9to5mac.com/2026/08/07/psa-claude-code-enabling-auto-mode-as-default-next-week-anthropic-says/"
+          ]
+        },
+        {
+          "title": "DeepSeek V4 Pro 0813 sai do preview e vira modelo principal",
+          "pilar": "Modelos & Labs",
+          "trilha": "tech",
+          "category": "LLMs/Frameworks",
+          "primary_url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
+          "secondary_urls": [
+            "https://www.unite.ai/deepseek-ships-v4-pro-as-its-flagship-model-leaves-preview/",
+            "https://www.techtimes.com/articles/324241/20260813/deepseek-v4-pro-0813-goes-ga-benchmark-claims-await-independent-proof.htm"
+          ]
+        },
+        {
+          "title": "xAI lança o Grok 4.6, com foco em agentes de longa duração",
+          "pilar": "Modelos & Labs",
+          "trilha": "tech",
+          "category": "LLMs/Frameworks",
+          "primary_url": "https://x.ai/news/grok-4-6",
+          "secondary_urls": [
+            "https://llm-stats.com/blog/research/grok-4.6-launch"
+          ]
+        },
+        {
+          "title": "Estudo na Nature Medicine: explicações de IA no diagnóstico podem gerar dependência excessiva em não especialistas",
+          "pilar": "IA na Saúde",
+          "trilha": "medicina",
+          "category": "Saúde",
+          "primary_url": "https://www.nature.com/articles/s41591-026-04553-w",
+          "secondary_urls": [
+            "https://medicalxpress.com/news/2026-08-medical-ai-benefits-vary-expertise.html",
+            "https://www.hospimedica.com/artificial-intelligence/articles/294812449/new-study-highlights-benefits-and-risks-of-ai-explanations-in-clinical-diagnosis.html"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-08-17",
+      "highlights": [
+        {
+          "title": "Anthropic detalha o funcionamento do watermarking de texto do Claude",
+          "pilar": "Protocolos & features",
+          "trilha": "tech",
+          "category": "Anthropic/Claude",
+          "primary_url": "https://www.anthropic.com/news/claude-text-watermark",
+          "secondary_urls": [
+            "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/"
+          ]
+        },
+        {
+          "title": "Gemini no Google Classroom passa a valer para estudantes de todas as idades",
+          "pilar": "IA na Educação",
+          "trilha": "misc",
+          "category": "Outras ferramentas",
+          "primary_url": "https://workspaceupdates.googleblog.com/2026/08/gemini-in-google-classroom-is-expanding-to-users-of-all-ages-with-contextualized-Gemini-starter-prompts-for-students.html",
+          "secondary_urls": []
+        },
+        {
+          "title": "Doze sistemas de saúde dos EUA formam consórcio de IA diagnóstica com a Aidoc",
+          "pilar": "IA na Saúde",
+          "trilha": "medicina",
+          "category": "Saúde",
+          "primary_url": "https://news.uhhospitals.org/news-releases/articles/2026/08/twelve-us-health-systems-and-aidoc-unite",
+          "secondary_urls": [
+            "https://www.beckershospitalreview.com/healthcare-information-technology/ai/12-health-systems-form-ai-diagnostic-consortium/"
+          ]
+        },
+        {
+          "title": "Hartford HealthCare amplia PatientGPT para 1 milhão de pacientes; MUSC Health expande agente de atendimento",
+          "pilar": "IA na Saúde",
+          "trilha": "medicina",
+          "category": "Saúde",
+          "primary_url": "https://healthtechmagazine.net/article/2026/08/moving-toward-more-seamless-patient-experience-ai",
+          "secondary_urls": [
+            "https://www.fiercehealthcare.com/ai-and-machine-learning/hartford-healthcare-k-health-launch-patientgpt-new-ai-tool-help-patients"
+          ]
+        },
+        {
+          "title": "Microsoft reestrutura o Copilot: recursos gratuitos de pesquisa profunda somem em 18 de agosto",
+          "pilar": "IA no dia a dia",
+          "trilha": "misc",
+          "category": "Outras ferramentas",
+          "primary_url": "https://www.geekwire.com/2026/microsoft-starts-merging-its-copilot-consumer-and-business-apps-in-advance-of-super-app-rollout/",
+          "secondary_urls": [
+            "https://www.techtimes.com/articles/324537/20260814/microsoft-copilot-rollout-starts-free-deep-research-retired-four-days.htm"
+          ]
+        },
+        {
+          "title": "Google lança o Gemini 3.7 Flash, modelo voltado a codificação e agentes",
+          "pilar": "Modelos & Labs",
+          "trilha": "tech",
+          "category": "LLMs/Frameworks",
+          "primary_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
+          "secondary_urls": [
+            "https://www.axios.com/2026/08/13/google-gemini-37-flash"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-08-18",
+      "highlights": [
+        {
+          "title": "Alibaba lança Qwen3.8-27B, modelo aberto que roda em uma única GPU e rivaliza com IA de ponta",
+          "pilar": "Modelos & Labs",
+          "trilha": "tech",
+          "category": "LLMs/Frameworks",
+          "primary_url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+          "secondary_urls": [
+            "https://the-decoder.com/alibabas-qwen-team-releases-qwen-3-8-models-with-open-weights-under-the-apache-2-0-license/",
+            "https://venturebeat.com/technology/qwen3-8-27b-runs-frontier-class-coding-agents-and-reasoning-locally-no-cloud-api-required"
+          ]
+        },
+        {
+          "title": "OpenAI testa modo Ultrafast do GPT-5.6 Sol com chips da Cerebras",
+          "pilar": "Engenharia de IA",
+          "trilha": "tech",
+          "category": "Outras ferramentas",
+          "primary_url": "https://openai.com/index/previewing-ultrafast/",
+          "secondary_urls": [
+            "https://investors.cerebras.ai/news-releases/news-release-details/cerebras-powers-ultrafast-mode-openais-gpt-56-sol",
+            "https://www.hpcwire.com/aiwire/2026/08/14/cerebras-powers-openais-gpt-5-6-sol-ultrafast-mode/"
+          ]
+        },
+        {
+          "title": "Estudo aponta que testes de IA para esquizofrenia por eletroencefalograma têm acurácia superestimada",
+          "pilar": "Artigos científicos",
+          "trilha": "medicina",
+          "category": "Papers",
+          "primary_url": "https://doi.org/10.1038/s41398-026-04315-9",
+          "secondary_urls": [
+            "https://yesilscience.com/ai-schizophrenia-tests-are-failing-basic-math/"
+          ]
+        },
+        {
+          "title": "Google lança Sheets Canvas, que transforma planilhas em miniaplicativos com IA generativa",
+          "pilar": "IA no dia a dia",
+          "trilha": "misc",
+          "category": "Outras ferramentas",
+          "primary_url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/",
+          "secondary_urls": []
+        },
+        {
+          "title": "Remover redundância em anotações clínicas melhora aprendizado por reforço aplicado à ventilação mecânica",
+          "pilar": "Artigos científicos",
+          "trilha": "medicina",
+          "category": "Papers",
+          "primary_url": "https://arxiv.org/abs/2608.14157",
+          "secondary_urls": []
+        }
+      ]
+    },
+    {
+      "date": "2026-08-19",
+      "highlights": [
+        {
+          "title": "Anthropic eleva risco de desalinhamento e revela o 'Model 2'",
+          "pilar": "Modelos & Labs",
+          "trilha": "tech",
+          "category": "Anthropic/Claude",
+          "primary_url": "https://www.anthropic.com/aug-2026-risk-report",
+          "secondary_urls": [
+            "https://www.unite.ai/anthropic-raises-misalignment-risk-to-low-and-shelves-internal-model-2/",
+            "https://www.techtimes.com/articles/324573/20260815/anthropic-upgrades-misalignment-risk-key-safety-benchmarks-saturate.htm"
+          ]
+        },
+        {
+          "title": "OpenAI lança o ChatGPT para Adolescentes",
+          "pilar": "IA na Educação",
+          "trilha": "misc",
+          "category": "Outras ferramentas",
+          "primary_url": "https://openai.com/index/chatgpt-for-teens/",
+          "secondary_urls": [
+            "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/",
+            "https://www.cnbc.com/2026/08/18/openai-chatgpt-for-teens-safety.html"
+          ]
+        },
+        {
+          "title": "Framework liga LLMs de saúde a grafos de conhecimento causal",
+          "pilar": "Artigos científicos",
+          "trilha": "medicina",
+          "category": "Papers",
+          "primary_url": "https://arxiv.org/abs/2608.15382",
+          "secondary_urls": []
+        },
+        {
+          "title": "Google leva o Gemini para dentro do Admin Console do Workspace",
+          "pilar": "Protocolos & features",
+          "trilha": "tech",
+          "category": "Outras ferramentas",
+          "primary_url": "https://workspaceupdates.googleblog.com/2026/08/use-gemini-to-help-manage-google-Workspace-for-your-organization.html",
+          "secondary_urls": []
+        }
+      ]
+    },
+    {
+      "date": "2026-08-21",
+      "highlights": [
+        {
+          "title": "OpenAI reforça monitoramento e pausa treinamento de ponta após incidente de segurança",
+          "pilar": "Modelos & Labs",
+          "trilha": "tech",
+          "category": "LLMs/Frameworks",
+          "primary_url": "https://openai.com/index/pacing-model-development-cyber-capabilities/",
+          "secondary_urls": []
+        },
+        {
+          "title": "OpenAI reafirma retenção zero de dados e anuncia 'Processamento Privado de Segurança'",
+          "pilar": "Protocolos & features",
+          "trilha": "tech",
+          "category": "Outras ferramentas",
+          "primary_url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models/",
+          "secondary_urls": []
+        },
+        {
+          "title": "OpenAI e CodeAI lançam parceria para letramento em IA nas escolas",
+          "pilar": "IA na Educação",
+          "trilha": "misc",
+          "category": "Outras ferramentas",
+          "primary_url": "https://openai.com/index/partnering-with-codeai/",
+          "secondary_urls": []
+        },
+        {
+          "title": "Claude Code ganha modo de resposta 'Concise'",
+          "pilar": "Protocolos & features",
+          "trilha": "tech",
+          "category": "Anthropic/Claude",
+          "primary_url": "https://code.claude.com/docs/en/changelog",
+          "secondary_urls": [
+            "https://x.com/ClaudeCodeLog/status/2090267180386472066"
+          ]
+        },
+        {
+          "title": "Debate sobre o 'sistema médico paralelo' criado pela IA",
+          "pilar": "IA na Saúde",
+          "trilha": "medicina",
+          "category": "Saúde",
+          "primary_url": "https://www.statnews.com/2026/08/19/ai-doctor-outperforms-chatgpt-oura-quest-ro-hims-medical-system/",
+          "secondary_urls": []
+        },
+        {
+          "title": "Framework neuro-simbólico melhora otimização combinatória em modelos pequenos",
+          "pilar": "Artigos científicos",
+          "trilha": "tech",
+          "category": "Papers",
+          "primary_url": "https://arxiv.org/abs/2608.18409",
+          "secondary_urls": []
+        }
+      ]
+    },
+    {
+      "date": "2026-08-22",
+      "highlights": [
+        {
+          "title": "Gemma, família de modelos abertos do Google, ultrapassa 1 bilhão de downloads",
+          "pilar": "Modelos & Labs",
+          "trilha": "tech",
+          "category": "LLMs/Frameworks",
+          "primary_url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemma-one-billion-downloads/",
+          "secondary_urls": [
+            "https://www.unite.ai/googles-gemma-open-models-pass-1-billion-downloads-as-variants-top-100k/"
+          ]
+        },
+        {
+          "title": "FDA abre consulta pública sobre regulação de dispositivos médicos com IA generativa",
+          "pilar": "IA na Saúde",
+          "trilha": "medicina",
+          "category": "Saúde",
+          "primary_url": "https://www.fda.gov/news-events/press-announcements/fda-seeks-public-feedback-inform-regulatory-approach-generative-ai-enabled-medical-devices",
+          "secondary_urls": [
+            "https://www.fda.gov/medical-devices/digital-health-center-excellence/considerations-regulation-generative-ai-enabled-medical-devices-discussion-paper-and-request"
+          ]
+        },
+        {
+          "title": "Bioptimus e Cancer Research Horizons firmam parceria em IA para câncer colorretal",
+          "pilar": "IA na Saúde",
+          "trilha": "medicina",
+          "category": "Saúde",
+          "primary_url": "https://pharmaphorum.com/news/bioptimus-cancer-research-horizons-partner-ai-powered-precision-medicine",
+          "secondary_urls": [
+            "https://www.mobihealthnews.com/news/bioptimus-cancer-research-horizons-partner-ai-cancer-model"
+          ]
+        },
+        {
+          "title": "Google propõe camada programável para tornar ambientes de treino de agentes de IA mais dinâmicos",
+          "pilar": "Artigos científicos",
+          "trilha": "tech",
+          "category": "Papers",
+          "primary_url": "https://arxiv.org/abs/2608.19880",
+          "secondary_urls": [
+            "https://huggingface.co/papers/2608.19880",
+            "https://github.com/google-research/envharness"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-08-23",
+      "highlights": [
+        {
+          "title": "Model Context Protocol publica novo roadmap com foco em identidade de agentes",
+          "pilar": "Protocolos & features",
+          "trilha": "tech",
+          "category": "LLMs/Frameworks",
+          "primary_url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/",
+          "secondary_urls": []
+        },
+        {
+          "title": "Só 3 de 1.357 dispositivos de IA aprovados pela FDA testaram desfechos clínicos, mostra estudo",
+          "pilar": "IA na Saúde",
+          "trilha": "medicina",
+          "category": "Saúde",
+          "primary_url": "https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001597",
+          "secondary_urls": [
+            "https://www.healio.com/news/primary-care/20260821/most-ai-tools-cleared-by-fda-were-not-tested-on-clinical-outcomes",
+            "https://www.news-medical.net/news/20260820/Only-three-of-1357-FDA-cleared-AI-devices-tested-patient-outcomes.aspx"
+          ]
+        },
+        {
+          "title": "NVIDIA paga US$ 6 bilhões para licenciar plataforma de modelos da Poolside",
+          "pilar": "Modelos & Labs",
+          "trilha": "tech",
+          "category": "Negócios",
+          "primary_url": "https://www.newcomer.co/p/sources-poolside-strikes-6-billion",
+          "secondary_urls": [
+            "https://www.bloomberg.com/news/articles/2026-08-20/nvidia-to-pay-ai-startup-poolside-a-6-billion-license-newcomer-says",
+            "https://www.theinformation.com/briefings/nvidia-reportedly-pay-6-billion-licensing-hiring-deal-ai-model-startup-poolside"
+          ]
+        },
+        {
+          "title": "Anthropic lança Claude Academy, plataforma gratuita de cursos sobre IA",
+          "pilar": "IA na Educação",
+          "trilha": "misc",
+          "category": "Anthropic/Claude",
+          "primary_url": "https://academy.claude.com",
+          "secondary_urls": [
+            "https://pasqualepillitteri.it/en/news/12081/claude-academy-live-free-courses-learn-claude"
+          ]
+        },
+        {
+          "title": "EnvHarness: paper do Google propõe 'despertar' ambientes estáticos para treinar agentes de IA",
+          "pilar": "Artigos científicos",
+          "trilha": "tech",
+          "category": "Papers",
+          "primary_url": "https://arxiv.org/abs/2608.19880",
+          "secondary_urls": [
+            "https://huggingface.co/papers/2608.19880"
+          ]
+        },
+        {
+          "title": "Google integra Gemini como comando central dentro do Google Chat",
+          "pilar": "IA no dia a dia",
+          "trilha": "misc",
+          "category": "Outras ferramentas",
+          "primary_url": "https://workspaceupdates.googleblog.com/2026/08/ask-gemini-in-chat.html",
+          "secondary_urls": []
+        }
+      ]
+    },
+    {
+      "date": "2026-08-25",
+      "highlights": [
+        {
+          "title": "Anthropic leva agentes de produção ao Claude Platform: computer use, browser use, Skills API e Files API saem do beta",
+          "pilar": "Protocolos & features",
+          "trilha": "tech",
+          "category": "Anthropic/Claude",
+          "primary_url": "https://claude.com/blog/computer-use-skills-api-files-api",
+          "secondary_urls": [
+            "https://www.channelinsider.com/ai/news-anthropic-claude-computer-use-skills-files-api/",
+            "https://aicatchup.com/news/claude-platform-computer-browser-skills-files-ga"
+          ]
+        },
+        {
+          "title": "Protocolo A2A do Google migra para a Agentic AI Foundation, ao lado do MCP",
+          "pilar": "Engenharia de IA",
+          "trilha": "tech",
+          "category": "LLMs/Frameworks",
+          "primary_url": "https://www.axios.com/2026/08/17/a2a-agentic-ai-foundation-open-ai-standards",
+          "secondary_urls": [
+            "https://www.techzine.eu/news/devops/143659/google-transfers-a2a-to-the-agentic-ai-foundation/"
+          ]
+        },
+        {
+          "title": "Alibaba abre os pesos do Qwen3.8-Max, seu maior modelo de linguagem",
+          "pilar": "Modelos & Labs",
+          "trilha": "tech",
+          "category": "LLMs/Frameworks",
+          "primary_url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
+          "secondary_urls": [
+            "https://www.explainx.ai/blog/qwen3-8-max-open-weights-live-hugging-face-august-2026",
+            "https://www.scmp.com/tech/article/3362738/alibabas-ai-model-qwen38-max-made-widely-accessible-ahead-open-weights-release"
+          ]
+        },
+        {
+          "title": "UCCS libera o ChatGPT Edu para todos os alunos após curso obrigatório de alfabetização em IA",
+          "pilar": "IA na Educação",
+          "trilha": "misc",
+          "category": "Outras ferramentas",
+          "primary_url": "https://news.uccs.edu/2026/08/14/chatgpt-edu-launches-for-students/",
+          "secondary_urls": []
+        }
+      ]
+    },
+    {
+      "date": "2026-08-26",
+      "highlights": [
+        {
+          "title": "OpenAI divulga primeiros resultados do Jalapeño, seu chip próprio de inferência",
+          "pilar": "Modelos & Labs",
+          "trilha": "tech",
+          "category": "Outras ferramentas",
+          "primary_url": "https://openai.com/index/jalapeno-first-results/",
+          "secondary_urls": []
+        },
+        {
+          "title": "Prime Agent: harness open-source eleva desempenho de agentes de IA em tarefas longas",
+          "pilar": "Engenharia de IA",
+          "trilha": "tech",
+          "category": "Papers",
+          "primary_url": "https://arxiv.org/abs/2608.23552",
+          "secondary_urls": [
+            "https://github.com/PrimeIntellect-ai/prime-agent",
+            "https://www.primeintellect.ai/blog/prime-agent"
+          ]
+        },
+        {
+          "title": "Claude unifica memória entre chat e Cowork",
+          "pilar": "Protocolos & features",
+          "trilha": "tech",
+          "category": "Anthropic/Claude",
+          "primary_url": "https://claude.com/blog/claudes-memory-works-everywhere-and-you-decide-whats-in-it",
+          "secondary_urls": []
+        },
+        {
+          "title": "IA ajuda a flagrar desvio de medicamentos em hospitais, mas depende de ação humana",
+          "pilar": "IA na Saúde",
+          "trilha": "medicina",
+          "category": "Saúde",
+          "primary_url": "https://www.statnews.com/2026/08/25/ai-drug-diversion-software-human-oversight-controlcheck-sentri7/",
+          "secondary_urls": []
+        },
+        {
+          "title": "Anthropic lança fundo de US$ 5 milhões para pesquisa independente sobre bem-estar e IA",
+          "pilar": "IA no dia a dia",
+          "trilha": "misc",
+          "category": "Anthropic/Claude",
+          "primary_url": "https://www.anthropic.com/news/wellbeing-research-grants",
+          "secondary_urls": []
+        }
+      ]
+    },
+    {
+      "date": "2026-08-27",
+      "highlights": [
+        {
+          "title": "Z.ai lança GLM-5.3-Flash, modelo aberto multimodal com contexto de 1 milhão de tokens",
+          "pilar": "Modelos & Labs",
+          "trilha": "tech",
+          "category": "LLMs/Frameworks",
+          "primary_url": "https://z.ai/blog/glm-5.3-flash",
+          "secondary_urls": [
+            "https://www.marktechpost.com/2026/08/26/z-ai-releases-glm-5-3-flash-a-320b-a18b-natively-multimodal-moe-with-a-1m-token-context/",
+            "https://huggingface.co/zai-org/GLM-5.3-Flash"
+          ]
+        },
+        {
+          "title": "IBM lança Granite 4.2 com raciocínio nativo e RL agêntico sob licença Apache 2.0",
+          "pilar": "Modelos & Labs",
+          "trilha": "tech",
+          "category": "LLMs/Frameworks",
+          "primary_url": "https://research.ibm.com/blog/introducing-granite-4-2",
+          "secondary_urls": [
+            "https://www.marktechpost.com/2026/08/25/ibm-releases-granite-4-2-bringing-native-reasoning-and-agentic-rl-to-open-enterprise-models/",
+            "https://huggingface.co/blog/ibm-granite/granite-4-2"
+          ]
+        },
+        {
+          "title": "Google Research e UNSW Sydney apresentam GlucoFM, modelo fundação para monitoramento contínuo de glicose",
+          "pilar": "Artigos científicos",
+          "trilha": "medicina",
+          "category": "Papers",
+          "primary_url": "https://research.google/blog/glucofm-foundation-model-for-continuous-glucose-monitoring/",
+          "secondary_urls": [
+            "https://arxiv.org/abs/2605.30865",
+            "https://www.marktechpost.com/2026/08/26/google-research-introduces-glucofm-a-0-72m-parameter-dual-stream-foundation-model-for-continuous-glucose-monitoring/"
+          ]
+        },
+        {
+          "title": "Perplexity lança Portable Computer, agente que roda localmente em hardware NVIDIA DGX Spark",
+          "pilar": "Engenharia de IA",
+          "trilha": "tech",
+          "category": "Outras ferramentas",
+          "primary_url": "https://www.perplexity.ai/hub/products/portable-computer",
+          "secondary_urls": [
+            "https://www.marktechpost.com/2026/08/25/perplexity-ships-portable-computer-on-nvidia-dgx-spark-local-harness-os-enforced-sandbox-and-zero-per-token-cost-for-local-steps/"
+          ]
+        },
+        {
+          "title": "ChatGPT Work passa a concluir tarefas em sites que exigem login",
+          "pilar": "IA no dia a dia",
+          "trilha": "misc",
+          "category": "Outras ferramentas",
+          "primary_url": "https://x.com/ChatGPT/status/2092366556584153249",
+          "secondary_urls": [
+            "https://canaltech.com.br/inteligencia-artificial/controle-total-chatgpt-agora-faz-login-em-sites-para-fazer-tarefas-por-voce/",
+            "https://www.neowin.net/news/chatgpt-work-can-now-log-in-to-websites-and-complete-tasks-for-you/",
+            "https://www.notebookcheck.net/ChatGPT-can-now-sign-in-to-your-accounts-and-stay-signed-in.1379126.0.html"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-08-28",
+      "highlights": [
+        {
+          "title": "IA em tempo real ajuda a remover tumor cerebral e preservar visão de paciente em Londres",
+          "pilar": "IA na Saúde",
+          "trilha": "medicina",
+          "category": "Saúde",
+          "primary_url": "https://www.uclh.nhs.uk/news/first-patient-live-ai-assisted-sight-saving-brain-surgery",
+          "secondary_urls": [
+            "https://www.rte.ie/news/newslens/2026/0827/1589395-ai-surgery/",
+            "https://www.theweek.in/news/health/2026/08/27/worlds-first-how-ai-helped-doctors-remove-uk-mans-brain-tumour.html"
+          ]
+        },
+        {
+          "title": "Anthropic abre pré-visualização de padrão para IA operar máquinas de laboratório e fábrica",
+          "pilar": "Protocolos & features",
+          "trilha": "tech",
+          "category": "Anthropic/Claude",
+          "primary_url": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
+          "secondary_urls": [
+            "https://www.cnbc.com/2026/08/27/anthropic-pushes-into-physical-world-with-new-standard-to-help-ai-agents-operate-machines.html",
+            "https://fortune.com/2026/08/27/anthropic-makes-first-move-into-physical-ai-with-universal-standard-for-scientists-manufacturing/"
+          ]
+        },
+        {
+          "title": "OpenAI expande ChatGPT for Teachers para mais de 100 mil educadores nos EUA",
+          "pilar": "IA na Educação",
+          "trilha": "misc",
+          "category": "Outras ferramentas",
+          "primary_url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts/",
+          "secondary_urls": [
+            "https://www.citybiz.co/article/894969/openai-expands-free-chatgpt-for-teachers-program-to-55-more-u-s-school-systems/"
+          ]
+        },
+        {
+          "title": "Estudo indica que o raciocínio explicado por IA em diagnósticos médicos pode ser apenas decorativo",
+          "pilar": "Artigos científicos",
+          "trilha": "medicina",
+          "category": "Papers",
+          "primary_url": "https://arxiv.org/abs/2608.24790",
+          "secondary_urls": []
+        },
+        {
+          "title": "Uso de IA no trabalho salta para 84% entre profissionais em Portugal",
+          "pilar": "IA no dia a dia",
+          "trilha": "misc",
+          "category": "Negócios",
+          "primary_url": "https://www.theportugalnews.com/news/2026-08-27/ai-use-surges-in-portuguese-workplaces/1076632",
+          "secondary_urls": [
+            "https://eco.sapo.pt/2026/08/26/84-dos-portugueses-ja-usam-inteligencia-artificial-no-trabalho/"
+          ]
+        },
+        {
+          "title": "Salesforce e Anthropic lançam parceria Claudeforce para integrar Claude ao CRM e ao Slack",
+          "pilar": "Engenharia de IA",
+          "trilha": "tech",
+          "category": "Anthropic/Claude",
+          "primary_url": "https://www.salesforce.com/news/press-releases/2026/08/26/salesforce-and-anthropic-announce-claudeforce/",
+          "secondary_urls": [
+            "https://finance.yahoo.com/technology/ai/articles/salesforce-anthropic-launch-claudeforce-ai-120620067.html"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-08-29",
+      "highlights": [
+        {
+          "title": "Tempus AI recebe autorização da FDA para detectar hipertensão pulmonar por ECG",
+          "pilar": "IA na Saúde",
+          "trilha": "medicina",
+          "category": "Saúde",
+          "primary_url": "https://www.biospace.com/press-releases/tempus-receives-fda-clearance-for-its-ai-product-intended-to-detect-signs-of-pulmonary-hypertension-from-standard-ecgs",
+          "secondary_urls": [
+            "https://cardiovascularbusiness.com/topics/artificial-intelligence/fda-clears-ai-software-detecting-untreated-pulmonary-hypertension-12-lead-ecgs",
+            "https://www.mobihealthnews.com/news/tempus-ai-receives-fda-clearance-pulmonary-hypertension-tool"
+          ]
+        },
+        {
+          "title": "ECRI amplia rede de notificação para incluir erros de IA na assistência",
+          "pilar": "IA na Saúde",
+          "trilha": "medicina",
+          "category": "Saúde",
+          "primary_url": "https://home.ecri.org/blogs/ecri-news/ecri-expands-problem-reporting-network-and-calls-for-more-data-on-ai-errors-in-patient-care",
+          "secondary_urls": [
+            "https://www.fiercehealthcare.com/health-tech/weekly-rundown-ecri-expands-reporting-network-include-ai-errors-american-nurses"
+          ]
+        },
+        {
+          "title": "Anthropic abre 10 mil vagas gratuitas de Claude para cientistas",
+          "pilar": "Modelos & Labs",
+          "trilha": "tech",
+          "category": "Anthropic/Claude",
+          "primary_url": "https://www.anthropic.com/news/expanding-support-for-scientists",
+          "secondary_urls": []
+        },
+        {
+          "title": "Revisão de Stanford mostra que tutoria com IA funciona melhor apoiando tutores humanos",
+          "pilar": "IA na Educação",
+          "trilha": "misc",
+          "category": "Outras ferramentas",
+          "primary_url": "https://scale.stanford.edu/research-in-action/ai-tutoring-not-monolith",
+          "secondary_urls": [
+            "https://www.edtechinnovationhub.com/news/stanford-ai-tutoring-human-tutors"
+          ]
+        },
+        {
+          "title": "Novo benchmark UrbanGround testa agentes multimodais em réplica 3D de cidade real",
+          "pilar": "Artigos científicos",
+          "trilha": "tech",
+          "category": "Papers",
+          "primary_url": "https://arxiv.org/abs/2608.27456",
+          "secondary_urls": []
+        }
+      ]
+    },
+    {
+      "date": "2026-08-30",
+      "highlights": [
+        {
+          "title": "Justiça dos EUA anula rótulo de \"risco à cadeia de suprimentos\" imposto à Anthropic pelo Pentágono",
+          "pilar": "IA no dia a dia",
+          "trilha": "misc",
+          "category": "Anthropic/Claude",
+          "primary_url": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
+          "secondary_urls": [
+            "https://www.axios.com/2026/08/28/judge-blocks-pentagon-anthropic-blacklist",
+            "https://www.nbcnews.com/business/business-news/anthropic-pentagon-blacklist-claude-judge-rcna594825",
+            "https://www.cnbc.com/2026/08/28/judge-blocks-pentagon-blacklist--anthropic-.html"
+          ]
+        },
+        {
+          "title": "Nvidia negocia compra da Hugging Face por US$ 12,9 bilhões",
+          "pilar": "Modelos & Labs",
+          "trilha": "tech",
+          "category": "Negócios",
+          "primary_url": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/",
+          "secondary_urls": [
+            "https://www.bloomberg.com/news/articles/2026-08-27/nvidia-discussed-buying-ai-startup-hugging-face-insider-says",
+            "https://www.cnbc.com/2026/08/27/nvidia-hugging-face-acquisition.html",
+            "https://www.forbes.com/sites/siladityaray/2026/08/27/nvidia-has-reportedly-agreed-to-buy-ai-model-hosting-platform-hugging-face-for-13-billion/"
+          ]
+        },
+        {
+          "title": "IA identifica sinais de doença cardiovascular em mamografias de rotina",
+          "pilar": "IA na Saúde",
+          "trilha": "medicina",
+          "category": "Saúde",
+          "primary_url": "https://www.escardio.org/news/press/press-releases/ai-could-help-detect-common-cardiovascular-diseases-from-mammograms/",
+          "secondary_urls": [
+            "https://medicalxpress.com/news/2026-08-ai-common-cardiovascular-diseases-mammograms.html"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-08-31",
+      "highlights": [
+        {
+          "title": "CFM regulamenta uso de IA na prática médica no Brasil",
+          "pilar": "IA na Saúde",
+          "trilha": "medicina",
+          "category": "Saúde",
+          "primary_url": "https://portal.cfm.org.br/noticias/cfm-normatiza-uso-da-ia-na-medicina/",
+          "secondary_urls": [
+            "https://news.cremerj.org.br/2026/08/27/regras-sobre-uso-da-ia-na-medicina-entram-em-vigor-nesta-quarta-feira-26-de-agosto/",
+            "https://www.conjur.com.br/2026-mar-30/ia-na-saude-o-que-hospitais-e-clinicas-precisam-fazer-ate-agosto-com-a-resolucao-cfm-2-454-2026/"
+          ]
+        },
+        {
+          "title": "Anthropic alerta sobre malware que sequestra sessões do Claude",
+          "pilar": "IA no dia a dia",
+          "trilha": "misc",
+          "category": "Anthropic/Claude",
+          "primary_url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-warns-infostealer-malware-is-hijacking-claude-sessions-to-drain-usage/",
+          "secondary_urls": [
+            "https://www.helpnetsecurity.com/2026/08/31/claude-accounts-compromised-through-infostealer/"
+          ]
+        },
+        {
+          "title": "Chatbots de IA resistem melhor que buscadores à propaganda de Estados",
+          "pilar": "IA no dia a dia",
+          "trilha": "misc",
+          "category": "Outras ferramentas",
+          "primary_url": "https://www.npr.org/2026/08/30/nx-s1-5876436/chatbots-search-propaganda",
+          "secondary_urls": []
+        },
+        {
+          "title": "ChatGPT Ads chega a US$ 1 bilhão em receita anualizada",
+          "pilar": "IA no dia a dia",
+          "trilha": "misc",
+          "category": "Negócios",
+          "primary_url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads/",
+          "secondary_urls": []
+        }
+      ]
+    },
+    {
+      "date": "2026-09-01",
+      "highlights": [
+        {
+          "title": "ChatGPT para Saúde passa a integrar prontuários eletrônicos da Epic e nove bases públicas oficiais",
+          "pilar": "IA na Saúde",
+          "trilha": "medicina",
+          "category": "Saúde",
+          "primary_url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources/",
+          "secondary_urls": [
+            "https://www.fiercehealthcare.com/ai-and-machine-learning/chatgpt-healthcare-unveils-new-integrations-epic-ehr-public-health-data",
+            "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/"
+          ]
+        },
+        {
+          "title": "Anthropic detalha falhas de alinhamento após incidentes com agentes Claude em testes de cibersegurança",
+          "pilar": "Modelos & Labs",
+          "trilha": "tech",
+          "category": "Anthropic/Claude",
+          "primary_url": "https://www.anthropic.com/news/improving-alignment-security-efforts",
+          "secondary_urls": [
+            "https://fortune.com/2026/09/01/openais-reports-on-its-ai-agents-attack-on-hugging-face-should-be-ringing-alarm-bellsand-making-all-companies-rethink-how-they-secure-ai-agents/"
+          ]
+        },
+        {
+          "title": "Estudo mostra que IA pode ser facilmente persuadida a abandonar uma decisão clínica correta",
+          "pilar": "Artigos científicos",
+          "trilha": "medicina",
+          "category": "Papers",
+          "primary_url": "https://arxiv.org/abs/2608.29453",
+          "secondary_urls": []
+        },
+        {
+          "title": "Falha de autenticação na Microsoft 365 derruba Copilot, Teams e SharePoint por mais de um dia",
+          "pilar": "IA no dia a dia",
+          "trilha": "misc",
+          "category": "Outras ferramentas",
+          "primary_url": "https://techcrunch.com/2026/09/01/microsoft-365-outage-drags-on-but-things-are-improving/",
+          "secondary_urls": []
+        }
+      ]
+    },
+    {
+      "date": "2026-09-03",
+      "highlights": [
+        {
+          "title": "Anthropic lança Claude Fable 5.1 e Claude Mythos 5.1",
+          "pilar": "Modelos & Labs",
+          "trilha": "tech",
+          "category": "Anthropic/Claude",
+          "primary_url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+          "secondary_urls": [
+            "https://venturebeat.com/technology/anthropics-claude-fable-5-1-and-mythos-5-1-arrive-with-a-75-cost-reduction-for-fable-cache-reads",
+            "https://www.marktechpost.com/2026/09/01/anthropic-releases-claude-fable-5-1-and-claude-mythos-5-1-52-6-on-terminal-bench-science-and-75-cheaper-cache-reads/"
+          ]
+        },
+        {
+          "title": "FDA aceita dispositivos de IA generativa no piloto TEMPO",
+          "pilar": "IA na Saúde",
+          "trilha": "medicina",
+          "category": "Saúde",
+          "primary_url": "https://www.statnews.com/2026/09/03/tempo-fda-pilor-generative-ai-medical-device-regulation/",
+          "secondary_urls": []
+        },
+        {
+          "title": "AISLE encontra 6 CVEs no curl com IA autônoma, incluindo a falha mais antiga já registrada",
+          "pilar": "Engenharia de IA",
+          "trilha": "tech",
+          "category": "Outras ferramentas",
+          "primary_url": "https://aisle.com/blog/aisle-discovers-6-new-cves-in-curl-including-the-oldest-issue-ever-reported",
+          "secondary_urls": [
+            "https://awards.thehackernews.com/winners/2026/aisle-autonomous-vulnerability-remediation/"
+          ]
+        },
+        {
+          "title": "McKinsey: 32% das empresas já deixaram de comprar software por causa de agentes de codificação",
+          "pilar": "IA no dia a dia",
+          "trilha": "misc",
+          "category": "Negócios",
+          "primary_url": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai",
+          "secondary_urls": [
+            "https://finance.yahoo.com/technology/ai/articles/build-vs-buy-shift-32-113806700.html"
+          ]
+        },
+        {
+          "title": "Claude Code 2.1.259 traz MCP servers gerenciados e modo headless sem prompts",
+          "pilar": "Protocolos & features",
+          "trilha": "tech",
+          "category": "Anthropic/Claude",
+          "primary_url": "https://code.claude.com/docs/en/changelog",
+          "secondary_urls": []
+        }
+      ]
+    },
+    {
+      "date": "2026-09-05",
+      "highlights": [
+        {
+          "title": "OpenAI lança GPT-6 Astra, seu modelo mais avançado até hoje",
+          "pilar": "Modelos & Labs",
+          "trilha": "tech",
+          "category": "LLMs/Frameworks",
+          "primary_url": "https://openai.com/index/gpt-6-astra",
+          "secondary_urls": [
+            "https://www.aljazeera.com/economy/2026/9/4/openai-unveils-gpt-6-astra-amid-rising-scrutiny-and-safety"
+          ]
+        },
+        {
+          "title": "OpenEvidence lança nova família de modelos de IA médica",
+          "pilar": "IA na Saúde",
+          "trilha": "medicina",
+          "category": "Saúde",
+          "primary_url": "https://www.businesswire.com/news/home/20260903878517/en/Introducing-the-OpenEvidence-Model-Family",
+          "secondary_urls": [
+            "https://www.statnews.com/2026/09/03/openevidence-launches-new-ai-models-clinicians-health-tech/",
+            "https://www.fiercehealthcare.com/health-tech/openevidence-deepens-oncology-push-expands-ai-decision-support-cancer-care"
+          ]
+        },
+        {
+          "title": "LangChain integra suporte nativo ao novo MCP com mais controles de segurança",
+          "pilar": "Engenharia de IA",
+          "trilha": "tech",
+          "category": "LLMs/Frameworks",
+          "primary_url": "https://www.langchain.com/blog/mcp-in-langchain-stateless-protocol-elicitation-and-more",
+          "secondary_urls": []
+        },
+        {
+          "title": "Nova York proíbe IA generativa para alunos até o 8º ano",
+          "pilar": "IA na Educação",
+          "trilha": "misc",
+          "category": "Outras ferramentas",
+          "primary_url": "https://www.chalkbeat.org/newyork/2026/09/02/nyc-schools-to-set-ai-policy-ban-screen-time-limits/",
+          "secondary_urls": [
+            "https://www.cnn.com/2026/09/02/tech/new-york-city-classroom-ai-ban"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-09-06",
+      "highlights": [
+        {
+          "title": "Institute of Foundation Models lança K2 Horizon, maior fleet de modelos totalmente open-source",
+          "pilar": "Modelos & Labs",
+          "trilha": "tech",
+          "category": "LLMs/Frameworks",
+          "primary_url": "https://ifm.ai/k2/press-release/",
+          "secondary_urls": [
+            "https://www.hpcwire.com/aiwire/2026/09/03/institute-of-foundation-models-releases-fully-open-k2-horizon-models-with-weights-code-and-training-data/"
+          ]
+        },
+        {
+          "title": "Tenable e OpenAI lançam inspetor de segurança para agentes, skills e servidores MCP",
+          "pilar": "Protocolos & features",
+          "trilha": "tech",
+          "category": "Outras ferramentas",
+          "primary_url": "https://www.tenable.com/press-releases/tenable-uses-openai-gpt-cyber-models-to-help-defenders-inspect-community-built-ai-components",
+          "secondary_urls": [
+            "https://www.globenewswire.com/news-release/2026/09/03/3356323/0/en/tenable-uses-openai-gpt-cyber-models-to-help-defenders-inspect-community-built-ai-components.html"
+          ]
+        },
+        {
+          "title": "Paper Terminal-Universe transforma trajetórias de agentes em ambientes de terminal reutilizáveis",
+          "pilar": "Artigos científicos",
+          "trilha": "tech",
+          "category": "Papers",
+          "primary_url": "https://arxiv.org/abs/2609.04148",
+          "secondary_urls": [
+            "https://huggingface.co/papers/2609.04148"
+          ]
+        },
+        {
+          "title": "Google leva o agente Gemini Spark ao Google Fotos",
+          "pilar": "IA no dia a dia",
+          "trilha": "misc",
+          "category": "Outras ferramentas",
+          "primary_url": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/",
+          "secondary_urls": [
+            "https://9to5google.com/2026/09/03/gemini-spark-google-photos/"
+          ]
+        },
+        {
+          "title": "Revisão da UCLA discute incertezas clínicas do uso de IA para achar cânceres de mama antes despercebidos",
+          "pilar": "IA na Saúde",
+          "trilha": "medicina",
+          "category": "Saúde",
+          "primary_url": "https://medicalxpress.com/news/2026-09-ai-breast-cancers-mammograms-clinical.html",
+          "secondary_urls": []
+        }
+      ]
+    },
+    {
+      "date": "2026-09-10",
+      "highlights": [
+        {
+          "title": "AlphaGenome Atlas: mapa preditivo de 9 bilhões de variantes do DNA humano",
+          "pilar": "Artigos científicos",
+          "trilha": "medicina",
+          "category": "Papers",
+          "primary_url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+          "secondary_urls": [
+            "https://www.nature.com/articles/d41586-026-02835-4",
+            "https://www.scientificamerican.com/article/new-google-deepmind-alphagenome-atlas-could-transform-our-understanding-of-genetic-diseases/",
+            "https://www.marktechpost.com/2026/09/08/google-deepmind-releases-alphagenome-atlas-with-precomputed-molecular-effect-predictions-and-avi-scores-for-9-billion-human-dna-variants/"
+          ]
+        },
+        {
+          "title": "Enxame de agentes autônomos da OpenAI assume wiki alemão por seis semanas",
+          "pilar": "Engenharia de IA",
+          "trilha": "tech",
+          "category": "LLMs/Frameworks",
+          "primary_url": "https://oecd.ai/en/incidents/2026-09-06-0c4a",
+          "secondary_urls": [
+            "https://techxplore.com/news/2026-09-eu-probes-openai-agents-takeover.html",
+            "https://www.thestar.com.my/tech/tech-news/2026/09/08/eu-probing-openai-agents039-takeover-of-german-site",
+            "https://fortune.com/2026/09/07/openai-ai-agents-german-wiki-ran-their-own-message-board/"
+          ]
+        },
+        {
+          "title": "EUA acusam seis empresas chinesas de IA de destilação industrial de modelos de fronteira",
+          "pilar": "Modelos & Labs",
+          "trilha": "tech",
+          "category": "Negócios",
+          "primary_url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-251a",
+          "secondary_urls": [
+            "https://www.unite.ai/nsa-cisa-fbi-warn-china-based-ai-firms-distill-us-frontier-models/",
+            "https://www.executivegov.com/articles/nsa-fbi-cisa-warn-china-ai-distillation-attacks"
+          ]
+        },
+        {
+          "title": "Apple amplia recursos de saúde do iPhone e Apple Watch com Apple Intelligence",
+          "pilar": "IA no dia a dia",
+          "trilha": "misc",
+          "category": "Outras ferramentas",
+          "primary_url": "https://www.apple.com/newsroom/2026/09/apple-advances-health-and-fitness-capabilities-using-apple-intelligence/",
+          "secondary_urls": [
+            "https://techcrunch.com/2026/09/09/apples-revamped-health-app-will-calculate-your-health-age-and-readiness-score/",
+            "https://www.macrumors.com/2026/09/09/apple-reference-image/"
+          ]
+        },
+        {
+          "title": "Gemini vira \"orquestrador\" entre apps do Google Workspace",
+          "pilar": "Protocolos & features",
+          "trilha": "tech",
+          "category": "Outras ferramentas",
+          "primary_url": "https://workspaceupdates.googleblog.com/2026/09/create-content-schedule-events-and-coordinate-tasks-across-Workspace-regardless-of-what-app-you-are-in.html",
+          "secondary_urls": [
+            "https://9to5google.com/2026/09/09/gemini-workspace-side-panel-upgrade/"
+          ]
+        },
+        {
+          "title": "Missouri fecha parceria estadual com o Google para levar IA gratuita a escolas",
+          "pilar": "IA na Educação",
+          "trilha": "misc",
+          "category": "Outras ferramentas",
+          "primary_url": "https://blog.google/products-and-platforms/products/education/missouri-state-education-partnership/",
+          "secondary_urls": [
+            "https://www.unite.ai/google-brings-free-ai-tools-and-career-training-to-missouri-schools/",
+            "https://www.fultonsun.com/news/2026/sep/10/missouri-partners-with-google-to-offer-free-ai/"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-09-11",
+      "highlights": [
+        {
+          "title": "Implicity capta US$ 40 milhões para expandir monitoramento cardíaco remoto com IA",
+          "pilar": "IA na Saúde",
+          "trilha": "medicina",
+          "category": "Saúde",
+          "primary_url": "https://www.globenewswire.com/news-release/2026/09/09/3358622/0/en/implicity-secures-40m-growth-equity-funding-to-scale-its-ai-driven-cardiac-monitoring-platform-globally.html",
+          "secondary_urls": [
+            "https://www.mobihealthnews.com/news/implicity-raises-40m-ai-remote-cardiac-monitoring",
+            "https://www.eu-startups.com/2026/09/french-cardiac-monitoring-startup-implicity-reports-26-lower-mortality-as-it-raises-e35-million"
+          ]
+        },
+        {
+          "title": "OpenAI lança Agents API em beta público para orquestrar agentes na nuvem",
+          "pilar": "Engenharia de IA",
+          "trilha": "tech",
+          "category": "LLMs/Frameworks",
+          "primary_url": "https://openai.com/index/introducing-the-agents-api/",
+          "secondary_urls": []
+        },
+        {
+          "title": "LangChain lança Connections para credenciais e identidade por usuário em agentes",
+          "pilar": "Engenharia de IA",
+          "trilha": "tech",
+          "category": "LLMs/Frameworks",
+          "primary_url": "https://www.langchain.com/blog/connections-managed-credentials-and-per-caller-identity-for-managed-deep-agents",
+          "secondary_urls": []
+        },
+        {
+          "title": "Anthropic detalha uso indevido de Claude em ciberataques multiagente",
+          "pilar": "Modelos & Labs",
+          "trilha": "tech",
+          "category": "Anthropic/Claude",
+          "primary_url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
+          "secondary_urls": []
+        },
+        {
+          "title": "Ant International, Visa e Mastercard alinham padrão de identidade para agentes de compra",
+          "pilar": "IA no dia a dia",
+          "trilha": "misc",
+          "category": "Negócios",
+          "primary_url": "https://www.businesswire.com/news/home/20260909003891/en/Ant-International-Mastercard-and-Visa-Initiate-Collaboration-on-Know-Your-Agent-Interoperability-to-Scale-Agentic-Commerce",
+          "secondary_urls": [
+            "https://www.pymnts.com/cybersecurity/2026/visa-mastercard-team-with-ant-know-your-agent-framework",
+            "https://www.unite.ai/ant-international-visa-mastercard-align-on-ai-agent-verification-rules/"
+          ]
+        },
+        {
+          "title": "Novo benchmark mede como RAG pode comprometer a segurança de respostas de LLMs",
+          "pilar": "Artigos científicos",
+          "trilha": "tech",
+          "category": "Papers",
+          "primary_url": "https://arxiv.org/abs/2609.11758",
+          "secondary_urls": []
+        },
+        {
+          "title": "Califórnia sanciona primeiras leis do país sobre auditoria independente de IA",
+          "pilar": "IA no dia a dia",
+          "trilha": "misc",
+          "category": "Negócios",
+          "primary_url": "https://www.gov.ca.gov/2026/09/09/governor-newsom-signs-first-in-the-nation-ai-safeguards-to-protect-californians-calls-on-the-federal-government-to-do-its-part/",
+          "secondary_urls": [
+            "https://www.ciodive.com/news/California-AI-auditing-legislation/830104/"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-09-12",
+      "highlights": [
+        {
+          "title": "Sakana AI lança Fugu Max e Fugu Ultra v2, modelos de orquestração multiagente",
+          "pilar": "Modelos & Labs",
+          "trilha": "tech",
+          "category": "LLMs/Frameworks",
+          "primary_url": "https://sakana.ai/fugu-max-release/",
+          "secondary_urls": [
+            "https://www.marktechpost.com/2026/09/10/sakana-ai-launches-fugu-max-and-fugu-ultra-v2-for-cheaper-stronger-multi-agent-orchestration/"
+          ]
+        },
+        {
+          "title": "LangChain adiciona modos de contexto para subagentes no framework deepagents",
+          "pilar": "Engenharia de IA",
+          "trilha": "tech",
+          "category": "LLMs/Frameworks",
+          "primary_url": "https://www.langchain.com/blog/organizing-context-in-a-multi-agent-harness",
+          "secondary_urls": []
+        },
+        {
+          "title": "Serviço de saúde australiano expande a maior implantação de escriba de IA do país",
+          "pilar": "IA na Saúde",
+          "trilha": "medicina",
+          "category": "Saúde",
+          "primary_url": "https://www.mobihealthnews.com/news/anz/queensland-health-service-expands-ai-scribe-rollout",
+          "secondary_urls": [
+            "https://www.pulseit.news/australian-digital-health/metro-south-rolls-out-heidi-ai-scribe/"
+          ]
+        },
+        {
+          "title": "Anthropic lança avaliações de plugins para o Claude Code com portão de qualidade em CI",
+          "pilar": "Protocolos & features",
+          "trilha": "tech",
+          "category": "Anthropic/Claude",
+          "primary_url": "https://code.claude.com/docs/en/plugin-evals",
+          "secondary_urls": [
+            "https://www.marktechpost.com/2026/09/11/anthropic-adds-plugin-evals-to-claude-code-6-grader-types-a-no-plugin-baseline-and-a-ci-gate-for-skills/"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-09-13",
+      "highlights": [
+        {
+          "title": "Comissão de médicos do NHS propõe novo modelo de regulação para IA na saúde no Reino Unido",
+          "pilar": "IA na Saúde",
+          "trilha": "medicina",
+          "category": "Saúde",
+          "primary_url": "https://www.gov.uk/government/news/independent-commission-led-by-nhs-doctors-sets-out-blueprint-to-accelerate-safe-ai-adoption-in-healthcare",
+          "secondary_urls": [
+            "https://www.medicaldevice-network.com/news/nhs-doctor-led-commission-issues-blueprint-for-ai-safe-adoption-in-healthcare/"
+          ]
+        },
+        {
+          "title": "DeepSeek lança V4.1 Flash, modelo multimodal de 552 bilhões de parâmetros com contexto de 1 milhão de tokens",
+          "pilar": "Modelos & Labs",
+          "trilha": "tech",
+          "category": "LLMs/Frameworks",
+          "primary_url": "https://www.deepseek.com/en/news/deepseek-v4-1-flash/",
+          "secondary_urls": [
+            "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash",
+            "https://artificialanalysis.ai/models/deepseek-v4-1-flash"
+          ]
+        },
+        {
+          "title": "Google lança aplicativo nativo do Gemini para Windows",
+          "pilar": "Protocolos & features",
+          "trilha": "tech",
+          "category": "Outras ferramentas",
+          "primary_url": "https://workspaceupdates.googleblog.com/2026/09/the-gemini-desktop-app-is-now-available-for-Windows.html",
+          "secondary_urls": [
+            "https://www.neowin.net/news/google-finally-brings-gemini-to-windows-with-a-native-desktop-app/",
+            "https://www.androidauthority.com/gemini-windows-app-3710027/"
+          ]
+        },
+        {
+          "title": "Estudo do Trinity College Dublin mostra que IA está transformando tarefas no trabalho, não eliminando empregos em massa",
+          "pilar": "IA no dia a dia",
+          "trilha": "misc",
+          "category": "Negócios",
+          "primary_url": "https://www.tcd.ie/news_events/top-stories/featured/new-research-from-technology-ireland-digital-skillnet-/",
+          "secondary_urls": [
+            "https://irishtechnews.ie/new-research-technology-ireland-digital-skillnet/",
+            "https://www.skillnetireland.ie/insights/right-sizing-ai-at-work-workforce-transformation-and-human-machine-partnerships-in-ireland"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-09-15",
+      "highlights": [
+        {
+          "title": "OpenAI lança API de Agents em beta público",
+          "pilar": "Engenharia de IA",
+          "trilha": "tech",
+          "category": "LLMs/Frameworks",
+          "primary_url": "https://openai.com/index/introducing-the-agents-api/",
+          "secondary_urls": [
+            "https://www.marktechpost.com/2026/09/10/openai-launches-the-agents-api-in-public-beta-putting-the-codex-harness-behind-one-api-call/",
+            "https://aiagentstore.ai/ai-agent-news/this-week"
+          ]
+        },
+        {
+          "title": "Abacus.AI lança família de modelos abertos Smaug para cargas de trabalho agênticas",
+          "pilar": "Modelos & Labs",
+          "trilha": "tech",
+          "category": "LLMs/Frameworks",
+          "primary_url": "https://abacus.ai/smaug",
+          "secondary_urls": [
+            "https://www.unite.ai/abacus-ai-releases-three-open-weight-smaug-models-for-agentic-workloads/",
+            "https://www.prnewswire.com/news-releases/abacusai-launches-the-smaug-line-of-open-weight-models-optimized-for-enterprise-agentic-ai-use-cases-302875524.html"
+          ]
+        },
+        {
+          "title": "Anthropic altera limites semanais de uso do Claude Code",
+          "pilar": "Protocolos & features",
+          "trilha": "tech",
+          "category": "Anthropic/Claude",
+          "primary_url": "https://docs.anthropic.com/en/release-notes/claude-code",
+          "secondary_urls": [
+            "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-is-cutting-claude-codes-current-weekly-limits-by-17-percent/",
+            "https://www.mindstudio.ai/blog/claude-code-weekly-rate-limit-changes"
+          ]
+        },
+        {
+          "title": "Estudo testa executor de código como alternativa a calculadoras clínicas fixas em LLMs",
+          "pilar": "Artigos científicos",
+          "trilha": "medicina",
+          "category": "Papers",
+          "primary_url": "https://arxiv.org/abs/2609.10728",
+          "secondary_urls": [
+            "https://huggingface.co/papers/2609.10728"
+          ]
+        },
+        {
+          "title": "Benchmark Radar cataloga e rastreia benchmarks de IA em banco de dados vivo",
+          "pilar": "Artigos científicos",
+          "trilha": "tech",
+          "category": "Papers",
+          "primary_url": "https://arxiv.org/abs/2609.11115",
+          "secondary_urls": [
+            "https://huggingface.co/papers/2609.11115",
+            "https://benchmark-radar.org"
+          ]
+        },
+        {
+          "title": "Microsoft publica rascunho de código de conduta para IA \"humanista\"",
+          "pilar": "IA no dia a dia",
+          "trilha": "misc",
+          "category": "Negócios",
+          "primary_url": "https://microsoft.ai/code-of-conduct/",
+          "secondary_urls": [
+            "https://fortune.com/2026/09/14/microsoft-suleyman-ai-safety-code-of-conduct/",
+            "https://decrypt.co/378168/microsoft-humanist-ai-code-of-conduct"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-09-17",
+      "highlights": [
+        {
+          "title": "Anthropic funde Claude Cowork ao Claude Chat e lança Claude Docs e Claude Slides",
+          "pilar": "Protocolos & features",
+          "trilha": "tech",
+          "category": "Anthropic/Claude",
+          "primary_url": "https://claude.com/blog/cowork-is-now-claude",
+          "secondary_urls": [
+            "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/",
+            "https://9to5mac.com/2026/09/16/anthropic-merging-claude-cowork-with-chat/"
+          ]
+        },
+        {
+          "title": "Anthropic lança o Programa de Verificação para Ciências da Vida (LSVP)",
+          "pilar": "IA na Saúde",
+          "trilha": "medicina",
+          "category": "Anthropic/Claude",
+          "primary_url": "https://www.anthropic.com/news/life-sciences-verification-program",
+          "secondary_urls": []
+        },
+        {
+          "title": "Anthropic publica métricas inéditas sobre o ritmo de desenvolvimento de IA em laboratórios de fronteira",
+          "pilar": "IA no dia a dia",
+          "trilha": "misc",
+          "category": "Anthropic/Claude",
+          "primary_url": "https://www.anthropic.com/institute/measuring-pace-of-ai-development",
+          "secondary_urls": []
+        },
+        {
+          "title": "Google abre o Google Home para agentes de IA de terceiros via MCP, incluindo o Claude",
+          "pilar": "Protocolos & features",
+          "trilha": "tech",
+          "category": "Outras ferramentas",
+          "primary_url": "https://www.androidauthority.com/google-home-mcp-connector-ai-agents-3711914/",
+          "secondary_urls": [
+            "https://tech.yahoo.com/ai/gemini/articles/google-home-stuns-announcing-ai-003334380.html",
+            "https://www.newsbytesapp.com/news/science/google-home-now-lets-ai-agents-control-your-smart-devices/story"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-09-19",
+      "highlights": [
+        {
+          "title": "Google DeepMind lança instituto para ampliar o debate sobre AGI",
+          "pilar": "Modelos & Labs",
+          "trilha": "tech",
+          "category": "LLMs/Frameworks",
+          "primary_url": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/",
+          "secondary_urls": [
+            "https://institute.deepmind.com/essays/a-framework-for-frontier-ai-and-the-dawning-of-a-new-age/",
+            "https://institute.deepmind.com/essays/the-case-for-reasoning-transparency/"
+          ]
+        },
+        {
+          "title": "Anthropic firma parceria com a Accenture para avaliação independente embutida de seus modelos",
+          "pilar": "IA no dia a dia",
+          "trilha": "misc",
+          "category": "Anthropic/Claude",
+          "primary_url": "https://www.anthropic.com/news/accenture-embedded-evaluation",
+          "secondary_urls": []
+        },
+        {
+          "title": "Governador da Califórnia assina ordem executiva para acelerar fiscalização de IA e estudar um 'botão de desligamento'",
+          "pilar": "IA no dia a dia",
+          "trilha": "misc",
+          "category": "Negócios",
+          "primary_url": "https://www.gov.ca.gov/2026/09/18/governor-newsom-issues-executive-order-to-accelerate-independent-oversight-and-advance-the-creation-of-an-ai-kill-switch/",
+          "secondary_urls": [
+            "https://www.cnbc.com/2026/09/18/california-newsom-executive-order-ai.html",
+            "https://www.cnn.com/2026/09/18/politics/gavin-newsom-artificial-intelligence"
+          ]
+        },
+        {
+          "title": "Estudo multinacional mostra IA aumentando a sensibilidade do diagnóstico de AVC isquêmico em tomografia sem contraste",
+          "pilar": "IA na Saúde",
+          "trilha": "medicina",
+          "category": "Saúde",
+          "primary_url": "https://www.eurekalert.org/news-releases/1143226",
+          "secondary_urls": [
+            "https://pubmed.ncbi.nlm.nih.gov/42173676/",
+            "https://doi.org/10.1136/jnis-2026-025339"
+          ]
+        }
+      ]
     }
   ],
   "tracks": {
     "medicina": {
-      "last_report": "2026-08-10",
-      "last_edition": 4
+      "last_report": "2026-08-31",
+      "last_edition": 6
     },
     "tech": {
-      "last_report": "2026-08-05",
-      "last_edition": 3
+      "last_report": "2026-08-26",
+      "last_edition": 5
     },
     "misc": {
-      "last_report": "2026-08-07",
-      "last_edition": 3
+      "last_report": "2026-09-11",
+      "last_edition": 7
     }
   },
   "newsletter": {
-    "last_edition": 3
+    "last_edition": 6
   }
 }
