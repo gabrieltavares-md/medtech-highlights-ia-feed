@@ -577,6 +577,20 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
+    <item>
+      <title>Highlights IA — Engenharia &amp; Modelos — 19 de agosto de 2026</title>
+      <description><![CDATA[A especificação MCP 2026-07-28 vira final e o Claude Code ganha self-hosted e modo automático padrão, enquanto a Stripe negocia comprar a OpenRouter por US$7 bilhões e a corrida de modelos de fronteira segue acelerada (Gemini 3.7 Flash, Grok 4.6, DeepSeek V4 Pro). O episódio também traz a aposta da Anthropic em silício próprio, com equipe dedicada a design de chips, e um estudo da própria Anthropic sobre conflitos entre múltiplos agentes de IA operando no mesmo ambiente. Áudio gerado com NotebookLM (Google).]]></description>
+      <link>https://docgabtxsmed.github.io/medtech-highlights-ia-feed/episodes/2026-08-19</link>
+      <guid isPermaLink="false">episode-2026-08-19</guid>
+      <pubDate>Wed, 19 Aug 2026 10:00:00 +0000</pubDate>
+      <enclosure url="https://pub-b4194e8fac8d4332a041634bfe2178cf.r2.dev/highlights-ia-2026-08-19-tech-podcast.m4a" length="39327942" type="audio/mp4"/>
+      <itunes:author>MedTech Community AI</itunes:author>
+      <itunes:duration>20:22</itunes:duration>
+      <itunes:summary><![CDATA[A especificação MCP 2026-07-28 vira final e o Claude Code ganha self-hosted e modo automático padrão, enquanto a Stripe negocia comprar a OpenRouter por US$7 bilhões e a corrida de modelos de fronteira segue acelerada (Gemini 3.7 Flash, Grok 4.6, DeepSeek V4 Pro). O episódio também traz a aposta da Anthropic em silício próprio, com equipe dedicada a design de chips, e um estudo da própria Anthropic sobre conflitos entre múltiplos agentes de IA operando no mesmo ambiente. Áudio gerado com NotebookLM (Google).]]></itunes:summary>
+      <itunes:image href="https://docgabtxsmed.github.io/medtech-highlights-ia-feed/cover.png"/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <!-- ITEMS_INSERT_HERE -->
   </channel>
 </rss>
