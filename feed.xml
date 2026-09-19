@@ -633,6 +633,20 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
+    <item>
+      <title>Highlights IA — Medicina &amp; Pesquisa — 31 de agosto de 2026</title>
+      <description><![CDATA[Nesta edição: consulta pública da FDA sobre IA generativa em dispositivos médicos, vazamento de dados que infla a acurácia de testes de IA para esquizofrenia por EEG, e um aprofundamento mostrando que apenas 3 de 1.357 dispositivos de IA aprovados pela FDA foram testados em desfechos que importam ao paciente — além de um estudo sobre cadeias de raciocínio de IA que podem ser apenas decorativas em diagnósticos clínicos. Áudio gerado com NotebookLM (Google).]]></description>
+      <link>https://docgabtxsmed.github.io/medtech-highlights-ia-feed/episodes/2026-08-31</link>
+      <guid isPermaLink="false">episode-2026-08-31</guid>
+      <pubDate>Mon, 31 Aug 2026 10:00:00 +0000</pubDate>
+      <enclosure url="https://pub-b4194e8fac8d4332a041634bfe2178cf.r2.dev/highlights-ia-2026-08-31-medicina-podcast.m4a" length="55800829" type="audio/mp4"/>
+      <itunes:author>MedTech Community AI</itunes:author>
+      <itunes:duration>28:54</itunes:duration>
+      <itunes:summary><![CDATA[Nesta edição: consulta pública da FDA sobre IA generativa em dispositivos médicos, vazamento de dados que infla a acurácia de testes de IA para esquizofrenia por EEG, e um aprofundamento mostrando que apenas 3 de 1.357 dispositivos de IA aprovados pela FDA foram testados em desfechos que importam ao paciente — além de um estudo sobre cadeias de raciocínio de IA que podem ser apenas decorativas em diagnósticos clínicos. Áudio gerado com NotebookLM (Google).]]></itunes:summary>
+      <itunes:image href="https://docgabtxsmed.github.io/medtech-highlights-ia-feed/cover.png"/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <!-- ITEMS_INSERT_HERE -->
   </channel>
 </rss>
