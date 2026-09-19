@@ -7,6 +7,16 @@
   },
   "episodes": [
     {
+      "guid": "episode-2026-09-11",
+      "date": "2026-09-11",
+      "trilha": "misc",
+      "title": "Highlights IA — Miscelânea — 11 de setembro de 2026",
+      "duration_seconds": 1566,
+      "size_bytes": 50402997,
+      "enclosure_url": "https://pub-b4194e8fac8d4332a041634bfe2178cf.r2.dev/highlights-ia-2026-09-11-misc-podcast.m4a",
+      "object_key": "highlights-ia-2026-09-11-misc-podcast.m4a"
+    },
+    {
       "guid": "episode-2026-08-31",
       "date": "2026-08-31",
       "trilha": "medicina",
