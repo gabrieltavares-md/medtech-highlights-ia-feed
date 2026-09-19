@@ -7,6 +7,16 @@
   },
   "episodes": [
     {
+      "guid": "episode-2026-08-28",
+      "date": "2026-08-28",
+      "trilha": "misc",
+      "title": "Highlights IA — Miscelânea — 28 de agosto de 2026",
+      "duration_seconds": 1214,
+      "size_bytes": 39062627,
+      "enclosure_url": "https://pub-b4194e8fac8d4332a041634bfe2178cf.r2.dev/highlights-ia-2026-08-28-misc-podcast.m4a",
+      "object_key": "highlights-ia-2026-08-28-misc-podcast.m4a"
+    },
+    {
       "guid": "episode-2026-08-26",
       "date": "2026-08-26",
       "trilha": "tech",
