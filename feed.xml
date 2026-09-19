@@ -619,6 +619,20 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
+    <item>
+      <title>Highlights IA — Miscelânea — 28 de agosto de 2026</title>
+      <description><![CDATA[Nesta edição: uso de IA dispara no trabalho em Portugal, fiscalização do EU AI Act começa sem multas, Khan Academy testa diagramas interativos, e um aprofundamento sobre o paradoxo da produtividade corporativa da IA e o fechamento da porta de entrada no mercado de trabalho para jovens. Áudio gerado com NotebookLM (Google).]]></description>
+      <link>https://docgabtxsmed.github.io/medtech-highlights-ia-feed/episodes/2026-08-28</link>
+      <guid isPermaLink="false">episode-2026-08-28</guid>
+      <pubDate>Fri, 28 Aug 2026 10:00:00 +0000</pubDate>
+      <enclosure url="https://pub-b4194e8fac8d4332a041634bfe2178cf.r2.dev/highlights-ia-2026-08-28-misc-podcast.m4a" length="39062627" type="audio/mp4"/>
+      <itunes:author>MedTech Community AI</itunes:author>
+      <itunes:duration>20:14</itunes:duration>
+      <itunes:summary><![CDATA[Nesta edição: uso de IA dispara no trabalho em Portugal, fiscalização do EU AI Act começa sem multas, Khan Academy testa diagramas interativos, e um aprofundamento sobre o paradoxo da produtividade corporativa da IA e o fechamento da porta de entrada no mercado de trabalho para jovens. Áudio gerado com NotebookLM (Google).]]></itunes:summary>
+      <itunes:image href="https://docgabtxsmed.github.io/medtech-highlights-ia-feed/cover.png"/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <!-- ITEMS_INSERT_HERE -->
   </channel>
 </rss>
