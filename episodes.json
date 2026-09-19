@@ -7,6 +7,16 @@
   },
   "episodes": [
     {
+      "guid": "episode-2026-08-26",
+      "date": "2026-08-26",
+      "trilha": "tech",
+      "title": "Highlights IA — Engenharia & Modelos — 26 de agosto de 2026",
+      "duration_seconds": 2191,
+      "size_bytes": 70513860,
+      "enclosure_url": "https://pub-b4194e8fac8d4332a041634bfe2178cf.r2.dev/highlights-ia-2026-08-26-tech-podcast.m4a",
+      "object_key": "highlights-ia-2026-08-26-tech-podcast.m4a"
+    },
+    {
       "guid": "episode-2026-08-21",
       "date": "2026-08-21",
       "trilha": "misc",
