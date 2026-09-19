@@ -647,6 +647,20 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
+    <item>
+      <title>Highlights IA — Miscelânea — 11 de setembro de 2026</title>
+      <description><![CDATA[Nesta edição: a McKinsey mostra que o uso corporativo de IA dispara mas o retorno financeiro segue travado, e uma onda de moratórias em Nova York e Los Angeles restringe IA generativa nas escolas dias depois de uma revisão de Stanford sobre tutoria por IA. Áudio gerado com NotebookLM (Google).]]></description>
+      <link>https://docgabtxsmed.github.io/medtech-highlights-ia-feed/episodes/2026-09-11</link>
+      <guid isPermaLink="false">episode-2026-09-11</guid>
+      <pubDate>Fri, 11 Sep 2026 10:00:00 +0000</pubDate>
+      <enclosure url="https://pub-b4194e8fac8d4332a041634bfe2178cf.r2.dev/highlights-ia-2026-09-11-misc-podcast.m4a" length="50402997" type="audio/mp4"/>
+      <itunes:author>MedTech Community AI</itunes:author>
+      <itunes:duration>26:06</itunes:duration>
+      <itunes:summary><![CDATA[Nesta edição: a McKinsey mostra que o uso corporativo de IA dispara mas o retorno financeiro segue travado, e uma onda de moratórias em Nova York e Los Angeles restringe IA generativa nas escolas dias depois de uma revisão de Stanford sobre tutoria por IA. Áudio gerado com NotebookLM (Google).]]></itunes:summary>
+      <itunes:image href="https://docgabtxsmed.github.io/medtech-highlights-ia-feed/cover.png"/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <!-- ITEMS_INSERT_HERE -->
   </channel>
 </rss>
