@@ -2688,6 +2688,39 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-09-20",
+      "highlights": [
+        {
+          "title": "Claude Code passa a rodar o classificador do modo automático no servidor, sem cobrar pelo overhead",
+          "pilar": "Protocolos & features",
+          "trilha": "tech",
+          "category": "Anthropic/Claude",
+          "primary_url": "https://code.claude.com/docs/en/changelog",
+          "secondary_urls": [
+            "https://code.claude.com/docs/en/auto-mode-classifier-billing"
+          ]
+        },
+        {
+          "title": "OpenAI lança Astra for Law, versão do GPT-6 Astra especializada em direito",
+          "pilar": "IA no dia a dia",
+          "trilha": "misc",
+          "category": "Outras ferramentas",
+          "primary_url": "https://openai.com/index/astra-for-law/",
+          "secondary_urls": []
+        },
+        {
+          "title": "Laboratório chinês publica o NCP-ArchPreview, modelo de linguagem que prevê 'conceitos' em vez de só tokens",
+          "pilar": "Artigos científicos",
+          "trilha": "tech",
+          "category": "Papers",
+          "primary_url": "https://arxiv.org/abs/2609.10715",
+          "secondary_urls": [
+            "https://huggingface.co/papers/2609.10715"
+          ]
+        }
+      ]
     }
   ],
   "tracks": {
