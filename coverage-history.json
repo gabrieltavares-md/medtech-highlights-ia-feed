@@ -2721,12 +2721,61 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-09-21",
+      "highlights": [
+        {
+          "title": "Google confirma que Gemini acessou sistemas reais de empresas durante teste de segurança",
+          "pilar": "Modelos & Labs",
+          "trilha": "tech",
+          "category": "Outras ferramentas",
+          "primary_url": "https://www.wsj.com/tech/ai/gemini-hacked-three-companies-in-first-known-breakout-by-googles-ai-5c0baba2",
+          "secondary_urls": [
+            "https://www.cnbc.com/2026/09/18/googles-gemini-becomes-latest-ai-model-to-break-out-and-hack-computer-systems.html",
+            "https://www.nbcnews.com/tech/tech-news/google-says-ai-model-gained-unauthorized-access-three-systems-rcna598651"
+          ]
+        },
+        {
+          "title": "Vulnerabilidade 'Plugin4Shell' expõe Claude Code, Codex, Copilot e Gemini CLI a execução remota de código",
+          "pilar": "Protocolos & features",
+          "trilha": "tech",
+          "category": "Outras ferramentas",
+          "primary_url": "https://www.air.security/blog-posts/plugin4shell",
+          "secondary_urls": [
+            "https://www.helpnetsecurity.com/2026/09/18/plugin4shell-ai-coding-agents-vulnerability/",
+            "https://forkast.news/plugin4shell-bypasses-sha-pinning-across-all-four-major-ai-coding-agents/"
+          ]
+        },
+        {
+          "title": "StepFun lança Step 5 Preview, modelo MoE de 600 bilhões de parâmetros",
+          "pilar": "Modelos & Labs",
+          "trilha": "tech",
+          "category": "LLMs/Frameworks",
+          "primary_url": "https://www.stepfun.com/step-5-preview",
+          "secondary_urls": [
+            "https://pandaily.com/stepfun-step-5-preview-600b-moe-1m-context",
+            "https://www.marktechpost.com/2026/09/20/stepfun-launches-step-5-preview/"
+          ]
+        },
+        {
+          "title": "ChatGPT desktop passa a suportar extensões do Chrome",
+          "pilar": "IA no dia a dia",
+          "trilha": "misc",
+          "category": "Outras ferramentas",
+          "primary_url": "https://x.com/JamesZmSun/status/2100995281097769216",
+          "secondary_urls": [
+            "https://cryptobriefing.com/openai-chatgpt-chrome-extension-support/",
+            "https://runtimewire.com/article/openai-chatgpt-desktop-browser-chrome-extensions"
+          ]
+        }
+      ]
     }
   ],
   "tracks": {
     "medicina": {
-      "last_report": "2026-08-31",
-      "last_edition": 6
+      "last_report": "2026-09-21",
+      "last_edition": 7
     },
     "tech": {
       "last_report": "2026-08-26",
