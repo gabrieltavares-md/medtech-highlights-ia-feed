@@ -2770,6 +2770,43 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-09-22",
+      "highlights": [
+        {
+          "title": "Alibaba lança o Qwen3.8-Omni-Flash, modelo omni-modal com 1M de tokens de contexto",
+          "pilar": "Modelos & Labs",
+          "trilha": "tech",
+          "category": "LLMs/Frameworks",
+          "primary_url": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
+          "secondary_urls": [
+            "https://technode.com/2026/09/18/alibabas-qwen-releases-qwen3-8-omni-flash-with-1m-token-context/",
+            "https://www.marktechpost.com/2026/09/18/alibaba-qwen-releases-qwen3-8-omni-flash/"
+          ]
+        },
+        {
+          "title": "LangChain publica o pacote experimental langchain-typesafe com roteamento automático de modelo",
+          "pilar": "Engenharia de IA",
+          "trilha": "tech",
+          "category": "LLMs/Frameworks",
+          "primary_url": "https://github.com/langchain-ai/langchain/releases",
+          "secondary_urls": [
+            "https://freedom.tech/posts/2026-09-20-langchain-typesafe-0-0/",
+            "https://kenashe.ai/blog/2026-09-18-langchains-typesafe-alpha-points-at-safer-model-routing"
+          ]
+        },
+        {
+          "title": "Novo Nordisk anuncia colaboração com a Anthropic para acelerar descoberta de medicamentos",
+          "pilar": "IA na Saúde",
+          "trilha": "medicina",
+          "category": "Saúde",
+          "primary_url": "https://www.novonordisk.com/content/nncorp/global/en/news-and-media/news-and-ir-materials/news-details.html?id=916768",
+          "secondary_urls": [
+            "https://www.biopharmadive.com/news/novo-anthropic-ai-drug-discovery-development-deal/830540/"
+          ]
+        }
+      ]
     }
   ],
   "tracks": {
