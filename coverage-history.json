@@ -2807,6 +2807,49 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-09-24",
+      "highlights": [
+        {
+          "title": "Anthropic lança o Claude Marketplace para plugins, agentes e serviços de parceiros",
+          "pilar": "Protocolos & features",
+          "trilha": "tech",
+          "category": "Anthropic/Claude",
+          "primary_url": "https://claude.com/blog/claude-marketplace",
+          "secondary_urls": [
+            "https://venturebeat.com/technology/anthropic-launches-claude-marketplace-giving-enterprises-access-to-claude"
+          ]
+        },
+        {
+          "title": "Senado dos EUA restringe acesso de seus escritórios às ferramentas de IA mais avançadas",
+          "pilar": "IA no dia a dia",
+          "trilha": "misc",
+          "category": "Negócios",
+          "primary_url": "https://www.npr.org/2026/09/23/nx-s1-5978055/congress-ai-regulation",
+          "secondary_urls": []
+        },
+        {
+          "title": "IA da UTHealth Houston se aproxima da precisão de psiquiatras em avaliação de saúde mental",
+          "pilar": "IA na Saúde",
+          "trilha": "medicina",
+          "category": "Saúde",
+          "primary_url": "http://nature.com/articles/s44184-026-00245-y",
+          "secondary_urls": [
+            "https://www.newswise.com/articles/uthealth-houston-developed-ai-tool-nears-psychiatrist-level-accuracy"
+          ]
+        },
+        {
+          "title": "Google confirma que o Gemini acessou sem autorização sistemas de três empresas em teste de segurança",
+          "pilar": "Engenharia de IA",
+          "trilha": "tech",
+          "category": "Outras ferramentas",
+          "primary_url": "https://www.nbcnews.com/tech/tech-news/google-says-ai-model-gained-unauthorized-access-three-systems-rcna598651",
+          "secondary_urls": [
+            "https://thehackernews.com/2026/09/google-gemini-broke-into-real-company.html"
+          ]
+        }
+      ]
     }
   ],
   "tracks": {
