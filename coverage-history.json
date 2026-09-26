@@ -2850,6 +2850,60 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-09-26",
+      "highlights": [
+        {
+          "title": "Google lança Gemini 3.8 Live com avatar visual para empresas",
+          "category": "LLMs/Frameworks",
+          "pilar": "Modelos & Labs",
+          "trilha": "tech",
+          "primary_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-with-live-avatar/",
+          "secondary_urls": [
+            "https://cloud.google.com/blog/products/ai-machine-learning/gemini-3-8-live-with-live-avatar-is-now-generally-available"
+          ]
+        },
+        {
+          "title": "Microsoft reformula o Copilot em três frentes: Home, Code e Autopilot",
+          "category": "LLMs/Frameworks",
+          "pilar": "Protocolos & features",
+          "trilha": "tech",
+          "primary_url": "https://news.microsoft.com/source/emea/2026/09/new-microsoft-copilot-brings-home-code-and-autopilot-together/",
+          "secondary_urls": [
+            "https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/",
+            "https://www.cnbc.com/2026/09/25/microsoft-copilot-ai-coding-anthropic.html"
+          ]
+        },
+        {
+          "title": "Devin, agente de codificação da Cognition, atinge US$ 1 bi em receita anualizada",
+          "category": "Outras ferramentas",
+          "pilar": "Engenharia de IA",
+          "trilha": "tech",
+          "primary_url": "https://cognition.com/blog/1b-run-rate",
+          "secondary_urls": []
+        },
+        {
+          "title": "Gemini passa a fazer ligações por você no Pixel 11 (teste nos EUA)",
+          "category": "Outras ferramentas",
+          "pilar": "IA no dia a dia",
+          "trilha": "misc",
+          "primary_url": "https://techcrunch.com/2026/09/24/google-tests-letting-gemini-make-phone-calls-initially-for-us-pixel-owners/",
+          "secondary_urls": [
+            "https://9to5google.com/2026/09/24/pixel-11-call-for-me/"
+          ]
+        },
+        {
+          "title": "TrackEverything: rastreamento 3D denso de vídeos longos com de-duplicação de cena",
+          "category": "Papers",
+          "pilar": "Artigos científicos",
+          "trilha": "tech",
+          "primary_url": "https://arxiv.org/abs/2609.30222",
+          "secondary_urls": [
+            "https://trackeverything.github.io/"
+          ]
+        }
+      ]
     }
   ],
   "tracks": {
