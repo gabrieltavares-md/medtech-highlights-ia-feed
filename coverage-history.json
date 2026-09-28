@@ -2904,12 +2904,49 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-09-28",
+      "highlights": [
+        {
+          "title": "Anthropic torna Claude 3x mais rápido e redesenha Projects no Claude Code",
+          "pilar": "Protocolos & features",
+          "trilha": "tech",
+          "category": "Anthropic/Claude",
+          "primary_url": "https://claude.com/blog/projects-redesigned",
+          "secondary_urls": [
+            "https://macmagazine.com.br/post/2026/09/24/anthropic-aprimora-desempenho-do-claude-para-macos-e-reformula-projetos-do-code/"
+          ]
+        },
+        {
+          "title": "Abridge é selecionada para contrato de até US$ 775,7 milhões de IA ambiente do VA (EUA)",
+          "pilar": "IA na Saúde",
+          "trilha": "medicina",
+          "category": "Saúde",
+          "primary_url": "https://www.abridge.com/press-release/va-enterprise-contract",
+          "secondary_urls": [
+            "https://www.nextgov.com/artificial-intelligence/2026/09/va-selects-abridge-ambient-scribe-under-new-enterprise-contract/416140/",
+            "https://hitconsultant.net/2026/09/22/abridge-awarded-va-enterprise-contract-ambient-ai-veterans-health-administration/"
+          ]
+        },
+        {
+          "title": "Heidi capta US$ 340 milhões e dobra avaliação para US$ 900 milhões, mirando IA clínica agentic",
+          "pilar": "IA na Saúde",
+          "trilha": "medicina",
+          "category": "Saúde",
+          "primary_url": "https://www.heidihealth.com/en-us/blog/heidi-secures-us340m-to-scale-agents-across-health-systems-globally",
+          "secondary_urls": [
+            "https://www.bloomberg.com/news/articles/2026-09-22/ai-startup-heidi-doubles-valuation-to-900-million-in-new-round",
+            "https://www.mobihealthnews.com/news/heidi-health-garnered-340m-reaches-900m-valuation"
+          ]
+        }
+      ]
     }
   ],
   "tracks": {
     "medicina": {
-      "last_report": "2026-09-21",
-      "last_edition": 7
+      "last_report": "2026-09-28",
+      "last_edition": 8
     },
     "tech": {
       "last_report": "2026-08-26",
