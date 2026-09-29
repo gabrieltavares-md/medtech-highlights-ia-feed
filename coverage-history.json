@@ -2941,6 +2941,43 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-09-29",
+      "highlights": [
+        {
+          "title": "OpenAI lança o Dots, agente sempre ativo, entre 20+ anúncios na DevDay 2026",
+          "pilar": "Protocolos & features",
+          "trilha": "tech",
+          "category": "LLMs/Frameworks",
+          "primary_url": "https://openai.com/index/devday-2026-recap/",
+          "secondary_urls": [
+            "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/",
+            "https://www.cnbc.com/2026/09/29/openai-devday-2026-live-updates.html"
+          ]
+        },
+        {
+          "title": "OpenAI estende o Dots e outras ferramentas da DevDay ao ChatGPT for Healthcare",
+          "pilar": "IA na Saúde",
+          "trilha": "medicina",
+          "category": "Saúde",
+          "primary_url": "https://openai.com/index/devday-2026-recap/",
+          "secondary_urls": [
+            "https://www.beckershospitalreview.com/healthcare-information-technology/ai/openai-extends-3-tools-to-chatgpt-for-healthcare-customers/"
+          ]
+        },
+        {
+          "title": "OpenAI lança marketplace de agentes com 32 parceiros, incluindo Adobe, Figma e Salesforce",
+          "pilar": "IA no dia a dia",
+          "trilha": "misc",
+          "category": "Negócios",
+          "primary_url": "https://openai.com/index/devday-2026-recap/",
+          "secondary_urls": [
+            "https://www.bgr.com/2272332/openai-devday-2026-announcements/",
+            "https://9to5mac.com/2026/09/29/openai-teases-20-announcements-at-devday-watch-live/"
+          ]
+        }
+      ]
     }
   ],
   "tracks": {
