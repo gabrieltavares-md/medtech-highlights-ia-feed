@@ -7,6 +7,16 @@
   },
   "episodes": [
     {
+      "guid": "episode-2026-09-30",
+      "date": "2026-09-30",
+      "trilha": "tech",
+      "title": "Highlights IA — Engenharia & Modelos — 30 de setembro de 2026",
+      "duration_seconds": 1677,
+      "size_bytes": 53963165,
+      "enclosure_url": "https://pub-b4194e8fac8d4332a041634bfe2178cf.r2.dev/highlights-ia-2026-09-30-tech-podcast.m4a",
+      "object_key": "highlights-ia-2026-09-30-tech-podcast.m4a"
+    },
+    {
       "guid": "episode-2026-09-28",
       "date": "2026-09-28",
       "trilha": "medicina",
