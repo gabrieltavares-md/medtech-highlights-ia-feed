@@ -2978,6 +2978,30 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-09-30",
+      "highlights": [
+        {
+          "title": "Anthropic lança Claude Sonnet 5.5, 30% mais rápido e até 30% mais barato por tarefa",
+          "pilar": "Modelos & Labs",
+          "trilha": "tech",
+          "category": "LLMs/Frameworks",
+          "primary_url": "https://www.anthropic.com/claude-sonnet-5-5",
+          "secondary_urls": [
+            "https://venturebeat.com/technology/anthropic-launches-claude-sonnet-5-5-with-30-cost-reduction-per-task-due-to-faster-speeds-and-fewer-tool-calls",
+            "https://siliconangle.com/2026/09/28/anthropic-debuts-claude-sonnet-5-5-running-30-faster-than-the-previous-generation-ai-model/"
+          ]
+        },
+        {
+          "title": "Google vai migrar os Gems do Gemini para o novo formato \"Skills\" a partir de 17 de novembro",
+          "pilar": "Protocolos & features",
+          "trilha": "tech",
+          "category": "LLMs/Frameworks",
+          "primary_url": "https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/",
+          "secondary_urls": []
+        }
+      ]
     }
   ],
   "tracks": {
@@ -2986,8 +3010,8 @@
       "last_edition": 8
     },
     "tech": {
-      "last_report": "2026-08-26",
-      "last_edition": 5
+      "last_report": "2026-09-30",
+      "last_edition": 6
     },
     "misc": {
       "last_report": "2026-09-11",
