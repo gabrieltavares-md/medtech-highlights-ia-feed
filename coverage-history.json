@@ -3002,6 +3002,54 @@
           "secondary_urls": []
         }
       ]
+    },
+    {
+      "date": "2026-10-01",
+      "highlights": [
+        {
+          "title": "Google lança Gemini 4 Argon, seu modelo de IA mais avançado até agora",
+          "pilar": "Modelos & Labs",
+          "trilha": "tech",
+          "category": "LLMs/Frameworks",
+          "primary_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
+          "secondary_urls": [
+            "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
+            "https://venturebeat.com/technology/google-unveils-gemini-4-argon-retaking-benchmark-lead-over-openai-and-anthropic-but-in-limited-release"
+          ]
+        },
+        {
+          "title": "Ortet nasce como laboratório de IA dedicado à saúde, com US$ 500 milhões",
+          "pilar": "IA na Saúde",
+          "trilha": "medicina",
+          "category": "Saúde",
+          "primary_url": "https://www.fiercehealthcare.com/ai-and-machine-learning/ex-genentech-meta-aws-ai-leaders-launch-health-ai-lab-500m-backing",
+          "secondary_urls": [
+            "https://www.axios.com/pro/health-tech-deals/2026/09/29/ortet-500m-commitment-thoreau",
+            "https://www.financialcontent.com/article/bizwire-2026-9-29-ortet-launches-as-frontier-ai-lab-for-health-with-500-million-commitment-from-thoreau"
+          ]
+        },
+        {
+          "title": "Claude for Government chega à disponibilidade geral em ambiente FedRAMP High",
+          "pilar": "Protocolos & features",
+          "trilha": "tech",
+          "category": "Anthropic/Claude",
+          "primary_url": "https://claude.com/blog/claude-for-government-is-now-generally-available",
+          "secondary_urls": [
+            "https://cryptobriefing.com/anthropic-claude-for-government-generally-available/"
+          ]
+        },
+        {
+          "title": "DoorDash lança agente de IA que recebe pedidos por mensagem de texto",
+          "pilar": "IA no dia a dia",
+          "trilha": "misc",
+          "category": "Outras ferramentas",
+          "primary_url": "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/",
+          "secondary_urls": [
+            "https://9to5mac.com/2026/09/30/doordash-now-lets-you-order-by-text-in-apple-messages/",
+            "https://www.adweek.com/commerce/you-can-order-doordash-through-texts-and-slack-messages-now/"
+          ]
+        }
+      ]
     }
   ],
   "tracks": {
