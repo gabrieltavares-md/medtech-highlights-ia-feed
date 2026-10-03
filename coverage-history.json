@@ -3050,6 +3050,126 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-10-02",
+      "highlights": [
+        {
+          "title": "Barclays amplia uso do Claude em operações bancárias",
+          "pilar": "IA no dia a dia",
+          "trilha": "misc",
+          "category": "Anthropic/Claude",
+          "primary_url": "https://www.anthropic.com/news/barclays-scales-claude",
+          "secondary_urls": [
+            "https://www.finextra.com/newsarticle/48519/barclays-ramps-up-use-of-anthropics-claude"
+          ]
+        },
+        {
+          "title": "LlamaIndex lança Extract v2.5 para extração de documentos",
+          "pilar": "Engenharia de IA",
+          "trilha": "tech",
+          "category": "LLMs/Frameworks",
+          "primary_url": "https://www.llamaindex.ai/blog/introducing-extract-v2-5",
+          "secondary_urls": [
+            "https://www.unite.ai/llamaindex-launches-extract-v2-5-with-accuracy-and-grounding-gains/"
+          ]
+        },
+        {
+          "title": "Estudo compara tutoria de IA e tutoria humana no GRE",
+          "pilar": "IA na Educação",
+          "trilha": "misc",
+          "category": "Papers",
+          "primary_url": "https://arxiv.org/abs/2609.28470",
+          "secondary_urls": [
+            "https://huggingface.co/papers/2609.28470"
+          ]
+        },
+        {
+          "title": "Mapeamento de rubricas para avaliar raciocínio clínico em LLMs",
+          "pilar": "Artigos científicos",
+          "trilha": "medicina",
+          "category": "Papers",
+          "primary_url": "https://arxiv.org/abs/2610.01938",
+          "secondary_urls": []
+        },
+        {
+          "title": "Nvidia lança plataforma para conter agentes de IA desgovernados",
+          "pilar": "Protocolos & features",
+          "trilha": "tech",
+          "category": "Outras ferramentas",
+          "primary_url": "https://nvidianews.nvidia.com/news/open-agent-safety-platform",
+          "secondary_urls": [
+            "https://www.axios.com/2026/09/28/nvidia-ai-agent-safety"
+          ]
+        },
+        {
+          "title": "Estudo testa IA para triagem de radiografias de tórax no Nepal",
+          "pilar": "IA na Saúde",
+          "trilha": "medicina",
+          "category": "Saúde",
+          "primary_url": "https://doi.org/10.1136/bmjopen-2026-124868",
+          "secondary_urls": [
+            "https://pubmed.ncbi.nlm.nih.gov/42823116/"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-10-03",
+      "highlights": [
+        {
+          "title": "Anthropic lança mods para o Claude Code",
+          "pilar": "Engenharia de IA",
+          "trilha": "tech",
+          "category": "Anthropic/Claude",
+          "primary_url": "https://claude.com/blog/claude-code-mods",
+          "secondary_urls": [
+            "https://cryptobriefing.com/anthropic-claude-code-mods-customization/"
+          ]
+        },
+        {
+          "title": "Microsoft lança os modelos de voz MAI-Transcribe-2-Streaming e Voice-2.1-Flash",
+          "pilar": "Modelos & Labs",
+          "trilha": "tech",
+          "category": "Outras ferramentas",
+          "primary_url": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/build-expressive-voice-experiences-with-new-mai-models-in-microsoft-foundry/4524637",
+          "secondary_urls": [
+            "https://www.marktechpost.com/2026/10/02/microsoft-ai-releases-mai-transcribe-2-streaming-1-real-time-speech-to-text-model-on-artificial-analysis/"
+          ]
+        },
+        {
+          "title": "GitHub Copilot ganha \"computer use\": controle de apps do desktop",
+          "pilar": "Protocolos & features",
+          "trilha": "tech",
+          "category": "Outras ferramentas",
+          "primary_url": "https://github.blog/changelog/2026-10-01-github-copilot-can-now-interact-with-desktop-apps/",
+          "secondary_urls": []
+        },
+        {
+          "title": "Nvidia lança o DGX Spark 64GB, versão mais barata do supercomputador pessoal de IA",
+          "pilar": "Modelos & Labs",
+          "trilha": "tech",
+          "category": "Outras ferramentas",
+          "primary_url": "https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync/",
+          "secondary_urls": []
+        },
+        {
+          "title": "Hospital universitário da Virgínia reduz horas de \"scribes\" humanos após expandir IA de documentação",
+          "pilar": "IA na Saúde",
+          "trilha": "medicina",
+          "category": "Saúde",
+          "primary_url": "https://cavalierdaily.com/article/2026/10/uva-health-cuts-scribe-hours-as-ai-documentation-tools-expand-across-health-system",
+          "secondary_urls": []
+        },
+        {
+          "title": "ChatGPT ganha \"Try On\" virtual e lista de favoritos para compras",
+          "pilar": "IA no dia a dia",
+          "trilha": "misc",
+          "category": "Outras ferramentas",
+          "primary_url": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
+          "secondary_urls": []
+        }
+      ]
     }
   ],
   "tracks": {
