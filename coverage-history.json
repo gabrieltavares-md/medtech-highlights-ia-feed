@@ -3170,6 +3170,42 @@
           "secondary_urls": []
         }
       ]
+    },
+    {
+      "date": "2026-10-04",
+      "highlights": [
+        {
+          "title": "Aleph Alpha lança Kolibri-1, modelo europeu de pesos abertos com 1M de tokens de contexto",
+          "pilar": "Modelos & Labs",
+          "trilha": "tech",
+          "category": "LLMs/Frameworks",
+          "primary_url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
+          "secondary_urls": [
+            "https://cryptobriefing.com/aleph-alpha-releases-kolibri-ai-model/",
+            "https://www.testingcatalog.com/aleph-alpha-releases-open-weight-kolibri-with-1m-context/"
+          ]
+        },
+        {
+          "title": "Pesquisador de segurança sai da OpenAI dizendo que \"o tempo de tentativa e erro acabou\"",
+          "pilar": "IA no dia a dia",
+          "trilha": "misc",
+          "category": "Negócios",
+          "primary_url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/",
+          "secondary_urls": [
+            "https://www.investing.com/news/economy-news/openai-safety-employee-quits-says-time-for-trial-and-error-is-over-4930874"
+          ]
+        },
+        {
+          "title": "HHS/ARPA-H lança o programa SURPASS para modernizar ensaios clínicos com IA",
+          "pilar": "IA na Saúde",
+          "trilha": "medicina",
+          "category": "Saúde",
+          "primary_url": "https://www.hhs.gov/press-room/hhs-arpa-h-launch-surpass-modernize-clinical-trials.html",
+          "secondary_urls": [
+            "https://www.statnews.com/2026/09/30/hhs-arpa-h-clinical-trials-artificial-intelligence-surpass-program"
+          ]
+        }
+      ]
     }
   ],
   "tracks": {
