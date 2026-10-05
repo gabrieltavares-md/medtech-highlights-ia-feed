@@ -3206,12 +3206,47 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-10-05",
+      "highlights": [
+        {
+          "title": "Cloudflare lança Clef e Clef-flash, modelos de decisão de código aberto",
+          "pilar": "Modelos & Labs",
+          "trilha": "tech",
+          "category": "LLMs/Frameworks",
+          "primary_url": "https://blog.cloudflare.com/clef-decision-models/",
+          "secondary_urls": [
+            "https://www.marktechpost.com/2026/10/01/cloudflare-releases-clef-and-clef-flash/"
+          ]
+        },
+        {
+          "title": "IBM lança implantação self-hosted do agente de codificação IBM Bob",
+          "pilar": "Engenharia de IA",
+          "trilha": "tech",
+          "category": "Outras ferramentas",
+          "primary_url": "https://newsroom.ibm.com/2026-10-01-ibm-introduces-self-hosted-deployment-for-ibm-bob-to-help-enterprises-advance-ai-sovereignty-and-governance",
+          "secondary_urls": [
+            "https://siliconangle.com/2026/10/01/ibm-allows-on-prem-deployment-of-its-bob-agentic-development-platform/"
+          ]
+        },
+        {
+          "title": "Instinct levanta US$ 1 bilhão em rodada Série C, avaliação de US$ 10 bilhões",
+          "pilar": "IA no dia a dia",
+          "trilha": "misc",
+          "category": "Negócios",
+          "primary_url": "https://techfundingnews.com/ai-agent-instinct-jumps-to-10b-valuation-with-1b-led-by-sequoia-benchmark-and-coatue/",
+          "secondary_urls": [
+            "https://techcrunch.com/2026/09/29/instinct-founder-said-more-than-50-of-transactions-on-the-platform-are-travel-related/"
+          ]
+        }
+      ]
     }
   ],
   "tracks": {
     "medicina": {
-      "last_report": "2026-09-28",
-      "last_edition": 8
+      "last_report": "2026-10-05",
+      "last_edition": 9
     },
     "tech": {
       "last_report": "2026-09-30",
