@@ -3241,6 +3241,42 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-10-06",
+      "highlights": [
+        {
+          "title": "Reflection AI lança Beam, modelo open-weight de 501B parâmetros",
+          "pilar": "Modelos & Labs",
+          "trilha": "tech",
+          "category": "LLMs/Frameworks",
+          "primary_url": "https://reflection.ai/blog/introducing-beam",
+          "secondary_urls": [
+            "https://thenextweb.com/news/reflection-ai-beam-open-weight-model",
+            "https://app.dealroom.co/news/note/nvidia-backed-reflection-ai-prepares-first-open-weight-model-launch"
+          ]
+        },
+        {
+          "title": "OpenAI lança novo formato de anúncios visuais no ChatGPT (geração de imagens)",
+          "pilar": "IA no dia a dia",
+          "trilha": "misc",
+          "category": "Negócios",
+          "primary_url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement/",
+          "secondary_urls": [
+            "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/"
+          ]
+        },
+        {
+          "title": "Pearson adquire a Workera, plataforma de avaliação de habilidades com IA (retrospectivo, 29/09)",
+          "pilar": "IA na Educação",
+          "trilha": "misc",
+          "category": "Negócios",
+          "primary_url": "https://plc.pearson.com/en-GB/news-and-insights/news/pearson-acquires-workera-pioneer-ai-native-enterprise-assessment-and-skills",
+          "secondary_urls": [
+            "https://www.edtechinnovationhub.com/news/pearson-to-acquire-workera-in-major-push-into-ai-skills-and-workforce-assessment"
+          ]
+        }
+      ]
     }
   ],
   "tracks": {
