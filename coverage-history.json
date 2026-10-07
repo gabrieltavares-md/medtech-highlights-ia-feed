@@ -3277,6 +3277,60 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-10-07",
+      "highlights": [
+        {
+          "title": "Mistral lança Large 4, modelo aberto de 1 trilhão de parâmetros",
+          "pilar": "Modelos & Labs",
+          "trilha": "tech",
+          "category": "LLMs/Frameworks",
+          "primary_url": "https://mistral.ai/news/mistral-large-4/",
+          "secondary_urls": [
+            "https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/"
+          ]
+        },
+        {
+          "title": "Sierra e Meta lançam Personal Agent Protocol para agentes de IA pessoais",
+          "pilar": "Protocolos & features",
+          "trilha": "tech",
+          "category": "Outras ferramentas",
+          "primary_url": "https://sierra.ai/blog/introducing-personal-agent-protocol",
+          "secondary_urls": [
+            "https://forkast.news/sierra-and-metas-personal-agent-protocol-gives-commerce-a-common-front-door-for-those-willing-to-open-it/",
+            "https://www.unite.ai/sierra-unveils-personal-agent-protocol-built-with-meta-and-partners/"
+          ]
+        },
+        {
+          "title": "Anthropic lança Claude Frontier Academy com US$ 100 milhões para formar engenheiros de IA",
+          "pilar": "IA no dia a dia",
+          "trilha": "misc",
+          "category": "Anthropic/Claude",
+          "primary_url": "https://claude.com/programs/frontier-academy",
+          "secondary_urls": [
+            "https://cryptobriefing.com/anthropic-100-million-claude-frontier-academy/"
+          ]
+        },
+        {
+          "title": "Teladoc lança scribe ambiente de IA e medição de sinais vitais sem contato",
+          "pilar": "IA na Saúde",
+          "trilha": "medicina",
+          "category": "Saúde",
+          "primary_url": "https://www.fiercehealthcare.com/ai-and-machine-learning/teladoc-health-unveils-2-new-ai-capabilities-within-solo-platform",
+          "secondary_urls": []
+        },
+        {
+          "title": "NVIDIA mede custo-benefício da recuperação agentic em sistemas de RAG",
+          "pilar": "Artigos científicos",
+          "trilha": "tech",
+          "category": "Papers",
+          "primary_url": "https://arxiv.org/abs/2610.05750",
+          "secondary_urls": [
+            "https://huggingface.co/papers/2610.05750"
+          ]
+        }
+      ]
     }
   ],
   "tracks": {
@@ -3285,8 +3339,8 @@
       "last_edition": 9
     },
     "tech": {
-      "last_report": "2026-09-30",
-      "last_edition": 6
+      "last_report": "2026-10-07",
+      "last_edition": 7
     },
     "misc": {
       "last_report": "2026-09-11",
