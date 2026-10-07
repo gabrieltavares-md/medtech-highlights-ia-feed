@@ -717,6 +717,20 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
+    <item>
+      <title>Highlights IA — Engenharia &amp; Modelos — 7 de outubro de 2026</title>
+      <description><![CDATA[Nesta edição: a corrida dos modelos open-weight gigantes (Reflection Beam, Mistral Large 4, Aleph Alpha Kolibri-1) e o problema dos benchmarks não verificáveis; o Gemini 4 Argon, modelo mais avançado da Google mas de acesso restrito por risco de segurança; além de Claude for Government, Claude Code mods, GitHub Copilot com computer use e mais. Áudio gerado com NotebookLM (Google).]]></description>
+      <link>https://docgabtxsmed.github.io/medtech-highlights-ia-feed/episodes/2026-10-07</link>
+      <guid isPermaLink="false">episode-2026-10-07</guid>
+      <pubDate>Wed, 07 Oct 2026 10:00:00 +0000</pubDate>
+      <enclosure url="https://pub-b4194e8fac8d4332a041634bfe2178cf.r2.dev/highlights-ia-2026-10-07-tech-podcast.m4a" length="39325701" type="audio/mp4"/>
+      <itunes:author>MedTech Community AI</itunes:author>
+      <itunes:duration>20:22</itunes:duration>
+      <itunes:summary><![CDATA[Nesta edição: a corrida dos modelos open-weight gigantes (Reflection Beam, Mistral Large 4, Aleph Alpha Kolibri-1) e o problema dos benchmarks não verificáveis; o Gemini 4 Argon, modelo mais avançado da Google mas de acesso restrito por risco de segurança; além de Claude for Government, Claude Code mods, GitHub Copilot com computer use e mais. Áudio gerado com NotebookLM (Google).]]></itunes:summary>
+      <itunes:image href="https://docgabtxsmed.github.io/medtech-highlights-ia-feed/cover.png"/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <!-- ITEMS_INSERT_HERE -->
   </channel>
 </rss>
