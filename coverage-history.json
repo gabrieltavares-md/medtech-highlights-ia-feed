@@ -3331,6 +3331,45 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-10-08",
+      "highlights": [
+        {
+          "title": "Anthropic lança o Claude Haiku 5.5, modelo pequeno mais rápido e barato da linha",
+          "pilar": "Modelos & Labs",
+          "trilha": "tech",
+          "category": "Anthropic/Claude",
+          "primary_url": "https://www.anthropic.com/claude-haiku-5-5",
+          "secondary_urls": [
+            "https://www.unite.ai/anthropic-releases-claude-haiku-5-5-cutting-small-model-api-prices/"
+          ]
+        },
+        {
+          "title": "OpenAI lança GPT-6 com \"Intelligent UI\" para todos os usuários do ChatGPT",
+          "pilar": "Protocolos & features",
+          "trilha": "tech",
+          "category": "LLMs/Frameworks",
+          "primary_url": "https://openai.com/index/gpt-6-for-everyone/",
+          "secondary_urls": []
+        },
+        {
+          "title": "OpenAI amplia o ChatGPT for Teens com planejador de faculdade e conselho de adolescentes",
+          "pilar": "IA na Educação",
+          "trilha": "misc",
+          "category": "Outras ferramentas",
+          "primary_url": "https://openai.com/index/teens-learn-and-plan/",
+          "secondary_urls": []
+        },
+        {
+          "title": "Utah amplia sandbox regulatório de IA em saúde com 5 novos pilotos e avaliadores independentes",
+          "pilar": "IA na Saúde",
+          "trilha": "medicina",
+          "category": "Saúde",
+          "primary_url": "https://www.fiercehealthcare.com/ai-and-machine-learning/utah-taps-august-ai-nolla-health-healthcare-ai-sandbox-program-adds-third",
+          "secondary_urls": []
+        }
+      ]
     }
   ],
   "tracks": {
