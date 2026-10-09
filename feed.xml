@@ -731,6 +731,20 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
+    <item>
+      <title>Highlights IA — Miscelânea — 9 de outubro de 2026</title>
+      <description><![CDATA[Nesta edição: Anthropic lança a Claude Frontier Academy com US$100 milhões para formar 10 mil engenheiros de implantação, gerando debate sobre acesso restrito e lock-in de fornecedor; Barclays amplia o uso do Claude e a Instinct levanta US$1 bilhão, mostrando IA ganhando espaço nos negócios; e um estudo StudentBench examina tutoria de IA na preparação para o GRE. Áudio gerado com NotebookLM (Google).]]></description>
+      <link>https://docgabtxsmed.github.io/medtech-highlights-ia-feed/episodes/2026-10-09</link>
+      <guid isPermaLink="false">episode-2026-10-09</guid>
+      <pubDate>Fri, 09 Oct 2026 10:00:00 +0000</pubDate>
+      <enclosure url="https://pub-b4194e8fac8d4332a041634bfe2178cf.r2.dev/highlights-ia-2026-10-09-misc-podcast.m4a" length="41244045" type="audio/mp4"/>
+      <itunes:author>MedTech Community AI</itunes:author>
+      <itunes:duration>21:21</itunes:duration>
+      <itunes:summary><![CDATA[Nesta edição: Anthropic lança a Claude Frontier Academy com US$100 milhões para formar 10 mil engenheiros de implantação, gerando debate sobre acesso restrito e lock-in de fornecedor; Barclays amplia o uso do Claude e a Instinct levanta US$1 bilhão, mostrando IA ganhando espaço nos negócios; e um estudo StudentBench examina tutoria de IA na preparação para o GRE. Áudio gerado com NotebookLM (Google).]]></itunes:summary>
+      <itunes:image href="https://docgabtxsmed.github.io/medtech-highlights-ia-feed/cover.png"/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <!-- ITEMS_INSERT_HERE -->
   </channel>
 </rss>
