@@ -7,6 +7,16 @@
   },
   "episodes": [
     {
+      "guid": "episode-2026-10-09",
+      "date": "2026-10-09",
+      "trilha": "misc",
+      "title": "Highlights IA — Miscelânea — 9 de outubro de 2026",
+      "duration_seconds": 1281,
+      "size_bytes": 41244045,
+      "enclosure_url": "https://pub-b4194e8fac8d4332a041634bfe2178cf.r2.dev/highlights-ia-2026-10-09-misc-podcast.m4a",
+      "object_key": "highlights-ia-2026-10-09-misc-podcast.m4a"
+    },
+    {
       "guid": "episode-2026-10-07",
       "date": "2026-10-07",
       "trilha": "tech",
