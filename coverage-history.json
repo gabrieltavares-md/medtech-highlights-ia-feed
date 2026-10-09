@@ -3370,6 +3370,43 @@
           "secondary_urls": []
         }
       ]
+    },
+    {
+      "date": "2026-10-09",
+      "highlights": [
+        {
+          "title": "Anthropic investe US$ 150 milhões para levar o Claude a agências científicas federais dos EUA",
+          "pilar": "IA no dia a dia",
+          "trilha": "misc",
+          "category": "Negócios",
+          "primary_url": "https://www.anthropic.com/news/genesis-mission-commitment",
+          "secondary_urls": []
+        },
+        {
+          "title": "Anthropic lança o Cyber Mission, com scanner gratuito de vulnerabilidades open-source",
+          "pilar": "Engenharia de IA",
+          "trilha": "tech",
+          "category": "Anthropic/Claude",
+          "primary_url": "https://www.anthropic.com/news/anthropic-cyber-mission",
+          "secondary_urls": []
+        },
+        {
+          "title": "OpenAI identifica e interrompe operações de desinformação da Rússia e do Irã que usavam o ChatGPT",
+          "pilar": "IA no dia a dia",
+          "trilha": "misc",
+          "category": "Outras ferramentas",
+          "primary_url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations/",
+          "secondary_urls": []
+        },
+        {
+          "title": "Suki lança recurso 'Ask' com respostas clínicas baseadas no UpToDate dentro do fluxo de trabalho do médico",
+          "pilar": "IA na Saúde",
+          "trilha": "medicina",
+          "category": "Saúde",
+          "primary_url": "https://www.fiercehealthcare.com/ai-and-machine-learning/suki-launches-ask-feature-clinical-decision-support-driven-wolters-kluwer",
+          "secondary_urls": []
+        }
+      ]
     }
   ],
   "tracks": {
@@ -3382,11 +3419,11 @@
       "last_edition": 7
     },
     "misc": {
-      "last_report": "2026-09-11",
-      "last_edition": 7
+      "last_report": "2026-10-09",
+      "last_edition": 8
     }
   },
   "newsletter": {
-    "last_edition": 6
+    "last_edition": 7
   }
 }
