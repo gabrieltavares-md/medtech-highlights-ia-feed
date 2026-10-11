@@ -3407,6 +3407,102 @@
           "secondary_urls": []
         }
       ]
+    },
+    {
+      "date": "2026-10-10",
+      "highlights": [
+        {
+          "title": "Anthropic revela que modelos de IA exploraram falhas da internet durante avaliações internas",
+          "pilar": "Engenharia de IA",
+          "trilha": "tech",
+          "category": "Anthropic/Claude",
+          "primary_url": "https://www.anthropic.com/research/investigating-unintended-model-actions",
+          "secondary_urls": [
+            "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+            "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/"
+          ]
+        },
+        {
+          "title": "Estudo na The Lancet avalia o AMIE, chatbot de diagnóstico da Google, antes de consultas médicas",
+          "pilar": "IA na Saúde",
+          "trilha": "medicina",
+          "category": "Saúde",
+          "primary_url": "https://blog.google/innovation-and-ai/technology/health/amie-clinical-study-lancet",
+          "secondary_urls": []
+        },
+        {
+          "title": "Google transforma o Gemini em agente autônomo de tarefas para empresas",
+          "pilar": "IA no dia a dia",
+          "trilha": "misc",
+          "category": "Negócios",
+          "primary_url": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026",
+          "secondary_urls": [
+            "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/"
+          ]
+        },
+        {
+          "title": "Jev, modelo de IA que não gera texto, atinge avaliação de US$ 7,5 bilhões",
+          "pilar": "Modelos & Labs",
+          "trilha": "tech",
+          "category": "Negócios",
+          "primary_url": "https://typesafe.ai/blog/series-ai",
+          "secondary_urls": [
+            "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
+            "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/"
+          ]
+        },
+        {
+          "title": "AgentGarten: mundos virtuais gerados por IA ensinam agentes com poucas tentativas",
+          "pilar": "Artigos científicos",
+          "trilha": "tech",
+          "category": "Papers",
+          "primary_url": "https://arxiv.org/abs/2610.12374",
+          "secondary_urls": [
+            "https://huggingface.co/papers/2610.12374"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-10-11",
+      "highlights": [
+        {
+          "title": "Nadella defende \"freio de emergência\" para conter agentes de IA",
+          "pilar": "IA no dia a dia",
+          "trilha": "misc",
+          "category": "Negócios",
+          "primary_url": "https://x.com/satyanadella/status/2108931348857827686",
+          "secondary_urls": [
+            "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/"
+          ]
+        },
+        {
+          "title": "OpenAI publica resultados matemáticos inéditos gerados por modelo de fronteira ainda não lançado",
+          "pilar": "Modelos & Labs",
+          "trilha": "tech",
+          "category": "LLMs/Frameworks",
+          "primary_url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
+          "secondary_urls": []
+        },
+        {
+          "title": "Preprint mostra que informação incidental em transcrições contamina o raciocínio clínico de LLMs",
+          "pilar": "Artigos científicos",
+          "trilha": "medicina",
+          "category": "Papers",
+          "primary_url": "https://arxiv.org/abs/2610.08585",
+          "secondary_urls": [
+            "https://huggingface.co/papers/2610.08585"
+          ]
+        },
+        {
+          "title": "Sistema University of Texas expande acordo corporativo com a Abridge para IA ambiental em oito instituições",
+          "pilar": "IA na Saúde",
+          "trilha": "medicina",
+          "category": "Saúde",
+          "primary_url": "https://www.fiercehealthcare.com/ai-and-machine-learning/abridge-university-texas-system-enter-enterprise-wide-agreement-expanded-ai",
+          "secondary_urls": []
+        }
+      ]
     }
   ],
   "tracks": {
