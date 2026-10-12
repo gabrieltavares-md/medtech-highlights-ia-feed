@@ -3503,12 +3503,52 @@
           "secondary_urls": []
         }
       ]
+    },
+    {
+      "date": "2026-10-12",
+      "highlights": [
+        {
+          "title": "Mount Sinai: lembrete de segurança reduz decisões clínicas arriscadas de LLMs, mas não as elimina",
+          "pilar": "IA na Saúde",
+          "trilha": "medicina",
+          "category": "Saúde",
+          "primary_url": "https://www.nature.com/articles/s43856-026-01933-8",
+          "secondary_urls": [
+            "https://www.mountsinai.org/about/newsroom/2026/mount-sinai-study-finds-safety-prompts-can-help-ai-models-make-safer-clinical-choices",
+            "https://www.medicaleconomics.com/view/can-a-safety-prompt-make-ai-safer-for-clinical-decisions-study-says-yes-partly"
+          ]
+        },
+        {
+          "title": "Nature Medicine valida MedGemma, família de modelos médicos de visão-linguagem do Google",
+          "pilar": "Artigos científicos",
+          "trilha": "medicina",
+          "category": "Papers",
+          "primary_url": "https://nature.com/articles/s41591-026-04626-w",
+          "secondary_urls": []
+        },
+        {
+          "title": "Executivos da PolyAI e da Otter dizem que a IA de voz ainda não teve seu \"momento ChatGPT\"",
+          "pilar": "Engenharia de IA",
+          "trilha": "tech",
+          "category": "LLMs/Frameworks",
+          "primary_url": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
+          "secondary_urls": []
+        },
+        {
+          "title": "OpenAI expande o ChatGPT for Teens com planejador de faculdade, flashcards e quizzes",
+          "pilar": "IA na Educação",
+          "trilha": "misc",
+          "category": "Outras ferramentas",
+          "primary_url": "https://openai.com/index/teens-learn-and-plan/",
+          "secondary_urls": []
+        }
+      ]
     }
   ],
   "tracks": {
     "medicina": {
-      "last_report": "2026-10-05",
-      "last_edition": 9
+      "last_report": "2026-10-12",
+      "last_edition": 10
     },
     "tech": {
       "last_report": "2026-10-07",
