@@ -7,6 +7,16 @@
   },
   "episodes": [
     {
+      "guid": "episode-2026-10-12",
+      "date": "2026-10-12",
+      "trilha": "medicina",
+      "title": "Highlights IA — Medicina & Pesquisa — 12 de outubro de 2026",
+      "duration_seconds": 1808,
+      "size_bytes": 58193774,
+      "enclosure_url": "https://pub-b4194e8fac8d4332a041634bfe2178cf.r2.dev/highlights-ia-2026-10-12-medicina-podcast.m4a",
+      "object_key": "highlights-ia-2026-10-12-medicina-podcast.m4a"
+    },
+    {
       "guid": "episode-2026-10-09",
       "date": "2026-10-09",
       "trilha": "misc",
