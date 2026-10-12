@@ -745,6 +745,20 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
+    <item>
+      <title>Highlights IA — Medicina &amp; Pesquisa — 12 de outubro de 2026</title>
+      <description><![CDATA[Um estudo da Mount Sinai testa 20 modelos de IA em instruções clínicas inseguras: um lembrete de segurança reduz em 40% as decisões arriscadas, mas 1 em cada 10 ainda escapa. Também: estudos peer-reviewed do Google (AMIE na Lancet, MedGemma na Nature Medicine) e o avanço da IA ambiental em saúde com Abridge, Teladoc e Suki. Áudio gerado com NotebookLM (Google).]]></description>
+      <link>https://docgabtxsmed.github.io/medtech-highlights-ia-feed/episodes/2026-10-12</link>
+      <guid isPermaLink="false">episode-2026-10-12</guid>
+      <pubDate>Mon, 12 Oct 2026 10:00:00 +0000</pubDate>
+      <enclosure url="https://pub-b4194e8fac8d4332a041634bfe2178cf.r2.dev/highlights-ia-2026-10-12-medicina-podcast.m4a" length="58193774" type="audio/mp4"/>
+      <itunes:author>MedTech Community AI</itunes:author>
+      <itunes:duration>30:08</itunes:duration>
+      <itunes:summary><![CDATA[Um estudo da Mount Sinai testa 20 modelos de IA em instruções clínicas inseguras: um lembrete de segurança reduz em 40% as decisões arriscadas, mas 1 em cada 10 ainda escapa. Também: estudos peer-reviewed do Google (AMIE na Lancet, MedGemma na Nature Medicine) e o avanço da IA ambiental em saúde com Abridge, Teladoc e Suki. Áudio gerado com NotebookLM (Google).]]></itunes:summary>
+      <itunes:image href="https://docgabtxsmed.github.io/medtech-highlights-ia-feed/cover.png"/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <!-- ITEMS_INSERT_HERE -->
   </channel>
 </rss>
