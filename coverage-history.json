@@ -3543,6 +3543,47 @@
           "secondary_urls": []
         }
       ]
+    },
+    {
+      "date": "2026-10-13",
+      "highlights": [
+        {
+          "title": "Estudo com 127.833 consultas mostra que uso real de LLMs por clínicos difere dos benchmarks que os avaliam",
+          "pilar": "Artigos científicos",
+          "trilha": "medicina",
+          "category": "Papers",
+          "primary_url": "https://arxiv.org/abs/2610.11069",
+          "secondary_urls": []
+        },
+        {
+          "title": "Meta lança Muse Wonder, seu primeiro modelo de fronteira para agentes pessoais e profissionais",
+          "pilar": "Modelos & Labs",
+          "trilha": "tech",
+          "category": "LLMs/Frameworks",
+          "primary_url": "https://research.meta.ai/blog/muse-wonder",
+          "secondary_urls": [
+            "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/"
+          ]
+        },
+        {
+          "title": "Character.AI pede recuperação judicial e vende ativos à Disney por US$ 20 milhões",
+          "pilar": "IA no dia a dia",
+          "trilha": "misc",
+          "category": "Negócios",
+          "primary_url": "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/",
+          "secondary_urls": [
+            "https://cases.stretto.com/public/x936/14939/PLEADINGS/1493910122680000000088.pdf"
+          ]
+        },
+        {
+          "title": "Presidente da Microsoft defende que o Reino Unido lidere a regulação global de IA",
+          "pilar": "IA no dia a dia",
+          "trilha": "misc",
+          "category": "Negócios",
+          "primary_url": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
+          "secondary_urls": []
+        }
+      ]
     }
   ],
   "tracks": {
