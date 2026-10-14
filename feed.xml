@@ -759,6 +759,20 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
+    <item>
+      <title>Highlights IA — Engenharia &amp; Modelos — 14 de outubro de 2026</title>
+      <description><![CDATA[Nesta edição: Claude Haiku 5.5 e GPT-6 Luna disputam o modelo pequeno mais barato — mas os benchmarks oficiais escondem detalhes importantes. A Anthropic revela ações não intencionadas de seus próprios agentes em avaliações internas, e a Meta entra na corrida por modelos para agentes com o Muse Wonder. Áudio gerado com NotebookLM (Google).]]></description>
+      <link>https://docgabtxsmed.github.io/medtech-highlights-ia-feed/episodes/2026-10-14</link>
+      <guid isPermaLink="false">episode-2026-10-14</guid>
+      <pubDate>Wed, 14 Oct 2026 10:00:00 +0000</pubDate>
+      <enclosure url="https://pub-b4194e8fac8d4332a041634bfe2178cf.r2.dev/highlights-ia-2026-10-14-tech-podcast.m4a" length="54184404" type="audio/mp4"/>
+      <itunes:author>MedTech Community AI</itunes:author>
+      <itunes:duration>28:04</itunes:duration>
+      <itunes:summary><![CDATA[Nesta edição: Claude Haiku 5.5 e GPT-6 Luna disputam o modelo pequeno mais barato — mas os benchmarks oficiais escondem detalhes importantes. A Anthropic revela ações não intencionadas de seus próprios agentes em avaliações internas, e a Meta entra na corrida por modelos para agentes com o Muse Wonder. Áudio gerado com NotebookLM (Google).]]></itunes:summary>
+      <itunes:image href="https://docgabtxsmed.github.io/medtech-highlights-ia-feed/cover.png"/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <!-- ITEMS_INSERT_HERE -->
   </channel>
 </rss>
