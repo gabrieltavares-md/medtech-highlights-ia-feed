@@ -3584,6 +3584,51 @@
           "secondary_urls": []
         }
       ]
+    },
+    {
+      "date": "2026-10-14",
+      "highlights": [
+        {
+          "title": "Suki capta US$ 90 milhões e lança assistente de respostas clínicas com UpToDate",
+          "pilar": "IA na Saúde",
+          "trilha": "medicina",
+          "category": "Saúde",
+          "primary_url": "https://www.fiercehealthcare.com/finance/suki-secures-90m-series-e-funding-accelerate-growth-expand-ai-capabilities",
+          "secondary_urls": []
+        },
+        {
+          "title": "Johns Hopkins Medicine fecha parceria com a OpenEvidence para IA clínica e ensino médico",
+          "pilar": "IA na Saúde",
+          "trilha": "medicina",
+          "category": "Saúde",
+          "primary_url": "https://www.fiercehealthcare.com/ai-and-machine-learning/johns-hopkins-medicine-taps-openevidence-design-ai-tools-medical-training",
+          "secondary_urls": []
+        },
+        {
+          "title": "Novo benchmark AgentSWE mostra que nenhum agente de codificação testado entrega o que o usuário pediu",
+          "pilar": "Artigos científicos",
+          "trilha": "tech",
+          "category": "Papers",
+          "primary_url": "https://arxiv.org/abs/2610.13361",
+          "secondary_urls": []
+        },
+        {
+          "title": "Google Play passa a permitir apps privados feitos com IA só para o próprio usuário",
+          "pilar": "Engenharia de IA",
+          "trilha": "tech",
+          "category": "Outras ferramentas",
+          "primary_url": "https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/",
+          "secondary_urls": []
+        },
+        {
+          "title": "X e SpaceX Super Intelligence unificam assinaturas de Grok, Cursor e X Premium",
+          "pilar": "IA no dia a dia",
+          "trilha": "misc",
+          "category": "Negócios",
+          "primary_url": "https://techcrunch.com/2026/10/13/spacexsi-bundles-x-premium-grok-and-cursor-into-one-subscription/",
+          "secondary_urls": []
+        }
+      ]
     }
   ],
   "tracks": {
@@ -3592,8 +3637,8 @@
       "last_edition": 10
     },
     "tech": {
-      "last_report": "2026-10-07",
-      "last_edition": 7
+      "last_report": "2026-10-14",
+      "last_edition": 8
     },
     "misc": {
       "last_report": "2026-10-09",
