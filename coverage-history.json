@@ -3629,6 +3629,65 @@
           "secondary_urls": []
         }
       ]
+    },
+    {
+      "date": "2026-10-16",
+      "highlights": [
+        {
+          "title": "McKinsey adota entrevistador de IA para estágios enquanto Califórnia limita \"chefes-robô\"",
+          "pilar": "IA no dia a dia",
+          "trilha": "misc",
+          "category": "Negócios",
+          "primary_url": "https://en.sedaily.com/international/2026/10/16/ai-interviewer-arrives-at-mckinsey-as-california-bans-robo",
+          "secondary_urls": []
+        },
+        {
+          "title": "Sakana AI lança \"Agentic Scientist\", agente que conduz pesquisa científica ponta a ponta",
+          "pilar": "Artigos científicos",
+          "trilha": "tech",
+          "category": "Papers",
+          "primary_url": "https://arxiv.org/abs/2610.18933",
+          "secondary_urls": [
+            "https://digg.com/science/m2v96uti"
+          ]
+        },
+        {
+          "title": "Meta lança Muse Spark Open, seu modelo de peso aberto mais capaz nos EUA",
+          "pilar": "Modelos & Labs",
+          "trilha": "tech",
+          "category": "LLMs/Frameworks",
+          "primary_url": "https://www.straitstimes.com/world/meta-unveils-new-open-ai-model-to-rival-chinese-competition",
+          "secondary_urls": [
+            "https://finance.yahoo.com/technology/article/meta-has-an-ai-advantage-openai-and-anthropic-cant-replicate-100000733.html"
+          ]
+        },
+        {
+          "title": "Duke e ARPA-H testam primeira IA agêntica autorizada pela FDA para insuficiência cardíaca",
+          "pilar": "IA na Saúde",
+          "trilha": "medicina",
+          "category": "Saúde",
+          "primary_url": "https://dukechronicle.com/article/duke-university-researchers-set-to-test-agentic-ai-system-for-cardiovascular-care-advocate-symphony-fda-heart-failure-20261015",
+          "secondary_urls": []
+        },
+        {
+          "title": "MCP (Model Context Protocol) chega a 250 milhões de downloads semanais",
+          "pilar": "Protocolos & features",
+          "trilha": "tech",
+          "category": "LLMs/Frameworks",
+          "primary_url": "https://www.timesnownews.com/bizz-impact/mcp-is-quietly-becoming-the-plumbing-of-agentic-finance-article-156344286",
+          "secondary_urls": [
+            "https://stackoverflow.blog/2026/10/15/mcp-standardized-tools-now-we-need-the-infrastructure-around-them/"
+          ]
+        },
+        {
+          "title": "Anthropic leva 10 cursos gratuitos de IA ao Coursera, incluindo formação para professores",
+          "pilar": "IA na Educação",
+          "trilha": "misc",
+          "category": "Anthropic/Claude",
+          "primary_url": "https://www.edtechinnovationhub.com/news/anthropic-brings-10-free-ai-courses-to-coursera-including-training-for-teachers",
+          "secondary_urls": []
+        }
+      ]
     }
   ],
   "tracks": {
@@ -3641,11 +3700,11 @@
       "last_edition": 8
     },
     "misc": {
-      "last_report": "2026-10-09",
-      "last_edition": 8
+      "last_report": "2026-10-16",
+      "last_edition": 9
     }
   },
   "newsletter": {
-    "last_edition": 7
+    "last_edition": 8
   }
 }
