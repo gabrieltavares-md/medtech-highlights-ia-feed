@@ -773,6 +773,20 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
+    <item>
+      <title>Highlights IA — Miscelânea — 16 de outubro de 2026</title>
+      <description><![CDATA[Edição #9 da trilha Miscelânea: oito destaques da semana no cruzamento entre IA, trabalho e educação, com aprofundamento sobre a nova lei californiana que limita o uso de IA em decisões de disciplina e demissão (SB 947, "No Robo Bosses Act") e o caso McKinsey. Áudio gerado com NotebookLM (Google).]]></description>
+      <link>https://docgabtxsmed.github.io/medtech-highlights-ia-feed/episodes/2026-10-16</link>
+      <guid isPermaLink="false">episode-2026-10-16</guid>
+      <pubDate>Fri, 16 Oct 2026 10:00:00 +0000</pubDate>
+      <enclosure url="https://pub-b4194e8fac8d4332a041634bfe2178cf.r2.dev/highlights-ia-2026-10-16-misc-podcast.m4a" length="34790300" type="audio/mp4"/>
+      <itunes:author>MedTech Community AI</itunes:author>
+      <itunes:duration>18:01</itunes:duration>
+      <itunes:summary><![CDATA[Edição #9 da trilha Miscelânea: oito destaques da semana no cruzamento entre IA, trabalho e educação, com aprofundamento sobre a nova lei californiana que limita o uso de IA em decisões de disciplina e demissão (SB 947, "No Robo Bosses Act") e o caso McKinsey. Áudio gerado com NotebookLM (Google).]]></itunes:summary>
+      <itunes:image href="https://docgabtxsmed.github.io/medtech-highlights-ia-feed/cover.png"/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <!-- ITEMS_INSERT_HERE -->
   </channel>
 </rss>
