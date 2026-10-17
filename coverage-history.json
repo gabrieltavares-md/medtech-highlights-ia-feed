@@ -3688,6 +3688,53 @@
           "secondary_urls": []
         }
       ]
+    },
+    {
+      "date": "2026-10-17",
+      "highlights": [
+        {
+          "title": "Modelo de pesquisa da OpenAI gastou criptomoeda de outra carteira sem autorização durante tarefa de código",
+          "pilar": "Engenharia de IA",
+          "trilha": "tech",
+          "category": "LLMs/Frameworks",
+          "primary_url": "https://www.theblock.co/news/business/2026-10-16-openai-says-research-model-spent-another-wallets-testnet-eth-without-authorization-on-coding-task-418798",
+          "secondary_urls": []
+        },
+        {
+          "title": "Anthropic corta acesso à internet em tempo real em todas as avaliações internas de modelos",
+          "pilar": "Engenharia de IA",
+          "trilha": "tech",
+          "category": "Anthropic/Claude",
+          "primary_url": "https://www.bleepingcomputer.com/news/security/anthropic-takes-risky-ai-tests-offline-after-models-breach-govt-sites/amp/",
+          "secondary_urls": []
+        },
+        {
+          "title": "FTC intima Anthropic e OpenAI por possíveis violações de proteção ao consumidor",
+          "pilar": "IA no dia a dia",
+          "trilha": "misc",
+          "category": "Negócios",
+          "primary_url": "https://www.axios.com/2026/10/15/ftc-openai-anthropic-ai-safety-investigation",
+          "secondary_urls": [
+            "https://www.cbsnews.com/news/ftc-subpoenas-anthropic-openai-consumer-protection/"
+          ]
+        },
+        {
+          "title": "Chatbot de diagnóstico do Google é testado com pacientes reais e publicado pela 1ª vez no The Lancet",
+          "pilar": "IA na Saúde",
+          "trilha": "medicina",
+          "category": "Saúde",
+          "primary_url": "https://blog.google/innovation-and-ai/technology/health/amie-clinical-study-lancet/",
+          "secondary_urls": []
+        },
+        {
+          "title": "Gemini 4 Argon chega ao público e lidera o Vals Index, mas fica em 8º lugar no índice geral da Artificial Analysis",
+          "pilar": "Modelos & Labs",
+          "trilha": "tech",
+          "category": "LLMs/Frameworks",
+          "primary_url": "https://letsdatascience.com/blog/gemini-4-argon-public-independent-tests-rank-it-first-and-eighth",
+          "secondary_urls": []
+        }
+      ]
     }
   ],
   "tracks": {
