@@ -3735,6 +3735,55 @@
           "secondary_urls": []
         }
       ]
+    },
+    {
+      "date": "2026-10-18",
+      "highlights": [
+        {
+          "title": "OpenAI investe US$ 5 milhões na Simons Foundation para verificação de resultados matemáticos de IA",
+          "pilar": "Modelos & Labs",
+          "trilha": "tech",
+          "category": "LLMs/Frameworks",
+          "primary_url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
+          "secondary_urls": []
+        },
+        {
+          "title": "Anthropic dá à METR acesso equivalente a funcionário para avaliar riscos dos modelos Claude",
+          "pilar": "Engenharia de IA",
+          "trilha": "tech",
+          "category": "Anthropic/Claude",
+          "primary_url": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
+          "secondary_urls": []
+        },
+        {
+          "title": "OpenAI leva o curso \"AI for Educators\" ao português brasileiro e destaca o Study Mode",
+          "pilar": "IA na Educação",
+          "trilha": "misc",
+          "category": "Outras ferramentas",
+          "primary_url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions/",
+          "secondary_urls": []
+        },
+        {
+          "title": "Maior estudo já feito sobre uso de IA por médicos mostra adesão explosiva na prática clínica",
+          "pilar": "Artigos científicos",
+          "trilha": "medicina",
+          "category": "Saúde,Papers",
+          "primary_url": "https://hms.harvard.edu/news/first-large-scale-study-shows-how-doctors-use-ai-medicine",
+          "secondary_urls": [
+            "https://doi.org/10.1001/jama.2026.21868"
+          ]
+        },
+        {
+          "title": "Meta-análise: IA lê ressonância de mama com boa acurácia, mas ainda não está pronta para a clínica",
+          "pilar": "Artigos científicos",
+          "trilha": "medicina",
+          "category": "Saúde,Papers",
+          "primary_url": "https://bioengineer.org/ai-reads-breast-mri-with-striking-accuracy-but-a-new-meta-analysis-urges-caution",
+          "secondary_urls": [
+            "https://doi.org/10.1186/s12880-026-02743-z"
+          ]
+        }
+      ]
     }
   ],
   "tracks": {
