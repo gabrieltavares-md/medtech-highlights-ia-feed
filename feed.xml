@@ -787,6 +787,20 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
+    <item>
+      <title>Highlights IA — Medicina &amp; Pesquisa — 19 de outubro de 2026</title>
+      <description><![CDATA[O maior estudo já feito sobre uso de IA por médicos mostra adoção explosiva na prática clínica (950 mil profissionais, 270 milhões de consultas) — mas não mede se as respostas são precisas. Também: o descompasso entre uso real e benchmarks de IA clínica, uma meta-análise sobre IA em ressonância de mama, e novidades de Suki, Johns Hopkins e ARPA-H. Áudio gerado com NotebookLM (Google).]]></description>
+      <link>https://docgabtxsmed.github.io/medtech-highlights-ia-feed/episodes/2026-10-19</link>
+      <guid isPermaLink="false">episode-2026-10-19</guid>
+      <pubDate>Mon, 19 Oct 2026 10:00:00 +0000</pubDate>
+      <enclosure url="https://pub-b4194e8fac8d4332a041634bfe2178cf.r2.dev/highlights-ia-2026-10-19-medicina-podcast.m4a" length="13690823" type="audio/mp4"/>
+      <itunes:author>MedTech Community AI</itunes:author>
+      <itunes:duration>18:44</itunes:duration>
+      <itunes:summary><![CDATA[O maior estudo já feito sobre uso de IA por médicos mostra adoção explosiva na prática clínica (950 mil profissionais, 270 milhões de consultas) — mas não mede se as respostas são precisas. Também: o descompasso entre uso real e benchmarks de IA clínica, uma meta-análise sobre IA em ressonância de mama, e novidades de Suki, Johns Hopkins e ARPA-H. Áudio gerado com NotebookLM (Google).]]></itunes:summary>
+      <itunes:image href="https://docgabtxsmed.github.io/medtech-highlights-ia-feed/cover.png"/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <!-- ITEMS_INSERT_HERE -->
   </channel>
 </rss>
