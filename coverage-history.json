@@ -3784,12 +3784,57 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-10-19",
+      "highlights": [
+        {
+          "title": "JAMA Network lança JAMA AI, novo periódico dedicado à IA em saúde",
+          "pilar": "IA na Saúde",
+          "trilha": "medicina",
+          "category": "Saúde,Papers",
+          "primary_url": "https://jamanetwork.com/journals/jama/fullarticle/2855493",
+          "secondary_urls": []
+        },
+        {
+          "title": "Anthropic cria Public Benefit Fund e destina 5% de suas ações ao bem público",
+          "pilar": "IA no dia a dia",
+          "trilha": "misc",
+          "category": "Negócios,Anthropic/Claude",
+          "primary_url": "https://www.anthropic.com/news/public-benefit-fund",
+          "secondary_urls": []
+        },
+        {
+          "title": "Anthropic adquire a Opaque Systems, startup de computação confidencial para IA",
+          "pilar": "Modelos & Labs",
+          "trilha": "tech",
+          "category": "Anthropic/Claude,Negócios",
+          "primary_url": "https://www.securityweek.com/anthropic-acquires-confidential-ai-startup-opaque-systems/",
+          "secondary_urls": []
+        },
+        {
+          "title": "Hacker usa plataforma de agentes de IA ligada ao Claude Code para invadir mais de 100 empresas",
+          "pilar": "Engenharia de IA",
+          "trilha": "tech",
+          "category": "Outras ferramentas",
+          "primary_url": "https://www.reuters.com/legal/government/how-one-hacker-used-ai-agents-few-thousand-dollars-break-into-scores-sites-2026-10-19/",
+          "secondary_urls": []
+        },
+        {
+          "title": "Microsoft lança Project Perception para monitorar e conter agentes de IA desgovernados",
+          "pilar": "Protocolos & features",
+          "trilha": "tech",
+          "category": "Outras ferramentas",
+          "primary_url": "https://www.geekwire.com/2026/microsoft-unveils-tools-to-monitor-and-corral-rogue-ai-agents/",
+          "secondary_urls": []
+        }
+      ]
     }
   ],
   "tracks": {
     "medicina": {
-      "last_report": "2026-10-12",
-      "last_edition": 10
+      "last_report": "2026-10-19",
+      "last_edition": 11
     },
     "tech": {
       "last_report": "2026-10-14",
