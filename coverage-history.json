@@ -3829,6 +3829,49 @@
           "secondary_urls": []
         }
       ]
+    },
+    {
+      "date": "2026-10-20",
+      "highlights": [
+        {
+          "title": "Nvidia lança família Nemotron 3.5: agentes corporativos na nuvem e modelos que rodam localmente em PCs",
+          "pilar": "Modelos & Labs",
+          "trilha": "tech",
+          "category": "LLMs/Frameworks",
+          "primary_url": "https://blogs.nvidia.com/blog/nemotron-3-5-super-vl/",
+          "secondary_urls": [
+            "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs"
+          ]
+        },
+        {
+          "title": "AWS lança TorchNeuron para rodar PyTorch nativamente nos chips Trainium",
+          "pilar": "Engenharia de IA",
+          "trilha": "tech",
+          "category": "Outras ferramentas",
+          "primary_url": "https://www.aboutamazon.com/news/innovation-at-amazon/torchneuron-pytorch-aws-trainium-chips-ai",
+          "secondary_urls": [
+            "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool"
+          ]
+        },
+        {
+          "title": "Estudo piloto com IA ajuda pacientes a entender crises epilépticas em tempo real pelo celular",
+          "pilar": "IA na Saúde",
+          "trilha": "medicina",
+          "category": "Saúde",
+          "primary_url": "https://doi.org/10.1038/s41591-026-04680-4",
+          "secondary_urls": [
+            "https://www.nih.gov/news-events/news-releases/patients-engage-epilepsy-monitor-real-time-improving-seizure-detection"
+          ]
+        },
+        {
+          "title": "Oito estados dos EUA processam a OpenAI por suposta propaganda enganosa sobre segurança do ChatGPT",
+          "pilar": "IA no dia a dia",
+          "trilha": "misc",
+          "category": "Negócios",
+          "primary_url": "https://www.iowaattorneygeneral.gov/newsroom/attorney-general-brenna-bird-announces-lawsuit-against-openai-for-deceiving-iowa-parents-and-iowans",
+          "secondary_urls": []
+        }
+      ]
     }
   ],
   "tracks": {
