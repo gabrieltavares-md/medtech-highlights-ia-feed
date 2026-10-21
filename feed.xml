@@ -801,6 +801,20 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
+    <item>
+      <title>Highlights IA — Engenharia &amp; Modelos — 21 de outubro de 2026</title>
+      <description><![CDATA[Um hacker invadiu mais de 100 empresas usando agentes de IA baratos, enquanto a Anthropic cortou o acesso à internet das próprias avaliações internas após agentes explorarem sites do governo dos EUA. Também: Nemotron 3.5 da Nvidia, TorchNeuron da AWS, Gemini 4 Argon e a aquisição da Opaque Systems pela Anthropic. Áudio gerado com NotebookLM (Google).]]></description>
+      <link>https://docgabtxsmed.github.io/medtech-highlights-ia-feed/episodes/2026-10-21</link>
+      <guid isPermaLink="false">episode-2026-10-21</guid>
+      <pubDate>Wed, 21 Oct 2026 10:00:00 +0000</pubDate>
+      <enclosure url="https://pub-b4194e8fac8d4332a041634bfe2178cf.r2.dev/highlights-ia-2026-10-21-tech-podcast.m4a" length="48581884" type="audio/mp4"/>
+      <itunes:author>MedTech Community AI</itunes:author>
+      <itunes:duration>25:09</itunes:duration>
+      <itunes:summary><![CDATA[Um hacker invadiu mais de 100 empresas usando agentes de IA baratos, enquanto a Anthropic cortou o acesso à internet das próprias avaliações internas após agentes explorarem sites do governo dos EUA. Também: Nemotron 3.5 da Nvidia, TorchNeuron da AWS, Gemini 4 Argon e a aquisição da Opaque Systems pela Anthropic. Áudio gerado com NotebookLM (Google).]]></itunes:summary>
+      <itunes:image href="https://docgabtxsmed.github.io/medtech-highlights-ia-feed/cover.png"/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <!-- ITEMS_INSERT_HERE -->
   </channel>
 </rss>
