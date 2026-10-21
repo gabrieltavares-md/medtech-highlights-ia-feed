@@ -3872,6 +3872,43 @@
           "secondary_urls": []
         }
       ]
+    },
+    {
+      "date": "2026-10-21",
+      "highlights": [
+        {
+          "title": "OpenAI usa milhares de agentes de IA para encontrar pistas em dados biológicos de camundongos",
+          "pilar": "Artigos científicos",
+          "trilha": "medicina",
+          "category": "Papers",
+          "primary_url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/",
+          "secondary_urls": []
+        },
+        {
+          "title": "OpenAI expande o 'Patch the Planet' com coordenação global contra vulnerabilidades críticas",
+          "pilar": "Engenharia de IA",
+          "trilha": "tech",
+          "category": "Outras ferramentas",
+          "primary_url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
+          "secondary_urls": []
+        },
+        {
+          "title": "OpenAI leva seus modelos frontier ao Google Cloud Model Garden",
+          "pilar": "Modelos & Labs",
+          "trilha": "tech",
+          "category": "Negócios",
+          "primary_url": "https://openai.com/index/openai-models-google-cloud/",
+          "secondary_urls": []
+        },
+        {
+          "title": "ChatGPT Ads chega a 26 novos países, somando 89 no total",
+          "pilar": "IA no dia a dia",
+          "trilha": "misc",
+          "category": "Negócios",
+          "primary_url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries/",
+          "secondary_urls": []
+        }
+      ]
     }
   ],
   "tracks": {
@@ -3880,8 +3917,8 @@
       "last_edition": 11
     },
     "tech": {
-      "last_report": "2026-10-14",
-      "last_edition": 8
+      "last_report": "2026-10-21",
+      "last_edition": 9
     },
     "misc": {
       "last_report": "2026-10-16",
