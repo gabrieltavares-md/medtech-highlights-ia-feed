@@ -3909,6 +3909,43 @@
           "secondary_urls": []
         }
       ]
+    },
+    {
+      "date": "2026-10-22",
+      "highlights": [
+        {
+          "title": "OpenAI compra Orchestra Bio para acelerar desenvolvimento de medicamentos",
+          "pilar": "IA na Saúde",
+          "trilha": "medicina",
+          "category": "Saúde",
+          "primary_url": "https://openai.com/index/openai-to-acquire-orchestra-bio/",
+          "secondary_urls": []
+        },
+        {
+          "title": "Google leva Gemini com memória pessoal para o Android Auto",
+          "pilar": "IA no dia a dia",
+          "trilha": "misc",
+          "category": "Outras ferramentas",
+          "primary_url": "https://9to5google.com/2026/10/20/gemini-android-auto-personal-intelligence/",
+          "secondary_urls": []
+        },
+        {
+          "title": "Mistral lança Voxtral 3 para agentes de voz",
+          "pilar": "Modelos & Labs",
+          "trilha": "tech",
+          "category": "LLMs/Frameworks",
+          "primary_url": "https://mistral.ai/news/voxtral-3",
+          "secondary_urls": []
+        },
+        {
+          "title": "ChatGPT permite bloquear conversas sensíveis com PIN",
+          "pilar": "IA no dia a dia",
+          "trilha": "misc",
+          "category": "Outras ferramentas",
+          "primary_url": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/",
+          "secondary_urls": []
+        }
+      ]
     }
   ],
   "tracks": {
